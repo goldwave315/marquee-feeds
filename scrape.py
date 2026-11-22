@@ -337,6 +337,50 @@ def wonder(previous):
     return out
 
 
+SONGKICK_ICS = os.environ.get(
+    "SONGKICK_ICS",
+    "https://www.songkick.com/users/todayagain/calendars.ics?filter=tracked_artist")
+# Songkick lists every show by a tracked artist across the region; keep the ones a
+# Portland night out can reach.
+SONGKICK_PLACES = re.compile(
+    r", (Portland|Troutdale|Beaverton|Hillsboro|Gresham|Lake Oswego|Happy Valley|Milwaukie|"
+    r"Oregon City|Tigard), OR, US$|, (Ridgefield|Vancouver), WA, US$")
+
+
+def songkick():
+    """Aniss's Songkick calendar: shows by artists he tracks there (iCalendar)."""
+    text = get(SONGKICK_ICS).text
+    text = re.sub(r"\r?\n[ \t]", "", text)          # unfold continuation lines
+    out = []
+    for block in text.split("BEGIN:VEVENT")[1:]:
+        props = {}
+        for line in block.splitlines():
+            if ":" not in line:
+                continue
+            key, val = line.split(":", 1)
+            props[key.split(";")[0]] = (val.replace("\\,", ",").replace("\\;", ";")
+                                        .replace("\\n", " ").strip())
+        loc = props.get("LOCATION", "")
+        if not SONGKICK_PLACES.search(loc):
+            continue
+        uid = props.get("UID", "").split("@")[0]
+        m = re.match(r"(\d{4})(\d{2})(\d{2})", props.get("DTSTART", ""))
+        day = f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else None
+        summary = re.sub(r"\s*\(\d{1,2} \w{3} \d{2}\)\s*$", "", props.get("SUMMARY", ""))
+        venue = loc.split(",")[0].strip()
+        title = summary
+        if venue and summary.endswith(" at " + venue):
+            title = summary[: -len(" at " + venue)]
+        elif " at " in summary:
+            title = summary.rsplit(" at ", 1)[0]
+        url = (props.get("URL") or props.get("DESCRIPTION") or "").split("?")[0]
+        e = event("songkick", uid or f"{title}|{day}", venue or "Unknown venue", title, day, url)
+        e["tracked_artist"] = True
+        e["city"] = loc.split(",")[-3].strip() if loc.count(",") >= 3 else ""
+        out.append(e)
+    return out
+
+
 def site_up(url):
     try:
         r = session.get(url, timeout=20)
@@ -362,6 +406,7 @@ SOURCES = [
     ("Pioneer Courthouse Square",
      lambda prev: tribe("https://www.thesquarepdx.org", "Pioneer Courthouse Square", "square")),
     ("Edgefield", lambda prev: tribe("https://edgefieldconcerts.com", "McMenamins Edgefield", "edgefield")),
+    ("Songkick tracked artists", lambda prev: songkick()),
 ]
 
 WATCH_SITES = {
