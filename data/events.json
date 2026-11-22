@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-22T17:06:32+00:00",
+ "updated": "2026-11-22T22:04:29+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 131,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 78,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 35,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 53,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 23,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 46,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 68,
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-22T17:06:32+00:00"
+   "checked": "2026-11-22T22:04:29+00:00"
   }
  },
  "events": [
