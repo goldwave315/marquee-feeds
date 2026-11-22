@@ -1,63 +1,63 @@
 {
- "updated": "2026-11-22T06:28:27+00:00",
+ "updated": "2026-11-22T06:31:14+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 133,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 93,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 36,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 24,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 47,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 40,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-22T06:28:27+00:00"
+   "checked": "2026-11-22T06:31:14+00:00"
   }
  },
  "events": [
@@ -1833,7 +1833,7 @@
   },
   {
    "id": "etix:89516150",
-   "venue": "- Crystal Ballroom -",
+   "venue": "Crystal Ballroom",
    "title": "SOLD OUT: Angine de Poitrine",
    "support": "zouz",
    "date": "2026-12-10",
@@ -1982,13 +1982,13 @@
    "baseline": true
   },
   {
-   "id": "etix:77547428",
-   "venue": "- Crystal Ballroom -",
-   "title": "SOLD OUT: Angine de Poitrine",
-   "support": "zouz",
+   "id": "etix:55334627",
+   "venue": "Aladdin Theater",
+   "title": "Pokey LaFarge",
+   "support": "Cicada Rhythm",
    "date": "2026-12-11",
-   "url": "https://www.etix.com/ticket/p/77547428/sold-outangine-de-poitrine-portland-crystal-ballroom-",
-   "status": "not-on-sale",
+   "url": "https://www.etix.com/ticket/p/55334627/pokey-lafarge-portland-aladdin-theater",
+   "status": "on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -1997,13 +1997,13 @@
    "baseline": true
   },
   {
-   "id": "etix:55334627",
-   "venue": "Aladdin Theater",
-   "title": "Pokey LaFarge",
-   "support": "Cicada Rhythm",
+   "id": "etix:77547428",
+   "venue": "Crystal Ballroom",
+   "title": "SOLD OUT: Angine de Poitrine",
+   "support": "zouz",
    "date": "2026-12-11",
-   "url": "https://www.etix.com/ticket/p/55334627/pokey-lafarge-portland-aladdin-theater",
-   "status": "on-sale",
+   "url": "https://www.etix.com/ticket/p/77547428/sold-outangine-de-poitrine-portland-crystal-ballroom-",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -3557,6 +3557,21 @@
    "baseline": true
   },
   {
+   "id": "wonder:earlybirds-club-hip-hop-rb-night",
+   "venue": "Wonder Ballroom",
+   "title": "Earlybirds Club – Hip-Hop & R&B Night",
+   "support": "",
+   "date": "2027-01-09",
+   "url": "https://wonderballroom.com/event/earlybirds-club-hip-hop-rb-night/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-11-17T10:00:00-08:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
    "id": "wonder:anna-von-hausswolff-iconoclasts-tour",
    "venue": "Wonder Ballroom",
    "title": "Anna von Hausswolff: Iconoclasts Tour",
@@ -4322,21 +4337,6 @@
    "baseline": true
   },
   {
-   "id": "etix:48937056",
-   "venue": "- Keller Auditorium -",
-   "title": "The Piano Guys",
-   "support": "",
-   "date": "2027-02-04",
-   "url": "https://www.etix.com/ticket/p/48937056/the-piano-guys-portland-keller-auditorium-",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Aladdin Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
    "id": "etix:94290671",
    "venue": "Aladdin Theater",
    "title": "WINONA FIGHTER is BRUTAL & EXTREMELY UNDERRATED…the tour",
@@ -4363,6 +4363,21 @@
    "onsale": "2026-09-25T12:00:00-07:00",
    "source": "holocene",
    "source_name": "Holocene",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "etix:48937056",
+   "venue": "Keller Auditorium",
+   "title": "The Piano Guys",
+   "support": "",
+   "date": "2027-02-04",
+   "url": "https://www.etix.com/ticket/p/48937056/the-piano-guys-portland-keller-auditorium-",
+   "status": "not-on-sale",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   },
@@ -4892,13 +4907,13 @@
    "baseline": true
   },
   {
-   "id": "etix:33865479",
-   "venue": "- Crystal Ballroom -",
-   "title": "Trampled by Turtles",
+   "id": "etix:80770165",
+   "venue": "Aladdin Theater",
+   "title": "Ladysmith Black Mambazo",
    "support": "",
    "date": "2027-02-19",
-   "url": "https://www.etix.com/ticket/p/33865479/trampled-by-turtles-portland-crystal-ballroom-",
-   "status": "not-on-sale",
+   "url": "https://www.etix.com/ticket/p/80770165/ladysmith-black-mambazo-portland-aladdin-theater",
+   "status": "on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -4907,13 +4922,13 @@
    "baseline": true
   },
   {
-   "id": "etix:80770165",
-   "venue": "Aladdin Theater",
-   "title": "Ladysmith Black Mambazo",
+   "id": "etix:33865479",
+   "venue": "Crystal Ballroom",
+   "title": "Trampled by Turtles",
    "support": "",
    "date": "2027-02-19",
-   "url": "https://www.etix.com/ticket/p/80770165/ladysmith-black-mambazo-portland-aladdin-theater",
-   "status": "on-sale",
+   "url": "https://www.etix.com/ticket/p/33865479/trampled-by-turtles-portland-crystal-ballroom-",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -5312,6 +5327,21 @@
    "baseline": true
   },
   {
+   "id": "wonder:jack-kays-jack-kays-and-his-band",
+   "venue": "Wonder Ballroom",
+   "title": "Jack Kays – Jack Kays And His Band",
+   "support": "",
+   "date": "2027-02-28",
+   "url": "https://wonderballroom.com/event/jack-kays-jack-kays-and-his-band/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-09-28T05:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
    "id": "ticketweb:14405894",
    "venue": "Jack London Revue",
    "title": "Hot 8 Brass Band",
@@ -5640,6 +5670,21 @@
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "wonder:strongboi-headline-tour-2027",
+   "venue": "Wonder Ballroom",
+   "title": "strongboi headline tour 2027",
+   "support": "",
+   "date": "2027-03-06",
+   "url": "https://wonderballroom.com/event/strongboi-headline-tour-2027/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-06-09T09:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:31:14+00:00",
+   "baseline": false
   },
   {
    "id": "etix:74972995",
@@ -6857,6 +6902,21 @@
    "baseline": true
   },
   {
+   "id": "wonder:gang-of-youths",
+   "venue": "Wonder Ballroom",
+   "title": "Gang of Youths",
+   "support": "",
+   "date": "2027-04-03",
+   "url": "https://wonderballroom.com/event/gang-of-youths/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-11-11T07:00:00-08:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
    "id": "holocene:92053030",
    "venue": "Holocene",
    "title": "Rocco: The Comedy Romantic Tour (Pt. 1)",
@@ -6978,7 +7038,7 @@
   },
   {
    "id": "etix:91614562",
-   "venue": "- Keller Auditorium -",
+   "venue": "Keller Auditorium",
    "title": "Giggly Squad: The Gehls Gehl Tour",
    "support": "",
    "date": "2027-04-08",
@@ -7128,7 +7188,7 @@
   },
   {
    "id": "etix:91101671",
-   "venue": "- Crystal Ballroom -",
+   "venue": "Crystal Ballroom",
    "title": "Lambrini Girls: No Refunds Tour with support from Sprints",
    "support": "",
    "date": "2027-04-16",
@@ -7243,6 +7303,21 @@
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "wonder:rescheduled-moved-to-hawthorne-theatre-sim-hooman-world-tour",
+   "venue": "Wonder Ballroom",
+   "title": "*Rescheduled & Moved to Hawthorne Theatre* SiM – HOOMAN WORLD TOUR",
+   "support": "",
+   "date": "2027-04-21",
+   "url": "https://wonderballroom.com/event/rescheduled-moved-to-hawthorne-theatre-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-05-19T07:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   },
@@ -7922,6 +7997,21 @@
    "baseline": true
   },
   {
+   "id": "wonder:hazlett",
+   "venue": "Wonder Ballroom",
+   "title": "Hazlett",
+   "support": "",
+   "date": "2027-05-28",
+   "url": "https://wonderballroom.com/event/hazlett/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-06-15T10:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:31:14+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:80964016",
    "venue": "Revolution Hall",
    "title": "The Airborne Toxic Event - The Way Home 20 Year Anniversary Tour",
@@ -7945,6 +8035,21 @@
    "url": "https://wonderballroom.com/event/nsqk-presents-mosca/wonder-ballroom/portland-oregon/",
    "status": "",
    "announced": "2026-10-26T10:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "wonder:xana-where-else-would-i-go",
+   "venue": "Wonder Ballroom",
+   "title": "Xana – Where Else Would I Go?",
+   "support": "",
+   "date": "2027-06-18",
+   "url": "https://wonderballroom.com/event/xana-where-else-would-i-go/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-11-16T09:00:00-08:00",
    "onsale": null,
    "source": "wonder",
    "source_name": "Wonder Ballroom",
@@ -8083,81 +8188,6 @@
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "wonder:rescheduled-moved-to-hawthorne-theatre-sim-hooman-world-tour",
-   "venue": "Wonder Ballroom",
-   "title": "*Rescheduled & Moved to Hawthorne Theatre* SiM – HOOMAN WORLD TOUR",
-   "support": "",
-   "date": null,
-   "url": "https://wonderballroom.com/event/rescheduled-moved-to-hawthorne-theatre-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
-   "status": "",
-   "announced": "2026-05-19T07:00:00-07:00",
-   "onsale": null,
-   "source": "wonder",
-   "source_name": "Wonder Ballroom",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "wonder:earlybirds-club-hip-hop-rb-night",
-   "venue": "Wonder Ballroom",
-   "title": "Earlybirds Club – Hip-Hop & R&B Night",
-   "support": "",
-   "date": null,
-   "url": "https://wonderballroom.com/event/earlybirds-club-hip-hop-rb-night/wonder-ballroom/portland-oregon/",
-   "status": "",
-   "announced": "2026-11-17T10:00:00-08:00",
-   "onsale": null,
-   "source": "wonder",
-   "source_name": "Wonder Ballroom",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "wonder:gang-of-youths",
-   "venue": "Wonder Ballroom",
-   "title": "Gang of Youths",
-   "support": "",
-   "date": null,
-   "url": "https://wonderballroom.com/event/gang-of-youths/wonder-ballroom/portland-oregon/",
-   "status": "",
-   "announced": "2026-11-11T07:00:00-08:00",
-   "onsale": null,
-   "source": "wonder",
-   "source_name": "Wonder Ballroom",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "wonder:jack-kays-jack-kays-and-his-band",
-   "venue": "Wonder Ballroom",
-   "title": "Jack Kays – Jack Kays And His Band",
-   "support": "",
-   "date": null,
-   "url": "https://wonderballroom.com/event/jack-kays-jack-kays-and-his-band/wonder-ballroom/portland-oregon/",
-   "status": "",
-   "announced": "2026-09-28T05:00:00-07:00",
-   "onsale": null,
-   "source": "wonder",
-   "source_name": "Wonder Ballroom",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "wonder:xana-where-else-would-i-go",
-   "venue": "Wonder Ballroom",
-   "title": "Xana – Where Else Would I Go?",
-   "support": "",
-   "date": null,
-   "url": "https://wonderballroom.com/event/xana-where-else-would-i-go/wonder-ballroom/portland-oregon/",
-   "status": "",
-   "announced": "2026-11-16T09:00:00-08:00",
-   "onsale": null,
-   "source": "wonder",
-   "source_name": "Wonder Ballroom",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   }

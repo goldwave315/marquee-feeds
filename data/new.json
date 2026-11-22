@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-22T06:28:27+00:00",
+ "updated": "2026-11-22T06:31:14+00:00",
  "window_days": 14,
- "count": 0,
- "events": []
+ "count": 2,
+ "events": [
+  {
+   "id": "wonder:strongboi-headline-tour-2027",
+   "venue": "Wonder Ballroom",
+   "title": "strongboi headline tour 2027",
+   "support": "",
+   "date": "2027-03-06",
+   "url": "https://wonderballroom.com/event/strongboi-headline-tour-2027/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-06-09T09:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:31:14+00:00",
+   "baseline": false
+  },
+  {
+   "id": "wonder:hazlett",
+   "venue": "Wonder Ballroom",
+   "title": "Hazlett",
+   "support": "",
+   "date": "2027-05-28",
+   "url": "https://wonderballroom.com/event/hazlett/wonder-ballroom/portland-oregon/",
+   "status": "",
+   "announced": "2026-06-15T10:00:00-07:00",
+   "onsale": null,
+   "source": "wonder",
+   "source_name": "Wonder Ballroom",
+   "first_seen": "2026-11-22T06:31:14+00:00",
+   "baseline": false
+  }
+ ]
 }
