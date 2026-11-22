@@ -1,0 +1,2162 @@
+{
+ "etix:65038002": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:86386129": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36347493": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:90187834": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50476902": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:59224066": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36916561": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:88154444": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36469338": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:94434785": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:35054633": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47269957": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:90939965": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:90086202": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:64205006": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30241788": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:61233706": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47408418": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:56106710": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41549327": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:39161074": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:52582032": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38655516": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:90221796": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50221107": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47377019": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:70407603": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:82870240": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:95870738": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:97950899": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:93180478": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:71876197": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:32694648": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:48776452": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:42616781": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:44720856": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:74993592": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:66697949": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:87684712": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41737560": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:82138674": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49320816": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:59949944": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91055154": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:78436853": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:70741866": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80232497": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49920507": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50265931": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:73176207": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:59417770": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:65563353": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:69296420": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68494828": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:79948629": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:75830664": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:32301403": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:43710339": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:83449465": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:89316186": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45761095": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:35763427": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:79070971": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:71666833": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:89518340": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:39215187": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:75518166": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:34248095": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:92795681": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49234574": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68264366": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:61929359": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:73766197": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:75180596": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80560698": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:72924617": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:87872087": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:72420045": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47998328": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:59168154": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49245439": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:79230493": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:64371383": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:92834953": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:59594240": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:43913540": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47231395": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:84410515": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:92461949": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:65853898": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:99773010": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:42433332": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:86110925": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:52316729": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:94603946": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:59855681": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:89304668": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:81374758": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:48920297": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:42812493": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:54584960": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:93050804": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:54820713": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:44819323": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30921138": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:62479117": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:46754874": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:58604952": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:55888947": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:92282133": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:69780875": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:33938580": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:57215424": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45876528": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:43186261": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:83463584": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:58446890": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:92934349": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:71453109": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:87453810": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:95096640": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:69828668": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41106184": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45683875": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:71590476": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45287656": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:48850758": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:54814591": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49730994": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:55187444": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:56194896": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:84434265": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38357185": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91940693": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:97866523": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49532598": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:33093850": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36423231": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91554135": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:95614321": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:66160391": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:52962225": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47430112": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:82008250": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50577979": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:58008973": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:62407948": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:72341210": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:78895235": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:32891845": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:69921224": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49936209": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:49325770": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30185800": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50454498": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:57958333": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:57263739": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30431441": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:58804940": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:95972752": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38743141": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:55578509": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30191515": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47460859": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:99668038": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:69058105": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30492694": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:89263448": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:86641653": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:33087462": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:30403873": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:54210181": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:88534334": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:81350965": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:56319253": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47815560": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:63983917": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47279703": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41119896": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:87407069": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:65714859": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:83277371": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:95327385": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:56630167": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41962756": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:83102577": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:74972995": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:71714795": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36472671": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68450613": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:75262409": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:84263486": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:39021092": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:54402409": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:39361259": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:64155713": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:46117650": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:35673579": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47807179": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:87472996": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:56802832": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:99582487": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91156282": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:33683846": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45931401": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:85727898": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:60388694": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68185498": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:48642829": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:39040360": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91569349": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:66088410": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47075451": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:84004236": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45139740": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:96935603": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:37002337": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38790353": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50596559": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:84156917": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:92927751": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:77941948": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:76976454": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80964016": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:34434662": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:32713252": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38968586": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:47564925": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:40830725": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:53477310": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36374313": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68026462": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38666206": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:63564093": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:52472471": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:32952057": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:48494309": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80307484": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:63972028": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:94256309": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:89516150": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:77547428": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:55334627": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80605810": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:75662674": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:38815767": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:40559385": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:93170768": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:45431061": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68708051": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68309465": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:66870556": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:55592168": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:84384147": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:48937056": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:94290671": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:97553913": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:70423694": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:96546512": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:73037278": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:70698019": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36455150": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:73375478": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:64714422": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:65530668": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80770165": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:33865479": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:78645905": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:75251922": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:57112182": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36069643": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:39308269": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41256109": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:50293620": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:41230690": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:51834096": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:97238538": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:60927424": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:98854992": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:71350484": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:36885413": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:64597375": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:31464870": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:43939462": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:44752985": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:55140873": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:74384514": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:57495192": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91614562": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:74207635": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91101671": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:70915964": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:58671767": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:86220763": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:79555630": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:80509440": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:62207956": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:62407073": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:56883326": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:68504589": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:66430813": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:88121887": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:97525643": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:91810152": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "etix:44288175": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15058453": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14269614": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14971783": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14412174": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14287874": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14971943": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14233344": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15059153": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14887033": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14971603": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15027083": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15026823": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15020753": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14971853": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14394344": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14407464": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15063573": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14364634": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14341334": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14341344": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14410444": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14343944": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14366814": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14374054": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14374064": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14261134": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14364354": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14366284": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14405844": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14321274": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14439104": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15053193": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15053213": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14419534": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15058883": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14822433": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14317424": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14021784": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14348204": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14360194": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14021624": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14862303": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14240254": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14972893": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14021734": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14992053": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14862433": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14267294": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14347494": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14021684": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14210524": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14862233": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14397894": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14372644": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14021664": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15058813": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14357184": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14453354": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14374424": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14394134": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14448654": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14448834": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14447164": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14397794": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15060783": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14366664": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14252634": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15059973": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14427304": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14427334": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14341564": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15015973": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14397904": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14397914": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14390574": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14364654": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14422154": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14449474": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14449494": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14405894": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14374074": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14369614": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14373194": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14371874": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14862313": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14373144": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14373324": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15030043": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14406654": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:14366604": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "ticketweb:15061003": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/dj-brownie-of-the-disco-biscuits--215105": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/honeycomb-214465": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/babes-in-canyon-whispers-echoes-tour-213958": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/north-mississippi-allstars-213635": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/eldridge-gravy-the-court-supreme-214195": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-rebound-4-year-anniversary-featuring-the-iconic-mikeq-213906": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/champagne-bubblebath-213475": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/henge-night-1--212858": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/dtf-deitch-teitel-fribush-212431": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/come-back-to-earth-mac-miller-live-band-tribute-211846": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/boombox-2-nights-4-23-4-24--210658": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/garcia-birthday-band-night-2-11-28--209682": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/garcia-birthday-band-night-1-11-27--209679": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/1788-l-209111": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/surfer-girl-the-midnight-tour-209108": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-motet-new-year-s-eve-208944": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-motet-funk-is-dead-208943": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/twin-fin-the-california-sober-winter-tour-207052": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/henge-night-2--194797": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/daft-disko-portland-200442": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/ripe-204637": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-fretliners-when-the-kettle-sings-tour-201773": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/city-of-the-sun-198494": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:earlybirds-club-hip-hop-rb-night": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:slow-crush": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:racing-mount-pleasant": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:xana-where-else-would-i-go": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:gang-of-youths": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:leo-middea-not%c3%adcias-de-puglia-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:sophia-stel-the-greatest-tour-of-all-time": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:noah-rinker": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:getdown-services": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:boy-throbs-real-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:nsqk-presents-mosca": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:destroy-boys-2": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:gus-dapperton-4-dear-life-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:jersey": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:caroline-rose-2": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:sleaford-mods-2": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:whitey-morgan-and-the-78s-2": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:rare-americans-welcome-to-crooked-city-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:wolves-in-the-throne-room": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:the-movement-tour-winter-2027": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:jack-kays-jack-kays-and-his-band": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:valley-do-you-need-to-be-entertained-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:moved-to-roseland-theater-frost-children": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:new-constellations-it-comes-in-waves-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:tiny-habits-the-keepers-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:jalen-ngonda-doctrine-of-love-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:j-fell-nite-wave-present-the-cure-depeche-mode-new-order-tribute-night": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:feeble-little-horse-bitknot-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:rescheduled-moved-to-hawthorne-theatre-sim-hooman-world-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "wonder:anna-von-hausswolff-iconoclasts-tour": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:80717807": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:50070290": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:86481210": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:62961141": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:52584430": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:40974314": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:59598144": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:52044054": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:66675165": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:95218364": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:62777213": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:46707871": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:43232147": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:83125422": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:90460512": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:78551275": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:99205532": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:65149336": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:57391778": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:62355048": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:45205401": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:45458927": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:95528223": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:57344181": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:53208442": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:77746382": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:40491785": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:39628518": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:44368005": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:71938595": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:47171298": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:34393956": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:30668154": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:45782678": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:41621050": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:57626257": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:55502710": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:38131370": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:70319745": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:62171577": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:50716880": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:86054663": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:92053030": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:61640364": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:95443127": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:36176248": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "holocene:62079453": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22890": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22729": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22939": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22953": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22942": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22879": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22947": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22895": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23020": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22934": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22896": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22881": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22882": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23029": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22883": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23032": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22884": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23027": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22885": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:20360": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22758": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23035": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22886": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22887": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23039": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23043": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22936": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22928": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23037": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22733": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22737": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22932": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23023": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23046": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22945": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22950": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23041": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22924": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:23049": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "square:22987": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "edgefield:12970": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "edgefield:12977": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ },
+ "edgefield:12946": {
+  "first_seen": "2026-11-22T06:28:27+00:00",
+  "baseline": true
+ }
+}
