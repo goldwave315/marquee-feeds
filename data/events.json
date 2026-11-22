@@ -1,218 +1,71 @@
 {
- "updated": "2026-11-22T08:27:12+00:00",
+ "updated": "2026-11-22T17:06:32+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
-   "count": 133,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "count": 131,
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
-   "count": 93,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "count": 91,
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
-   "count": 79,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "count": 78,
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 35,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 53,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "The Get Down": {
    "ok": true,
-   "count": 24,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "count": 23,
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Holocene": {
    "ok": true,
-   "count": 47,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "count": 46,
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "checked": "2026-11-22T17:06:32+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
-   "count": 66,
-   "checked": "2026-11-22T08:27:12+00:00"
+   "count": 68,
+   "checked": "2026-11-22T17:06:32+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-22T08:27:12+00:00"
+   "checked": "2026-11-22T17:06:32+00:00"
   }
  },
  "events": [
-  {
-   "id": "etix:38968586",
-   "venue": "Aladdin Theater",
-   "title": "Paula Poundstone",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://www.aladdin-theater.com",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Aladdin Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true,
-   "sold_out_seen": "2026-11-22T06:48:51+00:00",
-   "sold_out_baseline": true,
-   "status_history": [
-    [
-     "2026-11-22T06:48:51+00:00",
-     "sold-out"
-    ],
-    [
-     "2026-11-22T08:27:12+00:00",
-     "not-on-sale"
-    ]
-   ]
-  },
-  {
-   "id": "holocene:80717807",
-   "venue": "Holocene",
-   "title": "Laffy Taffy Presents: Twerky Twerky Twerky (A Friendsgiving Function)",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://www.holocene.org/calendar",
-   "status": "",
-   "announced": "2026-10-30T10:00:00-07:00",
-   "onsale": "2026-10-30T10:00:00-07:00",
-   "source": "holocene",
-   "source_name": "Holocene",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14021784",
-   "venue": "Jack London Revue",
-   "title": "BURLY-Q REVUE",
-   "support": "Soul'd Out Presents",
-   "date": "2026-11-21",
-   "url": "https://www.jacklondonrevue.com/tm-event/burly-q-revue-7/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Jack London Revue",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14317424",
-   "venue": "Jack London Revue",
-   "title": "FOX WALKER, EARL GRACIOUS BAND, LIQUID SUN",
-   "support": "Soul'd Out Presents",
-   "date": "2026-11-21",
-   "url": "https://www.jacklondonrevue.com/tm-event/fox-walker-earl-gracious-band-liquid-sun/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Jack London Revue",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:86386129",
-   "venue": "Mississippi Studios",
-   "title": "Bobby Short Shorts: An Evening of Grateful Dead Music",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://mississippistudios.com",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:65038002",
-   "venue": "Polaris Hall",
-   "title": "The Teacher Show: Comedy from the Classroom (Night 2)",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://mississippistudios.com",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:91940693",
-   "venue": "Revolution Hall",
-   "title": "Phoebe Robinson: Feral & Fired Up!",
-   "support": "Adam Pasi",
-   "date": "2026-11-21",
-   "url": "https://www.etix.com/ticket/p/91940693/phoebe-robinsonferal-fired-up-portland-revolution-hall",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Revolution Hall + Show Bar",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:97866523",
-   "venue": "Revolution Hall",
-   "title": "Video Dance Attack Presents: Studio 54",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://www.revolutionhall.com",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Revolution Hall + Show Bar",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-rebound-4-year-anniversary-featuring-the-iconic-mikeq-213906",
-   "venue": "The Get Down",
-   "title": "The Rebound 4 Year Anniversary featuring the Iconic MikeQ",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://www.tixr.com/groups/thegetdownpdx/events/the-rebound-4-year-anniversary-featuring-the-iconic-mikeq-213906",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "getdown",
-   "source_name": "The Get Down",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
   {
    "id": "songkick:43419248",
    "venue": "Aladdin Theater",
@@ -2613,6 +2466,23 @@
    "source_name": "Star Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "songkick:43501745",
+   "venue": "Star Theater",
+   "title": "Rahzel and Ras Kass",
+   "support": "",
+   "date": "2026-12-13",
+   "url": "https://www.songkick.com/concerts/43501745-rahzel-at-star-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T17:06:32+00:00",
+   "baseline": false
   },
   {
    "id": "holocene:57391778",
@@ -6628,6 +6498,21 @@
    "baseline": true
   },
   {
+   "id": "ticketweb:14373324",
+   "venue": "Jack London Revue",
+   "title": "Jeff Lorber – Late Show",
+   "support": "Biamp Portland Jazz Festival Presented by PDX Jazz",
+   "date": "2027-03-12",
+   "url": "https://www.jacklondonrevue.com/tm-event/jeff-lorber-late-show/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Jack London Revue",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:89304668",
    "venue": "Polaris Hall",
    "title": "Christian Kuria: EAST TOUR",
@@ -6864,6 +6749,21 @@
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "ticketweb:15030043",
+   "venue": "Jack London Revue",
+   "title": "CHARLIE BALLANTINE",
+   "support": "Soul'd Out Presents",
+   "date": "2027-03-17",
+   "url": "https://www.jacklondonrevue.com/tm-event/charlie-ballantine/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Jack London Revue",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   },
@@ -9194,6 +9094,23 @@
    "source_name": "Edgefield",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "songkick:43534780",
+   "venue": "McMenamins Edgefield Amphitheater",
+   "title": "Ben Folds",
+   "support": "",
+   "date": "2027-07-24",
+   "url": "https://www.songkick.com/concerts/43534780-ben-folds-at-mcmenamins-edgefield-amphitheater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Troutdale",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T17:06:32+00:00",
+   "baseline": false
   },
   {
    "id": "songkick:43525244",
