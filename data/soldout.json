@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:48:51+00:00",
+ "updated": "2026-11-22T08:21:28+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
  "count": 19,
  "events": [

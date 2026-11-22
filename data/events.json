@@ -1,63 +1,68 @@
 {
- "updated": "2026-11-22T06:48:51+00:00",
+ "updated": "2026-11-22T08:21:28+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 133,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 93,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Star Theater": {
    "ok": true,
-   "count": 36,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "count": 35,
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Jack London Revue": {
    "ok": true,
-   "count": 55,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "count": 53,
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 24,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 47,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
-   "count": 40,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "count": 39,
+   "checked": "2026-11-22T08:21:28+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
+  },
+  "Songkick tracked artists": {
+   "ok": false,
+   "error": "HTTPError: 406 Client Error: Not Acceptable for url: https://www.songkick.com/users/todayagain/calendars.ics?filter=tracked_artist",
+   "checked": "2026-11-22T08:21:28+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-22T06:48:51+00:00"
+   "checked": "2026-11-22T08:21:28+00:00"
   }
  },
  "events": [
@@ -139,21 +144,6 @@
    "baseline": true
   },
   {
-   "id": "square:22890",
-   "venue": "Pioneer Courthouse Square",
-   "title": "Ford Mach E Tour",
-   "support": "",
-   "date": "2026-11-21",
-   "url": "https://www.thesquarepdx.org/event/ford-mach-e-tour/",
-   "status": "",
-   "announced": "2026-10-28 11:26:42",
-   "onsale": null,
-   "source": "square",
-   "source_name": "Pioneer Courthouse Square",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
    "id": "etix:65038002",
    "venue": "Polaris Hall",
    "title": "The Teacher Show: Comedy from the Classroom (Night 2)",
@@ -184,17 +174,17 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:15058453",
-   "venue": "Star Theater",
-   "title": "TWIRL – AUTUMN DISCO",
-   "support": "TWIRL : Autumn Disco",
+   "id": "etix:97866523",
+   "venue": "Revolution Hall",
+   "title": "Video Dance Attack Presents: Studio 54",
+   "support": "",
    "date": "2026-11-21",
-   "url": "https://www.startheaterportland.com/tm-event/twirl-autumn-disco/",
-   "status": "",
+   "url": "https://www.revolutionhall.com",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Star Theater",
+   "source": "etix",
+   "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   },
@@ -5931,21 +5921,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14373324",
-   "venue": "Jack London Revue",
-   "title": "Jeff Lorber – Late Show",
-   "support": "Biamp Portland Jazz Festival Presented by PDX Jazz",
-   "date": "2027-03-12",
-   "url": "https://www.jacklondonrevue.com/tm-event/jeff-lorber-late-show/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Jack London Revue",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
    "id": "etix:89304668",
    "venue": "Polaris Hall",
    "title": "Christian Kuria: EAST TOUR",
@@ -6182,21 +6157,6 @@
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:15030043",
-   "venue": "Jack London Revue",
-   "title": "CHARLIE BALLANTINE",
-   "support": "Soul'd Out Presents",
-   "date": "2027-03-17",
-   "url": "https://www.jacklondonrevue.com/tm-event/charlie-ballantine/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Jack London Revue",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   },
@@ -8207,21 +8167,6 @@
    "date": "2027-09-22",
    "url": "https://www.etix.com/ticket/p/32713252/welcome-to-night-valeattack-of-the-space-people-portland-revolution-hall",
    "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Revolution Hall + Show Bar",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:97866523",
-   "venue": "Show Bar",
-   "title": "Video Dance Attack Presents: Studio 54",
-   "support": "",
-   "date": null,
-   "url": "https://www.etix.com/ticket/p/97866523/video-dance-attack-presentsstudio-54-portland-show-bar-at-revolution-hall",
-   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
