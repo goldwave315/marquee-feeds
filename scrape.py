@@ -58,6 +58,7 @@ def pt_date_from_iso(value):
     if not value:
         return None
     v = value.strip().replace("Z", "+00:00")
+    v = re.sub(r"([+-]\d{2})(\d{2})$", r"\1:\2", v)  # -0700 -> -07:00
     try:
         dt = datetime.fromisoformat(v)
     except ValueError:
@@ -103,7 +104,7 @@ def event(source, native_id, venue, title, day, url, support="", status="", anno
           onsale=None):
     return {
         "id": f"{source}:{native_id}",
-        "venue": clean(venue),
+        "venue": clean(venue).strip(" -–—"),
         "title": clean(title),
         "support": clean(support) if support and clean(support).lower() != "null" else "",
         "date": day,
@@ -318,9 +319,16 @@ def wonder(previous):
         if not day and link:
             try:
                 page = BeautifulSoup(get(link).text, "html.parser")
-                title_tag = page.title.get_text() if page.title else ""
-                m = re.search(r"([A-Z][a-z]+ \d{1,2}, \d{4})", title_tag)
-                day = parse_loose_date(m.group(1)) if m else None
+                # schema.org Event on the page: "startDate": "2027-04-03T20:00:00-0700"
+                for s in page.find_all("script", type="application/ld+json"):
+                    m = re.search(r'"startDate"\s*:\s*"(\d{4}-\d{2}-\d{2})', s.get_text())
+                    if m:
+                        day = m.group(1)
+                        break
+                if not day:
+                    title_tag = page.title.get_text() if page.title else ""
+                    m = re.search(r"([A-Z][a-z]+ \d{1,2}, \d{4})", title_tag)
+                    day = parse_loose_date(m.group(1)) if m else None
                 time.sleep(0.5)
             except requests.RequestException:
                 day = None
