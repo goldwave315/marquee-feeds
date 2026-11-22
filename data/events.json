@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-22T08:21:28+00:00",
+ "updated": "2026-11-22T08:27:12+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 133,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 93,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 35,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 53,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 24,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 47,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   },
   "Songkick tracked artists": {
-   "ok": false,
-   "error": "HTTPError: 406 Client Error: Not Acceptable for url: https://www.songkick.com/users/todayagain/calendars.ics?filter=tracked_artist",
-   "checked": "2026-11-22T08:21:28+00:00"
+   "ok": true,
+   "count": 66,
+   "checked": "2026-11-22T08:27:12+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-22T08:21:28+00:00"
+   "checked": "2026-11-22T08:27:12+00:00"
   }
  },
  "events": [
@@ -72,8 +72,8 @@
    "title": "Paula Poundstone",
    "support": "",
    "date": "2026-11-21",
-   "url": "https://www.etix.com/ticket/p/38968586/paula-poundstone-portland-aladdin-theater",
-   "status": "sold-out",
+   "url": "https://www.aladdin-theater.com",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -81,7 +81,17 @@
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true,
    "sold_out_seen": "2026-11-22T06:48:51+00:00",
-   "sold_out_baseline": true
+   "sold_out_baseline": true,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "sold-out"
+    ],
+    [
+     "2026-11-22T08:27:12+00:00",
+     "not-on-sale"
+    ]
+   ]
   },
   {
    "id": "holocene:80717807",
@@ -134,8 +144,8 @@
    "title": "Bobby Short Shorts: An Evening of Grateful Dead Music",
    "support": "",
    "date": "2026-11-21",
-   "url": "https://www.etix.com/ticket/p/86386129/bobby-short-shortsan-evening-of-grateful-dead-music-portland-mississippi-studios",
-   "status": "on-sale",
+   "url": "https://mississippistudios.com",
+   "status": "",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -149,7 +159,7 @@
    "title": "The Teacher Show: Comedy from the Classroom (Night 2)",
    "support": "",
    "date": "2026-11-21",
-   "url": "https://www.etix.com/ticket/p/65038002/the-teacher-showcomedy-from-the-classroom-night-2-portland-polaris-hall",
+   "url": "https://mississippistudios.com",
    "status": "",
    "announced": null,
    "onsale": null,
@@ -201,6 +211,23 @@
    "source": "getdown",
    "source_name": "The Get Down",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43419248",
+   "venue": "Aladdin Theater",
+   "title": "Haley Heynderickx",
+   "support": "",
+   "date": "2026-11-22",
+   "url": "https://www.songkick.com/concerts/43419248-haley-heynderickx-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -293,6 +320,23 @@
    "source": "ticketweb",
    "source_name": "Star Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43449518",
+   "venue": "Aladdin Theater",
+   "title": "Haley Heynderickx",
+   "support": "",
+   "date": "2026-11-23",
+   "url": "https://www.songkick.com/concerts/43449518-haley-heynderickx-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -1041,6 +1085,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43486111",
+   "venue": "Mississippi Studios",
+   "title": "Big Star and Big Star Quintet",
+   "support": "",
+   "date": "2026-12-03",
+   "url": "https://www.songkick.com/concerts/43486111-big-star-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:30241788",
    "venue": "Mississippi Studios",
    "title": "Gauri B",
@@ -1103,6 +1164,23 @@
    "sold_out_baseline": true
   },
   {
+   "id": "songkick:43428194",
+   "venue": "Hawthorne Theatre",
+   "title": "Unkle",
+   "support": "",
+   "date": "2026-12-04",
+   "url": "https://www.songkick.com/concerts/43428194-unkle-at-hawthorne-theatre",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "holocene:95218364",
    "venue": "Holocene",
    "title": "Emo Nite at Holocene presented by Emo Nite LA",
@@ -1145,6 +1223,23 @@
    "source": "ticketweb",
    "source_name": "Jack London Revue",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43443879",
+   "venue": "McMenamins Crystal Ballroom",
+   "title": "Kamasi Washington and Bartees Strange",
+   "support": "",
+   "date": "2026-12-04",
+   "url": "https://www.songkick.com/concerts/43443879-kamasi-washington-at-mcmenamins-crystal-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -1242,6 +1337,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43313706",
+   "venue": "Star Theater",
+   "title": "The Bad Plus",
+   "support": "",
+   "date": "2026-12-04",
+   "url": "https://www.songkick.com/concerts/43313706-bad-plus-at-star-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-fretliners-when-the-kettle-sings-tour-201773",
    "venue": "The Get Down",
    "title": "The Fretliners - When The Kettle Sings Tour",
@@ -1284,6 +1396,23 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43446865",
+   "venue": "Hawthorne Hideaway",
+   "title": "The Grouch & Eligh",
+   "support": "",
+   "date": "2026-12-05",
+   "url": "https://www.songkick.com/concerts/43446865-grouch-and-eligh-at-hawthorne-hideaway",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -1559,6 +1688,23 @@
    "sold_out_baseline": true
   },
   {
+   "id": "songkick:43350745",
+   "venue": "Polaris Hall",
+   "title": "WHY?",
+   "support": "",
+   "date": "2026-12-06",
+   "url": "https://www.songkick.com/concerts/43350745-why-at-polaris-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:62407948",
    "venue": "Revolution Hall",
    "title": "Choir! Choir! Choir!",
@@ -1721,6 +1867,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43211819",
+   "venue": "Aladdin Theater",
+   "title": "THE BOBBY LEES",
+   "support": "",
+   "date": "2026-12-09",
+   "url": "https://www.songkick.com/concerts/43211819-bobby-lees-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -2056,6 +2219,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43334122",
+   "venue": "Jack London Revue",
+   "title": "Mark Guiliana",
+   "support": "",
+   "date": "2026-12-11",
+   "url": "https://www.songkick.com/concerts/43334122-mark-guiliana-at-jack-london-revue",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:93180478",
    "venue": "Mississippi Studios",
    "title": "SOLD OUT: Willi Carlisle - The Universal Bubba Tour",
@@ -2130,6 +2310,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43419253",
+   "venue": "Polaris Hall",
+   "title": "Mason Jennings",
+   "support": "",
+   "date": "2026-12-11",
+   "url": "https://www.songkick.com/concerts/43419253-mason-jennings-at-polaris-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -2448,6 +2645,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43470140",
+   "venue": "Aladdin Theater",
+   "title": "JD McPherson",
+   "support": "",
+   "date": "2026-12-15",
+   "url": "https://www.songkick.com/concerts/43470140-jd-mcpherson-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:80605810",
    "venue": "Aladdin Theater",
    "title": "JD McPherson - SOCKS: A Rock N’ Roll Christmas Tour",
@@ -2675,6 +2889,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43524046",
+   "venue": "Alberta Street Pub",
+   "title": "Cool Nutz",
+   "support": "",
+   "date": "2026-12-18",
+   "url": "https://www.songkick.com/concerts/43524046-cool-nutz-at-alberta-street-pub",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "holocene:45205401",
    "venue": "Holocene",
    "title": "SATISFACTION (EDM Throwbacks Party)",
@@ -2702,6 +2933,23 @@
    "source": "ticketweb",
    "source_name": "Jack London Revue",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43460988",
+   "venue": "Mississippi Studios",
+   "title": "Gaytheist",
+   "support": "",
+   "date": "2026-12-18",
+   "url": "https://www.songkick.com/concerts/43460988-gaytheist-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -3245,6 +3493,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43529608",
+   "venue": "Mississippi Studios",
+   "title": "The Macks",
+   "support": "",
+   "date": "2026-12-31",
+   "url": "https://www.songkick.com/concerts/43529608-macks-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "square:22987",
    "venue": "Pioneer Courthouse Square",
    "title": "NEW YEAR’S EVE DOWNTOWN PRESENTED BY BOEING",
@@ -3275,6 +3540,40 @@
    "baseline": true
   },
   {
+   "id": "songkick:43404470",
+   "venue": "Revolution Hall",
+   "title": "The Disco Biscuits",
+   "support": "",
+   "date": "2026-12-31",
+   "url": "https://www.songkick.com/concerts/43404470-disco-biscuits-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43412770",
+   "venue": "Revolution Hall",
+   "title": "The Disco Biscuits",
+   "support": "",
+   "date": "2026-12-31",
+   "url": "https://www.songkick.com/concerts/43412770-disco-biscuits-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:95972752",
    "venue": "Revolution Hall",
    "title": "The Disco Biscuits NYE",
@@ -3287,6 +3586,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43412781",
+   "venue": "Roseland Theater",
+   "title": "Bridge City Sinners",
+   "support": "",
+   "date": "2026-12-31",
+   "url": "https://www.songkick.com/concerts/43412781-bridge-city-sinners-at-roseland-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -3350,6 +3666,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43404471",
+   "venue": "Revolution Hall",
+   "title": "The Disco Biscuits",
+   "support": "",
+   "date": "2027-01-01",
+   "url": "https://www.songkick.com/concerts/43404471-disco-biscuits-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "holocene:95528223",
    "venue": "Holocene",
    "title": "CUMBIATRON: THE CUMBIA RAVE",
@@ -3407,6 +3740,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43404473",
+   "venue": "Revolution Hall",
+   "title": "The Disco Biscuits",
+   "support": "",
+   "date": "2027-01-02",
+   "url": "https://www.songkick.com/concerts/43404473-disco-biscuits-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -3500,6 +3850,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43516544",
+   "venue": "Mississippi Studios",
+   "title": "Family Worship Center",
+   "support": "",
+   "date": "2027-01-08",
+   "url": "https://www.songkick.com/concerts/43516544-family-worship-center-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:65563353",
    "venue": "Mississippi Studios",
    "title": "Family Worship Center & White Lightning Co. (Album Release)",
@@ -3512,6 +3879,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43522235",
+   "venue": "Realm",
+   "title": "The Glitch Mob",
+   "support": "",
+   "date": "2027-01-08",
+   "url": "https://www.songkick.com/concerts/43522235-glitch-mob-at-realm",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -3557,6 +3941,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43523728",
+   "venue": "The Get Down",
+   "title": "Eldridge Gravy & The Court Supreme",
+   "support": "",
+   "date": "2027-01-09",
+   "url": "https://www.songkick.com/concerts/43523728-eldridge-gravy-and-the-court-supreme-at-get-down",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -3620,6 +4021,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43529743",
+   "venue": "Polaris Hall",
+   "title": "Swirlies",
+   "support": "",
+   "date": "2027-01-12",
+   "url": "https://www.songkick.com/concerts/43529743-swirlies-at-polaris-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:79948629",
    "venue": "Mississippi Studios",
    "title": "Local Love Letter #32: Unspeakable Carnage",
@@ -3677,6 +4095,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43529818",
+   "venue": "Mississippi Studios",
+   "title": "The Builders and The Butchers",
+   "support": "",
+   "date": "2027-01-15",
+   "url": "https://www.songkick.com/concerts/43529818-builders-and-the-butchers-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -3860,6 +4295,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43465417",
+   "venue": "Mississippi Studios",
+   "title": "Taper's choice",
+   "support": "",
+   "date": "2027-01-22",
+   "url": "https://www.songkick.com/concerts/43465417-tapers-choice-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:79070971",
    "venue": "Polaris Hall",
    "title": "Angela Autumn",
@@ -3872,6 +4324,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43440670",
+   "venue": "Polaris Hall",
+   "title": "Angela Autumn",
+   "support": "",
+   "date": "2027-01-22",
+   "url": "https://www.songkick.com/concerts/43440670-angela-autumn-at-polaris-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -4010,6 +4479,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43185598",
+   "venue": "Hollywood Theatre",
+   "title": "Bonnie 'Prince' Billy",
+   "support": "",
+   "date": "2027-01-28",
+   "url": "https://www.songkick.com/concerts/43185598-bonnie-prince-billy-at-hollywood-theatre",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "holocene:44368005",
    "venue": "Holocene",
    "title": "Madds Buckley 2026/2027 North American Tour",
@@ -4115,6 +4601,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43160775",
+   "venue": "Aladdin Theater",
+   "title": "Bonnie 'Prince' Billy",
+   "support": "",
+   "date": "2027-01-30",
+   "url": "https://www.songkick.com/concerts/43160775-bonnie-prince-billy-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:68309465",
    "venue": "Aladdin Theater",
    "title": "Bonnie “Prince” Billy (Night 1)",
@@ -4217,6 +4720,23 @@
    "source": "getdown",
    "source_name": "The Get Down",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43160776",
+   "venue": "Aladdin Theater",
+   "title": "Bonnie 'Prince' Billy",
+   "support": "",
+   "date": "2027-01-31",
+   "url": "https://www.songkick.com/concerts/43160776-bonnie-prince-billy-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -4550,6 +5070,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43527841",
+   "venue": "Moda Center",
+   "title": "Bigger Than Life Fest 2027",
+   "support": "",
+   "date": "2027-02-06",
+   "url": "https://www.songkick.com/festivals/3806052-bigger-than-life-fest/id/43527841-bigger-than-life-fest-2027",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:56319253",
    "venue": "Revolution Hall",
    "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.’s Document",
@@ -4697,6 +5234,23 @@
    "source": "holocene",
    "source_name": "Holocene",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43515032",
+   "venue": "The Showdown",
+   "title": "Mariee Sioux",
+   "support": "",
+   "date": "2027-02-11",
+   "url": "https://www.songkick.com/concerts/43515032-mariee-sioux-at-showdown",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -4892,6 +5446,23 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43514900",
+   "venue": "Moda Center",
+   "title": "Phoebe Bridgers and Grouper",
+   "support": "",
+   "date": "2027-02-17",
+   "url": "https://www.songkick.com/concerts/43514900-phoebe-bridgers-at-moda-center",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -5195,6 +5766,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43493115",
+   "venue": "Star Theater",
+   "title": "Charlie Hunter",
+   "support": "",
+   "date": "2027-02-21",
+   "url": "https://www.songkick.com/concerts/43493115-charlie-hunter-at-star-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:49245439",
    "venue": "Polaris Hall",
    "title": "Powerplant",
@@ -5297,6 +5885,23 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43416680",
+   "venue": "Aladdin Theater",
+   "title": "G. Love & Special Sauce and G. Love",
+   "support": "",
+   "date": "2027-02-27",
+   "url": "https://www.songkick.com/concerts/43416680-g-love-and-special-sauce-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -5447,6 +6052,23 @@
    "source": "wonder",
    "source_name": "Wonder Ballroom",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43474256",
+   "venue": "Wonder Ballroom",
+   "title": "Caroline Rose",
+   "support": "",
+   "date": "2027-03-02",
+   "url": "https://www.songkick.com/concerts/43474256-caroline-rose-at-wonder-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -5707,6 +6329,23 @@
    "baseline": false
   },
   {
+   "id": "songkick:43509191",
+   "venue": "Revolution Hall",
+   "title": "CHVRCHES",
+   "support": "",
+   "date": "2027-03-07",
+   "url": "https://www.songkick.com/concerts/43509191-chvrches-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:74972995",
    "venue": "Revolution Hall",
    "title": "SOLD OUT: CHVRCHES - LIVE 2027",
@@ -5722,6 +6361,23 @@
    "baseline": true,
    "sold_out_seen": "2026-11-22T06:48:51+00:00",
    "sold_out_baseline": true
+  },
+  {
+   "id": "songkick:43478989",
+   "venue": "Revolution Hall",
+   "title": "CHVRCHES",
+   "support": "",
+   "date": "2027-03-08",
+   "url": "https://www.songkick.com/concerts/43478989-chvrches-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
   },
   {
    "id": "etix:71714795",
@@ -5768,6 +6424,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43518000",
+   "venue": "Polaris Hall",
+   "title": "Cursive",
+   "support": "",
+   "date": "2027-03-09",
+   "url": "https://www.songkick.com/concerts/43518000-cursive-at-polaris-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -5873,6 +6546,40 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43530746",
+   "venue": "Revolution Hall",
+   "title": "Oteil Burbridge",
+   "support": "",
+   "date": "2027-03-11",
+   "url": "https://www.songkick.com/concerts/43530746-oteil-burbridge-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43440679",
+   "venue": "Revolution Hall",
+   "title": "Oteil and Friends",
+   "support": "",
+   "date": "2027-03-11",
+   "url": "https://www.songkick.com/concerts/43440679-oteil-and-friends-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -6356,6 +7063,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43525101",
+   "venue": "Aladdin Theater",
+   "title": "Rickshaw Billie's Burger Patrol",
+   "support": "",
+   "date": "2027-03-22",
+   "url": "https://www.songkick.com/concerts/43525101-rickshaw-billies-burger-patrol-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:64597375",
    "venue": "Aladdin Theater",
    "title": "Rickshaw Billie’s Burger Patrol - Ca$h Grab Tour",
@@ -6368,6 +7092,23 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43301018",
+   "venue": "Revolution Hall",
+   "title": "VNV Nation",
+   "support": "",
+   "date": "2027-03-23",
+   "url": "https://www.songkick.com/concerts/43301018-vnv-nation-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -6491,6 +7232,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43512043",
+   "venue": "McMenamins Crystal Ballroom",
+   "title": "Grace Potter and Langhorne Slim",
+   "support": "",
+   "date": "2027-03-26",
+   "url": "https://www.songkick.com/concerts/43512043-grace-potter-at-mcmenamins-crystal-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:44819323",
    "venue": "Polaris Hall",
    "title": "Charlotte Adigéry & Bolis Pupul - Mainland Madinina",
@@ -6503,6 +7261,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43475205",
+   "venue": "Revolution Hall",
+   "title": "Daniel Donato",
+   "support": "",
+   "date": "2027-03-26",
+   "url": "https://www.songkick.com/concerts/43475205-daniel-donato-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -6563,6 +7338,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43475258",
+   "venue": "Revolution Hall",
+   "title": "Daniel Donato",
+   "support": "",
+   "date": "2027-03-27",
+   "url": "https://www.songkick.com/concerts/43475258-daniel-donato-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -6653,6 +7445,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43225062",
+   "venue": "Revolution Hall",
+   "title": "Death from Above 1979",
+   "support": "",
+   "date": "2027-03-29",
+   "url": "https://www.songkick.com/concerts/43225062-death-from-above-1979-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -6776,6 +7585,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43525529",
+   "venue": "Star Theater",
+   "title": "Butcher Brown",
+   "support": "",
+   "date": "2027-04-01",
+   "url": "https://www.songkick.com/concerts/43525529-butcher-brown-at-star-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:55140873",
    "venue": "Aladdin Theater",
    "title": "THAO - \"Show Me\" Tour",
@@ -6788,6 +7614,23 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43428380",
+   "venue": "Aladdin Theater",
+   "title": "Thao & The Get Down Stay Down",
+   "support": "",
+   "date": "2027-04-02",
+   "url": "https://www.songkick.com/concerts/43428380-thao-and-the-get-down-stay-down-at-aladdin-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -6908,6 +7751,23 @@
    "source": "wonder",
    "source_name": "Wonder Ballroom",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43521897",
+   "venue": "Hawthorne Theatre",
+   "title": "Narrow Head",
+   "support": "",
+   "date": "2027-04-04",
+   "url": "https://www.songkick.com/concerts/43521897-narrow-head-at-hawthorne-theatre",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -7091,6 +7951,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43440353",
+   "venue": "Revolution Hall",
+   "title": "MOE.",
+   "support": "",
+   "date": "2027-04-09",
+   "url": "https://www.songkick.com/concerts/43440353-moe-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:91569349",
    "venue": "Revolution Hall",
    "title": "moe.",
@@ -7151,6 +8028,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43421054",
+   "venue": "Moda Center",
+   "title": "Hans Zimmer",
+   "support": "",
+   "date": "2027-04-11",
+   "url": "https://www.songkick.com/concerts/43421054-hans-zimmer-at-moda-center",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "wonder:destroy-boys-2",
    "venue": "Wonder Ballroom",
    "title": "DESTROY BOYS",
@@ -7208,6 +8102,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43476931",
+   "venue": "Mississippi Studios",
+   "title": "Clap Your Hands Say Yeah",
+   "support": "",
+   "date": "2027-04-16",
+   "url": "https://www.songkick.com/concerts/43476931-clap-your-hands-say-yeah-at-mississippi-studios",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -7393,6 +8304,23 @@
    "baseline": true,
    "sold_out_seen": "2026-11-22T06:48:51+00:00",
    "sold_out_baseline": true
+  },
+  {
+   "id": "songkick:43507096",
+   "venue": "Wonder Ballroom",
+   "title": "Antony Szmierek",
+   "support": "",
+   "date": "2027-04-25",
+   "url": "https://www.songkick.com/concerts/43507096-antony-szmierek-at-wonder-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
   },
   {
    "id": "wonder:getdown-services",
@@ -7635,6 +8563,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43532056",
+   "venue": "Revolution Hall",
+   "title": "Conor Oberst",
+   "support": "",
+   "date": "2027-05-05",
+   "url": "https://www.songkick.com/concerts/43532056-conor-oberst-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:62207956",
    "venue": "Arlene Schnitzer Concert Hall",
    "title": "The Wailin’ Jennys",
@@ -7665,6 +8610,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43507683",
+   "venue": "Revolution Hall",
+   "title": "Conor Oberst",
+   "support": "",
+   "date": "2027-05-06",
+   "url": "https://www.songkick.com/concerts/43507683-conor-oberst-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:54814591",
    "venue": "Mississippi Studios",
    "title": "Laura Gibson with full band",
@@ -7677,6 +8639,23 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43477602",
+   "venue": "Moda Center",
+   "title": "Queens of the Stone Age",
+   "support": "",
+   "date": "2027-05-09",
+   "url": "https://www.songkick.com/concerts/43477602-queens-of-the-stone-age-at-moda-center",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -7737,6 +8716,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43509295",
+   "venue": "Roseland Theater",
+   "title": "Silversun Pickups",
+   "support": "",
+   "date": "2027-05-12",
+   "url": "https://www.songkick.com/concerts/43509295-silversun-pickups-at-roseland-theater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {
@@ -7875,6 +8871,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43531443",
+   "venue": "Revolution Hall",
+   "title": "Whitney",
+   "support": "",
+   "date": "2027-05-18",
+   "url": "https://www.songkick.com/concerts/43531443-whitney-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:77941948",
    "venue": "Revolution Hall",
    "title": "Whitney: Light Upon The Lake (10th Anniversary Tour) w/ Tyler Ballgame",
@@ -8010,6 +9023,74 @@
    "baseline": false
   },
   {
+   "id": "songkick:43440551",
+   "venue": "Veterans Memorial Coliseum",
+   "title": "A Perfect Circle",
+   "support": "",
+   "date": "2027-06-01",
+   "url": "https://www.songkick.com/concerts/43440551-a-perfect-circle-at-veterans-memorial-coliseum",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43486887",
+   "venue": "McMenamins Crystal Ballroom",
+   "title": "They Might Be Giants",
+   "support": "",
+   "date": "2027-06-04",
+   "url": "https://www.songkick.com/concerts/43486887-they-might-be-giants-at-mcmenamins-crystal-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43486886",
+   "venue": "McMenamins Crystal Ballroom",
+   "title": "They Might Be Giants",
+   "support": "",
+   "date": "2027-06-05",
+   "url": "https://www.songkick.com/concerts/43486886-they-might-be-giants-at-mcmenamins-crystal-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43486885",
+   "venue": "McMenamins Crystal Ballroom",
+   "title": "They Might Be Giants",
+   "support": "",
+   "date": "2027-06-06",
+   "url": "https://www.songkick.com/concerts/43486885-they-might-be-giants-at-mcmenamins-crystal-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:80964016",
    "venue": "Revolution Hall",
    "title": "The Airborne Toxic Event - The Way Home 20 Year Anniversary Tour",
@@ -8115,6 +9196,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43525244",
+   "venue": "McMenamins Edgefield Amphitheater",
+   "title": "Ben Folds Five",
+   "support": "",
+   "date": "2027-07-24",
+   "url": "https://www.songkick.com/concerts/43525244-ben-folds-five-at-mcmenamins-edgefield-amphitheater",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Troutdale",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:44288175",
    "venue": "Aladdin Theater",
    "title": "Steam Powered Giraffe",
@@ -8130,6 +9228,23 @@
    "baseline": true
   },
   {
+   "id": "songkick:43507273",
+   "venue": "Providence Park",
+   "title": "Fall Out Boy",
+   "support": "",
+   "date": "2027-08-26",
+   "url": "https://www.songkick.com/concerts/43507273-fall-out-boy-at-providence-park",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
+   "baseline": true
+  },
+  {
    "id": "etix:34434662",
    "venue": "Revolution Hall",
    "title": "OSEES",
@@ -8142,6 +9257,23 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true
+  },
+  {
+   "id": "songkick:43522185",
+   "venue": "Revolution Hall",
+   "title": "Osees",
+   "support": "",
+   "date": "2027-09-02",
+   "url": "https://www.songkick.com/concerts/43522185-osees-at-revolution-hall",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
   },
   {

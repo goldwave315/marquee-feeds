@@ -2256,6 +2256,10 @@
    [
     "2026-11-22T06:48:51+00:00",
     "sold-out"
+   ],
+   [
+    "2026-11-22T08:27:12+00:00",
+    "not-on-sale"
    ]
   ],
   "sold_out_seen": "2026-11-22T06:48:51+00:00",
@@ -3986,5 +3990,269 @@
  "wonder:strongboi-headline-tour-2027": {
   "first_seen": "2026-11-22T06:31:14+00:00",
   "baseline": false
+ },
+ "songkick:43419248": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43449518": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43486111": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43443879": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43428194": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43313706": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43446865": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43350745": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43211819": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43419253": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43334122": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43470140": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43460988": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43524046": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43412781": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43404470": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43412770": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43529608": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43404471": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43404473": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43522235": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43516544": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43523728": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43529743": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43529818": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43440670": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43465417": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43185598": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43160775": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43160776": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43527841": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43515032": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43514900": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43493115": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43416680": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43474256": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43509191": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43478989": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43518000": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43440679": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43530746": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43525101": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43301018": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43512043": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43475205": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43475258": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43225062": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43525529": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43428380": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43521897": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43440353": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43421054": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43476931": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43507096": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43532056": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43507683": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43477602": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43509295": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43531443": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43440551": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43486887": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43486886": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43486885": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43525244": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43507273": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
+ },
+ "songkick:43522185": {
+  "first_seen": "2026-11-22T08:27:12+00:00",
+  "baseline": true
  }
 }
