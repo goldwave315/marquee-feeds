@@ -349,7 +349,27 @@ SONGKICK_PLACES = re.compile(
 
 def songkick():
     """Aniss's Songkick calendar: shows by artists he tracks there (iCalendar)."""
-    text = get(SONGKICK_ICS).text
+    # Songkick answers 406 to some header sets, so try a calendar client first,
+    # then a bare request, then the browser-style session.
+    attempts = [
+        {"User-Agent": "Mozilla/5.0 (compatible; iCal/4.0)", "Accept": "text/calendar, */*"},
+        {"User-Agent": "curl/8.5.0", "Accept": "*/*"},
+        None,
+    ]
+    text, last = None, None
+    for hdrs in attempts:
+        try:
+            r = (requests.get(SONGKICK_ICS, headers=hdrs, timeout=30) if hdrs
+                 else session.get(SONGKICK_ICS, timeout=30))
+            r.raise_for_status()
+            if "BEGIN:VCALENDAR" in r.text:
+                text = r.text
+                break
+            last = ValueError("response was not a calendar")
+        except requests.RequestException as exc:
+            last = exc
+    if text is None:
+        raise last
     text = re.sub(r"\r?\n[ \t]", "", text)          # unfold continuation lines
     out = []
     for block in text.split("BEGIN:VEVENT")[1:]:
