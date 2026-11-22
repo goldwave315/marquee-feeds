@@ -412,6 +412,11 @@ def rss(items):
     return "\n".join(parts) + "\n"
 
 
+def is_sold_out(status):
+    s = status.lower().replace("_", "-").replace(" ", "-")
+    return "sold-out" in s or "soldout" in s
+
+
 def main():
     os.makedirs(DATA, exist_ok=True)
     prev_doc = load("events.json", {"events": [], "sources": {}})
@@ -455,8 +460,26 @@ def main():
         if e["id"] not in seen:
             seen[e["id"]] = {"first_seen": stamp,
                              "baseline": e["source_name"] not in known_sources}
-        e["first_seen"] = seen[e["id"]]["first_seen"]
-        e["baseline"] = seen[e["id"]]["baseline"]
+        rec = seen[e["id"]]
+        e["first_seen"] = rec["first_seen"]
+        e["baseline"] = rec["baseline"]
+        # Sell-out tracking: remember each status change, and the first time a show
+        # reads as sold out. sold_out_baseline means it was already sold out the
+        # first time we saw it, so the true sell-out date is earlier and unknown.
+        st = (e.get("status") or "").lower()
+        if st:
+            hist = rec.setdefault("status_history", [])
+            if not hist or hist[-1][1] != st:
+                hist.append([stamp, st])
+                del hist[:-8]
+            if is_sold_out(st) and "sold_out_seen" not in rec:
+                rec["sold_out_seen"] = stamp
+                rec["sold_out_baseline"] = len(hist) == 1
+        if rec.get("sold_out_seen"):
+            e["sold_out_seen"] = rec["sold_out_seen"]
+            e["sold_out_baseline"] = rec.get("sold_out_baseline", False)
+        if len(rec.get("status_history", [])) > 1:
+            e["status_history"] = rec["status_history"]
         keep.append(e)
 
     keep.sort(key=lambda e: (e.get("date") or "9999", e["venue"], e["title"]))
@@ -478,6 +501,18 @@ def main():
                       "events": new})
     with open(os.path.join(DATA, "new.xml"), "w", encoding="utf-8") as f:
         f.write(rss(new))
+
+    # soldout.json: every upcoming show that reads as sold out, newest sell-out first.
+    sold = [e for e in keep if e.get("sold_out_seen")]
+    sold.sort(key=lambda e: e["sold_out_seen"], reverse=True)
+    save("soldout.json", {
+        "updated": stamp,
+        "note": ("sold_out_seen is the first scraper run (every 3 hours) that saw the show "
+                 "sold out. sold_out_baseline true means it was already sold out when first "
+                 "seen, so the real date is earlier."),
+        "count": len(sold),
+        "events": sold,
+    })
 
     # forget ids not seen for 120 days so the file stays small
     old = (NOW - timedelta(days=120)).isoformat(timespec="seconds")
