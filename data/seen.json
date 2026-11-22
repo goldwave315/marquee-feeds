@@ -5,79 +5,197 @@
  },
  "etix:86386129": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:36347493": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:90187834": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:50476902": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:59224066": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:36916561": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:88154444": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:36469338": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:94434785": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:35054633": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47269957": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:90939965": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:90086202": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:64205006": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30241788": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:61233706": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47408418": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:56106710": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41549327": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:39161074": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -85,179 +203,451 @@
  },
  "etix:52582032": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38655516": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:90221796": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:50221107": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47377019": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:70407603": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:82870240": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:95870738": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:97950899": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:93180478": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:71876197": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:32694648": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:48776452": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:42616781": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:44720856": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:74993592": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:66697949": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:87684712": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41737560": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:82138674": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49320816": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:59949944": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91055154": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:78436853": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:70741866": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:80232497": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49920507": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:50265931": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:73176207": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:59417770": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:65563353": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:69296420": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68494828": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:79948629": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:75830664": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:32301403": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:43710339": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:83449465": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:89316186": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:45761095": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:35763427": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:79070971": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:71666833": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:89518340": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:39215187": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -265,127 +655,313 @@
  },
  "etix:75518166": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:34248095": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:92795681": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49234574": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68264366": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:61929359": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:73766197": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:75180596": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:80560698": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:72924617": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:87872087": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:72420045": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47998328": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:59168154": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49245439": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:79230493": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:64371383": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:92834953": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:59594240": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:43913540": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47231395": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:84410515": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:92461949": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:65853898": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:99773010": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:42433332": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:86110925": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:52316729": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:94603946": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:59855681": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:89304668": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:81374758": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -393,363 +969,917 @@
  },
  "etix:48920297": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:42812493": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:54584960": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:93050804": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:54820713": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:44819323": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30921138": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:62479117": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:46754874": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:58604952": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:55888947": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:92282133": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:69780875": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:33938580": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:57215424": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:45876528": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:43186261": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:83463584": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:58446890": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:92934349": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:71453109": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:87453810": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:95096640": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:69828668": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41106184": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:45683875": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:71590476": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:45287656": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:48850758": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:54814591": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49730994": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:55187444": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:56194896": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:84434265": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38357185": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91940693": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:97866523": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:49532598": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:33093850": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:36423231": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91554135": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:95614321": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:66160391": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:52962225": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:47430112": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:82008250": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:50577979": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:58008973": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:62407948": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:72341210": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:78895235": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:32891845": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:69921224": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49936209": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:49325770": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30185800": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:50454498": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:57958333": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:57263739": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30431441": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:58804940": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:95972752": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38743141": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:55578509": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30191515": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47460859": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:99668038": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:69058105": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30492694": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:89263448": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:86641653": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:33087462": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:30403873": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:54210181": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:88534334": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:81350965": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:56319253": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47815560": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:63983917": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47279703": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41119896": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:87407069": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:65714859": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:83277371": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:95327385": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:56630167": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41962756": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:83102577": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:74972995": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:71714795": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:36472671": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -757,11 +1887,23 @@
  },
  "etix:68450613": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:75262409": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:84263486": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -769,331 +1911,835 @@
  },
  "etix:39021092": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:54402409": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:39361259": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:64155713": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:46117650": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:35673579": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47807179": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:87472996": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:56802832": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:99582487": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91156282": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:33683846": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:45931401": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:85727898": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:60388694": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68185498": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:48642829": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:39040360": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91569349": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:66088410": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:47075451": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:84004236": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:45139740": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:96935603": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:37002337": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38790353": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:50596559": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:84156917": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:92927751": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:77941948": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:76976454": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:80964016": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:34434662": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:32713252": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38968586": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:47564925": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:40830725": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:53477310": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:36374313": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68026462": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38666206": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:63564093": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:52472471": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:32952057": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:48494309": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-22T06:48:51+00:00",
+  "sold_out_baseline": true
  },
  "etix:80307484": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:63972028": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:94256309": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:89516150": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:77547428": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:55334627": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:80605810": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:75662674": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:38815767": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:40559385": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:93170768": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:45431061": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68708051": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68309465": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:66870556": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:55592168": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:84384147": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:48937056": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:94290671": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:97553913": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:70423694": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:96546512": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:73037278": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:70698019": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:36455150": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:73375478": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:64714422": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:65530668": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:80770165": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:33865479": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:78645905": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:75251922": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:57112182": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:36069643": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:39308269": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41256109": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:50293620": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:41230690": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -1101,7 +2747,13 @@
  },
  "etix:51834096": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:97238538": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -1109,115 +2761,283 @@
  },
  "etix:60927424": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:98854992": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:71350484": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:36885413": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:64597375": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:31464870": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:43939462": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:44752985": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:55140873": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:74384514": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:57495192": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91614562": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:74207635": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91101671": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:70915964": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:58671767": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:86220763": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:79555630": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:80509440": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:62207956": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:62407073": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:56883326": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:68504589": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:66430813": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "not-on-sale"
+   ]
+  ]
  },
  "etix:88121887": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:97525643": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:91810152": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:44288175": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-22T06:48:51+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "ticketweb:15058453": {
   "first_seen": "2026-11-22T06:28:27+00:00",

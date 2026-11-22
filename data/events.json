@@ -1,63 +1,63 @@
 {
- "updated": "2026-11-22T06:31:14+00:00",
+ "updated": "2026-11-22T06:48:51+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 133,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 93,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 36,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 24,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 47,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 40,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-22T06:31:14+00:00"
+   "checked": "2026-11-22T06:48:51+00:00"
   }
  },
  "events": [
@@ -74,7 +74,9 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "holocene:80717807",
@@ -224,7 +226,9 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:90187834",
@@ -344,7 +348,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "holocene:50070290",
@@ -419,7 +425,9 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "holocene:86481210",
@@ -479,7 +487,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:33093850",
@@ -779,7 +789,9 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:38666206",
@@ -794,7 +806,9 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "holocene:40974314",
@@ -1094,7 +1108,9 @@
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "holocene:95218364",
@@ -1199,7 +1215,9 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:50577979",
@@ -1214,7 +1232,9 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "ticketweb:14233344",
@@ -1544,7 +1564,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:62407948",
@@ -1799,7 +1821,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:78895235",
@@ -2054,7 +2078,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "square:23027",
@@ -2459,7 +2485,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "square:23039",
@@ -5654,7 +5682,9 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:83102577",
@@ -5699,7 +5729,9 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:71714795",
@@ -5714,7 +5746,9 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:50293620",
@@ -7364,7 +7398,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "etix:69828668",
@@ -7394,7 +7430,9 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-22T06:48:51+00:00",
+   "sold_out_baseline": true
   },
   {
    "id": "wonder:getdown-services",
