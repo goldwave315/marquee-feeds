@@ -4270,5 +4270,87 @@
  "songkick:43534780": {
   "first_seen": "2026-11-22T17:06:32+00:00",
   "baseline": false
+ },
+ "etix:54491098": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-23T21:17:13+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:83189114": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-23T21:17:13+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:54642823": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-23T21:17:13+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:98333044": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-23T21:17:13+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:88684582": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-23T21:17:13+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "ticketweb:14972193": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "ticketweb:14021754": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "ticketweb:15060853": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "ticketweb:15061013": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/dogpark-215372": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "getdown:https://www.tixr.com/groups/thegetdownpdx/events/d-a-n-n-y-214760": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "holocene:67735162": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
+ },
+ "holocene:63418349": {
+  "first_seen": "2026-11-23T21:17:13+00:00",
+  "baseline": false
  }
 }

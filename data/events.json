@@ -1,200 +1,71 @@
 {
- "updated": "2026-11-23T07:28:40+00:00",
+ "updated": "2026-11-23T21:17:13+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
-   "count": 131,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 129,
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
-   "count": 78,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 81,
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Star Theater": {
    "ok": true,
-   "count": 35,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 34,
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Jack London Revue": {
    "ok": true,
-   "count": 53,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 56,
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "The Get Down": {
    "ok": true,
-   "count": 23,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 25,
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Holocene": {
    "ok": true,
-   "count": 46,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 48,
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "checked": "2026-11-23T21:17:13+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
-   "count": 68,
-   "checked": "2026-11-23T07:28:40+00:00"
+   "count": 67,
+   "checked": "2026-11-23T21:17:13+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-23T07:28:40+00:00"
+   "checked": "2026-11-23T21:17:13+00:00"
   }
  },
  "events": [
-  {
-   "id": "songkick:43419248",
-   "venue": "Aladdin Theater",
-   "title": "Haley Heynderickx",
-   "support": "",
-   "date": "2026-11-22",
-   "url": "https://www.songkick.com/concerts/43419248-haley-heynderickx-at-aladdin-theater",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "songkick",
-   "tracked_artist": true,
-   "city": "Portland",
-   "source_name": "Songkick tracked artists",
-   "first_seen": "2026-11-22T08:27:12+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:47564925",
-   "venue": "Aladdin Theater",
-   "title": "SOLD OUT: Haley Heynderickx w/ Chamberlain / Gonzalez",
-   "support": "",
-   "date": "2026-11-22",
-   "url": "https://www.aladdin-theater.com",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Aladdin Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true,
-   "sold_out_seen": "2026-11-22T06:48:51+00:00",
-   "sold_out_baseline": true,
-   "status_history": [
-    [
-     "2026-11-22T06:48:51+00:00",
-     "sold-out"
-    ],
-    [
-     "2026-11-23T07:28:40+00:00",
-     "not-on-sale"
-    ]
-   ]
-  },
-  {
-   "id": "etix:90187834",
-   "venue": "Mississippi Studios",
-   "title": "Jack Bensinger",
-   "support": "Ben Harkins",
-   "date": "2026-11-22",
-   "url": "https://mississippistudios.com",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:36347493",
-   "venue": "Polaris Hall",
-   "title": "Mx. Dahlia Belle: Affirmed (A Live Comedy Taping)",
-   "support": "",
-   "date": "2026-11-22",
-   "url": "https://mississippistudios.com",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:49532598",
-   "venue": "Revolution Hall",
-   "title": "ERIC SKYE TRIO Plays Miles Davis featuring Tye North and Michah Kassell",
-   "support": "",
-   "date": "2026-11-22",
-   "url": "https://www.revolutionhall.com",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Revolution Hall + Show Bar",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true,
-   "status_history": [
-    [
-     "2026-11-22T06:48:51+00:00",
-     "on-sale"
-    ],
-    [
-     "2026-11-23T07:28:40+00:00",
-     "not-on-sale"
-    ]
-   ]
-  },
-  {
-   "id": "ticketweb:14971783",
-   "venue": "Star Theater",
-   "title": "CHURCH OF HIVE :: SINEAD : LISSEX",
-   "support": "HUNTER : PRESENTS",
-   "date": "2026-11-22",
-   "url": "https://www.startheaterportland.com/tm-event/church-of-hive-sinead-lissex/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Star Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14269614",
-   "venue": "Star Theater",
-   "title": "PSYCROPTIC with Inferi, Cognitive, & Summoning The Lich",
-   "support": "Kingbanana Presents:",
-   "date": "2026-11-22",
-   "url": "https://www.startheaterportland.com/tm-event/psycroptic-with-inferi-cognitive-summoning-the-lich/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Star Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
   {
    "id": "songkick:43449518",
    "venue": "Aladdin Theater",
@@ -3113,6 +2984,21 @@
    "baseline": true
   },
   {
+   "id": "ticketweb:14972193",
+   "venue": "Star Theater",
+   "title": "CHURCH OF HIVE",
+   "support": "HUNTER : PRESENTS",
+   "date": "2026-12-20",
+   "url": "https://www.startheaterportland.com/tm-event/church-of-hive-13/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Star Theater",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:78436853",
    "venue": "Mississippi Studios",
    "title": "MAE.SUN 6th Annual Winter Solstice Party",
@@ -3263,6 +3149,21 @@
    "baseline": true
   },
   {
+   "id": "ticketweb:14021754",
+   "venue": "Jack London Revue",
+   "title": "BURLY-Q REVUE",
+   "support": "Soul'd Out Presents",
+   "date": "2026-12-26",
+   "url": "https://www.jacklondonrevue.com/tm-event/burly-q-revue-7/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Jack London Revue",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:70741866",
    "venue": "Mississippi Studios",
    "title": "Holiday Rehab Comedy Show",
@@ -3308,6 +3209,21 @@
    "baseline": true
   },
   {
+   "id": "etix:54491098",
+   "venue": "Show Bar",
+   "title": "Hear You Loud & Queer Holiday Comedy Show",
+   "support": "hosted by Mack Lee and Ally J Ward",
+   "date": "2026-12-30",
+   "url": "https://www.etix.com/ticket/p/54491098/hear-you-loud-queer-holiday-comedy-show-portland-show-bar-at-revolution-hall",
+   "status": "on-sale",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Revolution Hall + Show Bar",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/the-motet-funk-is-dead-208943",
    "venue": "The Get Down",
    "title": "The Motet: Funk is Dead",
@@ -3326,7 +3242,7 @@
    "id": "etix:40559385",
    "venue": "Aladdin Theater",
    "title": "Jenny Don't and the Spurs Cowboy Prom NYE 2026",
-   "support": "Toody Cole and Her Band",
+   "support": "Toody Cole and Her Band, Johnny Franco and his real Brother Dom",
    "date": "2026-12-31",
    "url": "https://www.etix.com/ticket/p/40559385/jenny-dont-and-the-spurs-cowboy-prom-nye-2026-portland-aladdin-theater",
    "status": "on-sale",
@@ -3336,6 +3252,21 @@
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "holocene:67735162",
+   "venue": "Holocene",
+   "title": "NEW YEAR, NEW DIVA: NYE DISCO SPA",
+   "support": "",
+   "date": "2026-12-31",
+   "url": "https://www.etix.com/ticket/p/67735162/new-year-new-diva-nye-disco-spa-21-portland-holocene?partner_id=100",
+   "status": "",
+   "announced": "2026-11-23T10:00:00-08:00",
+   "onsale": "2026-11-23T10:00:00-08:00",
+   "source": "holocene",
+   "source_name": "Holocene",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
   },
   {
    "id": "ticketweb:14448654",
@@ -3791,7 +3722,7 @@
   {
    "id": "ticketweb:15060783",
    "venue": "Jack London Revue",
-   "title": "Grandifolia",
+   "title": "GRANDIFOLIA",
    "support": "Jack London Revue Presents",
    "date": "2027-01-09",
    "url": "https://www.jacklondonrevue.com/tm-event/grandifolia/",
@@ -4020,6 +3951,21 @@
    "baseline": true
   },
   {
+   "id": "ticketweb:15060853",
+   "venue": "Jack London Revue",
+   "title": "The Tracy Stone Band",
+   "support": "Soul'd Out Presents",
+   "date": "2027-01-16",
+   "url": "https://www.jacklondonrevue.com/tm-event/the-tracy-stone-band/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Jack London Revue",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:43710339",
    "venue": "Mississippi Studios",
    "title": "Immersion",
@@ -4048,6 +3994,21 @@
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/d-a-n-n-y-214760",
+   "venue": "The Get Down",
+   "title": "D A N N Y",
+   "support": "",
+   "date": "2027-01-16",
+   "url": "https://www.tixr.com/groups/thegetdownpdx/events/d-a-n-n-y-214760",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "getdown",
+   "source_name": "The Get Down",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
   },
   {
    "id": "etix:45431061",
@@ -4446,9 +4407,24 @@
    "baseline": true
   },
   {
+   "id": "etix:83189114",
+   "venue": "Aladdin Theater",
+   "title": "Dina Martina",
+   "support": "",
+   "date": "2027-01-29",
+   "url": "https://www.etix.com/ticket/p/83189114/dina-martina-portland-aladdin-theater",
+   "status": "on-sale",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Aladdin Theater",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "ticketweb:15059973",
    "venue": "Jack London Revue",
-   "title": "Bang Bang Experience",
+   "title": "BANG BANG EXPERIENCE",
    "support": "Soul'd Out Presents",
    "date": "2027-01-29",
    "url": "https://www.jacklondonrevue.com/tm-event/bang-bang-experience/",
@@ -4930,6 +4906,21 @@
    "baseline": true
   },
   {
+   "id": "etix:54642823",
+   "venue": "Aladdin Theater",
+   "title": "Taken by the Sky – Fleetwood Mac Tribute: Rumours 50th Anniversary",
+   "support": "",
+   "date": "2027-02-06",
+   "url": "https://www.etix.com/ticket/p/54642823/taken-by-the-sky-fleetwood-mac-tributerumours-50th-anniversary-portland-aladdin-theater",
+   "status": "on-sale",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Aladdin Theater",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "ticketweb:15015973",
    "venue": "Jack London Revue",
    "title": "IRON PROPHECY – BOB MARLEY B-DAY BASH",
@@ -5159,6 +5150,21 @@
    "baseline": true
   },
   {
+   "id": "ticketweb:15061013",
+   "venue": "Jack London Revue",
+   "title": "VINCEN GARCIA",
+   "support": "Soul'd Out Presents",
+   "date": "2027-02-12",
+   "url": "https://www.jacklondonrevue.com/tm-event/vincen-garcia/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Jack London Revue",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:63983917",
    "venue": "Revolution Hall",
    "title": "Aaron Chen",
@@ -5247,6 +5253,21 @@
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "holocene:63418349",
+   "venue": "Holocene",
+   "title": "CITY POP Valentine's!! Japanese Boogie, J-jazz, & New Wave Night",
+   "support": "SEASIDE.FM + JOE BALL",
+   "date": "2027-02-14",
+   "url": "https://www.etix.com/ticket/p/63418349/city-pop-valentine-s-japanese-boogie-j-jazz-new-wave-night-w-seaside-fm-joe-ball-21-portland-holocene?partner_id=100",
+   "status": "",
+   "announced": "2026-11-23T10:00:00-08:00",
+   "onsale": "2026-11-23T10:00:00-08:00",
+   "source": "holocene",
+   "source_name": "Holocene",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
   },
   {
    "id": "etix:80560698",
@@ -6100,7 +6121,7 @@
    "id": "etix:56630167",
    "venue": "Revolution Hall",
    "title": "TopHouse",
-   "support": "",
+   "support": "Katie Lynne Sharbaugh",
    "date": "2027-03-05",
    "url": "https://www.etix.com/ticket/p/56630167/tophouse-portland-revolution-hall",
    "status": "on-sale",
@@ -7137,6 +7158,21 @@
    "baseline": true
   },
   {
+   "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/dogpark-215372",
+   "venue": "The Get Down",
+   "title": "Dogpark",
+   "support": "",
+   "date": "2027-03-25",
+   "url": "https://www.tixr.com/groups/thegetdownpdx/events/dogpark-215372",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "getdown",
+   "source_name": "The Get Down",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:31464870",
    "venue": "Aladdin Theater",
    "title": "Will Burkart",
@@ -7811,6 +7847,21 @@
    "baseline": true
   },
   {
+   "id": "etix:98333044",
+   "venue": "Aladdin Theater",
+   "title": "PISS",
+   "support": "",
+   "date": "2027-04-08",
+   "url": "https://www.etix.com/ticket/p/98333044/piss-portland-aladdin-theater",
+   "status": "on-sale",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Aladdin Theater",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:91614562",
    "venue": "Keller Auditorium",
    "title": "Giggly Squad: The Gehls Gehl Tour",
@@ -8177,6 +8228,21 @@
    "baseline": true
   },
   {
+   "id": "etix:88684582",
+   "venue": "Aladdin Theater",
+   "title": "Portland's 5th Annual RUSH Party with The RUSH Collective",
+   "support": "",
+   "date": "2027-04-24",
+   "url": "https://www.etix.com/ticket/p/88684582/portlands-5th-annual-rush-party-with-the-rush-collective-portland-aladdin-theater",
+   "status": "on-sale",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Aladdin Theater",
+   "first_seen": "2026-11-23T21:17:13+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:95096640",
    "venue": "Polaris Hall",
    "title": "SOLD OUT: An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 1)",
@@ -8410,7 +8476,7 @@
   {
    "id": "ticketweb:15058883",
    "venue": "Star Theater",
-   "title": "Amanti",
+   "title": "Amanati",
    "support": "SensualDance.com presents",
    "date": "2027-05-01",
    "url": "https://www.startheaterportland.com/tm-event/amanti/",
