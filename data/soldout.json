@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:35:17+00:00",
+ "updated": "2026-11-23T07:28:40+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
  "count": 18,
  "events": [
@@ -9,8 +9,8 @@
    "title": "SOLD OUT: Haley Heynderickx w/ Chamberlain / Gonzalez",
    "support": "",
    "date": "2026-11-22",
-   "url": "https://www.etix.com/ticket/p/47564925/sold-outhaley-heynderickx-wchamberlain-gonzalez-portland-aladdin-theater",
-   "status": "sold-out",
+   "url": "https://www.aladdin-theater.com",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -18,7 +18,17 @@
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true,
    "sold_out_seen": "2026-11-22T06:48:51+00:00",
-   "sold_out_baseline": true
+   "sold_out_baseline": true,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "sold-out"
+    ],
+    [
+     "2026-11-23T07:28:40+00:00",
+     "not-on-sale"
+    ]
+   ]
   },
   {
    "id": "etix:59224066",
