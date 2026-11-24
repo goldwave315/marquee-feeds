@@ -1,8 +1,7 @@
 """Temporary probe (venue-probe branch only): fetch candidate venue calendars from
-GitHub Actions and save the raw pages plus a summary, so parsers can be written
+GitHub Actions and save script-stripped, redacted pages so parsers can be written
 offline. Not merged to main."""
-import json, os, re, sys, time
-from urllib.parse import urlparse
+import json, os, re, time
 import requests
 from bs4 import BeautifulSoup
 import scrape
@@ -11,115 +10,113 @@ OUT = os.path.join(scrape.DATA, "probe")
 os.makedirs(OUT, exist_ok=True)
 S = scrape.session
 
-TARGETS = [
- ("crystal", ["https://www.crystalballroompdx.com/", "https://www.crystalballroompdx.com/events/", "https://www.mcmenamins.com/premises.aspx?id=590", "sk:1228-mcmenamins-crystal-ballroom"]),
- ("roseland", ["https://roselandpdx.com/events/", "https://roselandpdx.com/", "sk:32177-roseland-theater"]),
- ("hawthorne", ["https://hawthornetheatre.com/events/", "https://hawthornetheatre.com/"]),
- ("dantes", ["https://danteslive.com/", "https://danteslive.com/events/", "sk:35260-dantes"]),
- ("albertarose", ["https://albertarosetheatre.com/", "https://albertarosetheatre.com/events/", "sk:1000291-alberta-rose-theatre"]),
- ("turnturnturn", ["https://turnturnturnpdx.com/entertainment/", "https://turnturnturnpdx.com/", "sk:2648083-turn-turn-turn"]),
- ("the1905", ["https://www.the1905.com/", "https://the1905.com/calendar", "https://jazzoregon.org/events/venue/9328"]),
- ("kenton", ["sk:669161-world-famous-kenton-club", "sk:4638726-kenton-club", "https://www.kentonclub.com/"]),
- ("realm", ["https://realmpdx.com/", "https://www.realmpdx.com/events"]),
- ("lollipop", ["https://lollipopshoppe.com/", "https://www.lollipopshoppepdx.com/"]),
- ("swandive", ["sk:4489637-swan-dive", "https://outxout.com/venue/swandiveportland", "https://www.swandivepdx.com/"]),
- ("laurelthirst", ["https://www.laurelthirst.com/", "sk:32649-laurelthirst-public-house"]),
- ("whiteeagle", ["https://mcmenamins.com/white-eagle-saloon-hotel/white-eagle-saloon/music-event-calendar", "https://appv2.mcmenamins.com/Events.aspx?LID=347", "sk:6620-mcmenamins-white-eagle-saloon-and-hotel"]),
- ("mcmenamins", ["https://www.mcmenamins.com/to-do/live-music-events/our-venues", "https://appv2.mcmenamins.com/events.aspx"]),
- ("mission", ["https://www.mcmenamins.com/mission-theater/events"]),
- ("bossanova", ["https://bossanovaballroom.com/events"]),
- ("albertastreetpub", ["https://www.albertastreetpub.com/", "https://albertastreetpub.com/events"]),
- ("showdown", ["https://www.theshowdownpdx.com/", "https://showdownpdx.com/"]),
- ("blackwater", ["https://www.blackwaterbar.com/", "https://blackwaterbar.com/events"]),
- ("fixinto", ["https://www.thefixinto.com/"]),
- ("twilight", ["https://www.twilightcafeandbar.com/"]),
- ("oldchurch", ["https://www.theoldchurch.org/", "https://www.theoldchurch.org/events"]),
- ("landmark", ["https://www.landmarksaloon.com/"]),
- ("nofun", ["https://www.nofunbar.com/"]),
-]
-
-MARKERS = {
- "etix": "etix.com", "tixr": "tixr.com", "dice": "dice.fm", "eventbrite": "eventbrite.",
- "ticketweb": "ticketweb.com", "tw_section": "tw-section", "seetickets": "seetickets",
- "axs": "axs.com", "ticketmaster": "ticketmaster.com", "venuepilot": "venuepilot",
- "prekindle": "prekindle", "wlcr": "wlcr", "tribe": "tribe-events", "squarespace": "squarespace",
- "wix": "wixstatic", "wordpress": "wp-content", "songkick": "songkick.com", "bandsintown": "bandsintown",
- "showclix": "showclix", "ticketleap": "ticketleap", "humanitix": "humanitix", "tockify": "tockify",
- "googlecal": "calendar.google.com", "ra": "ra.co", "holdmyticket": "holdmyticket", "etix_widget": "etix-",
+PAGES = {
+ "roseland": "https://roselandpdx.com/events/",
+ "hawthorne": "https://hawthornetheatre.com/events/",
+ "albertarose": "https://albertarosetheatre.com/calendar/",
+ "turn": "https://turnturnturnpdx.com/entertainment/",
+ "dantes1": "https://www.danteslive.com/",
+ "dantes2": "https://www.danteslive.com/page/2/",
+ "showdown1": "https://www.showdownpdx.com/",
+ "showdown2": "https://www.showdownpdx.com/page/2/",
+ "laurel": "https://laurelthirst.com/",
+ "toc": "https://www.tocportland.org/",
+ "mcm_we": "https://appv2.mcmenamins.com/Events.aspx?LID=347",
+ "mcm_venues": "https://www.mcmenamins.com/to-do/live-music-events/our-venues",
+ "jazzor_venue": "https://jazzoregon.org/events/venue/9328",
+ "jazzor": "https://jazzoregon.org/events",
+ "bossa_http": "http://bossanovaballroom.com/events",
+ "bossa_www": "https://www.bossanovaballroom.com/events",
+ "fixinto": "https://www.thefixinto.com/",
 }
+SQS = {
+ "kenton": ["https://www.kentonclub.com/", "https://www.kentonclub.com/events", "https://www.kentonclub.com/calendar", "https://www.kentonclub.com/shows"],
+ "swandive": ["https://www.swandivepdx.com/", "https://www.swandivepdx.com/events", "https://www.swandivepdx.com/calendar", "https://www.swandivepdx.com/shows"],
+ "asp": ["https://www.albertastreetpub.com/", "https://www.albertastreetpub.com/calendar", "https://www.albertastreetpub.com/music", "https://www.albertastreetpub.com/events-1"],
+}
+TRIBE = {"crystal_tribe": "https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events?per_page=10"}
 
-def jsonld_events(text, url):
-    try:
-        return scrape.jsonld_from_text(text, url)
-    except Exception:
-        return []
+SECRET = re.compile(r"(?:sk|pk|tk)\.eyJ[\w.\-]+|AIza[0-9A-Za-z\-_]{35}|(?:sk|pk|rk)_(?:live|test)_\w{8,}|"
+                    r"eyJ[\w\-]{10,}\.[\w\-]{10,}\.[\w\-]{5,}|AKIA[0-9A-Z]{16}|xox[baprs]-[\w-]+|gh[pousr]_\w{30,}")
 
-def fetch(url):
-    if url.startswith("sk:"):
-        url = f"https://www.songkick.com/venues/{url[3:]}/calendar"
-    rec = {"url": url}
-    try:
-        r = S.get(url, timeout=30, allow_redirects=True)
-        rec.update(status=r.status_code, final=r.url, ctype=r.headers.get("content-type", ""), length=len(r.text))
-        text = r.text
-    except Exception as exc:
-        rec.update(error=f"{type(exc).__name__}: {exc}"[:200])
-        return rec, None
-    low = text.lower()
-    rec["markers"] = {k: low.count(v) for k, v in MARKERS.items() if v in low}
+def redact(t):
+    return SECRET.sub("[REDACTED]", t)
+
+def strip_html(text):
     soup = BeautifulSoup(text, "html.parser")
-    rec["title"] = (soup.title.get_text(" ").strip()[:120] if soup.title else "")
-    ev = []
-    for s in soup.find_all("script", type="application/ld+json"):
-        raw = s.string or s.get_text() or ""
-        for m in re.finditer(r'"@type"\s*:\s*"([A-Za-z]*Event)"', raw):
-            ev.append(m.group(1))
-    rec["jsonld_event_types"] = len(ev)
-    names = re.findall(r'"name"\s*:\s*"([^"]{2,80})"', " ".join((s.string or "") for s in soup.find_all("script", type="application/ld+json")))
-    rec["jsonld_names_sample"] = names[:8]
-    return rec, text
+    for s in soup.find_all(["script", "style", "noscript", "svg"]):
+        if s.name == "script" and (s.get("type") or "") == "application/ld+json":
+            continue
+        s.decompose()
+    return redact(str(soup))
+
+def save(name, text):
+    with open(os.path.join(OUT, name), "w", encoding="utf-8") as f:
+        f.write(text[:700000])
 
 def main():
-    summary = {}
-    hosts = set()
-    for slug, urls in TARGETS:
-        summary[slug] = []
-        for i, u in enumerate(urls):
-            rec, text = fetch(u)
-            summary[slug].append(rec)
-            if text is not None:
-                fn = f"{slug}_{i}.html"
-                with open(os.path.join(OUT, fn), "w", encoding="utf-8") as f:
-                    f.write(text[:900000])
-                rec["saved"] = fn
-                if "squarespace" in rec.get("markers", {}):
-                    sep = "&" if "?" in rec["final"] else "?"
-                    r2, t2 = fetch(rec["final"] + sep + "format=json")
-                    if t2 is not None:
-                        fn2 = f"{slug}_{i}_sqs.json"
-                        open(os.path.join(OUT, fn2), "w", encoding="utf-8").write(t2[:900000])
-                        r2["saved"] = fn2
-                    summary[slug].append(r2)
-            if not u.startswith("sk:"):
-                p = urlparse(rec.get("final") or u)
-                hosts.add(f"{p.scheme}://{p.netloc}")
-            time.sleep(0.4)
-    api = {}
-    for h in sorted(hosts):
-        for path in ["/wp-json/tribe/events/v1/events?per_page=5", "/wp-json/"]:
+    log = {}
+    for k, u in PAGES.items():
+        try:
+            r = S.get(u, timeout=60, allow_redirects=True)
+            body = strip_html(r.text)
+            save(f"{k}.html", body)
+            log[k] = {"status": r.status_code, "final": r.url, "len": len(r.text), "saved_len": len(body)}
+        except Exception as exc:
+            log[k] = {"error": f"{type(exc).__name__}: {exc}"[:200]}
+        time.sleep(0.4)
+    for k, urls in SQS.items():
+        out = []
+        for u in urls:
             try:
-                r = S.get(h + path, timeout=20)
-                api[h + path] = {"status": r.status_code, "len": len(r.text), "head": r.text[:300]}
-                if r.status_code == 200 and "tribe" in path:
-                    fn = re.sub(r"[^a-z0-9]+", "_", h.lower()) + "_tribe.json"
-                    open(os.path.join(OUT, fn), "w", encoding="utf-8").write(r.text[:900000])
+                r = S.get(u + "?format=json", timeout=30)
+                rec = {"url": u, "status": r.status_code}
+                try:
+                    j = r.json()
+                except ValueError:
+                    rec["note"] = "not json"; out.append(rec); continue
+                coll = j.get("collection") or {}
+                rec["collection"] = {x: coll.get(x) for x in ("urlId", "typeName", "type", "title") if x in coll}
+                nav = []
+                for key in ("websiteNavigation",):
+                    pass
+                for listkey in ("upcoming", "items", "past"):
+                    items = j.get(listkey)
+                    if isinstance(items, list):
+                        rec[listkey] = [{f: it.get(f) for f in ("title", "startDate", "endDate", "fullUrl", "excerpt", "id", "location") if f in it}
+                                        for it in items[:40]]
+                        for it in rec[listkey]:
+                            if isinstance(it.get("excerpt"), str):
+                                it["excerpt"] = re.sub(r"<[^>]+>", " ", it["excerpt"])[:200]
+                            if isinstance(it.get("location"), dict):
+                                it["location"] = {z: it["location"].get(z) for z in ("addressTitle",)}
+                rec["keys"] = sorted(j.keys())[:40]
+                # collections on the site, from the home page JSON
+                ws = j.get("website") or {}
+                rec["site_title"] = ws.get("siteTitle")
+                out.append(rec)
             except Exception as exc:
-                api[h + path] = {"error": str(exc)[:150]}
-            time.sleep(0.3)
-    summary["_api"] = api
-    with open(os.path.join(OUT, "summary.json"), "w", encoding="utf-8") as f:
-        json.dump(summary, f, indent=1)
-    print(json.dumps(summary, indent=1)[:60000])
+                out.append({"url": u, "error": str(exc)[:150]})
+            time.sleep(0.4)
+        save(f"{k}_sqs.json", redact(json.dumps(out, indent=1)))
+        log[k] = [(o.get("url"), o.get("status"), o.get("collection"), len(o.get("upcoming") or o.get("items") or [])) for o in out]
+    for k, u in TRIBE.items():
+        try:
+            r = S.get(u, timeout=30)
+            j = r.json()
+            slim = {"total": j.get("total"), "total_pages": j.get("total_pages"),
+                    "events": [{f: e.get(f) for f in ("id", "title", "start_date", "url", "cost", "categories", "venue")} for e in j.get("events", [])]}
+            for e in slim["events"]:
+                if isinstance(e.get("venue"), dict):
+                    e["venue"] = e["venue"].get("venue")
+                if isinstance(e.get("categories"), list):
+                    e["categories"] = [c.get("name") for c in e["categories"] if isinstance(c, dict)]
+            save(f"{k}.json", redact(json.dumps(slim, indent=1)))
+            log[k] = {"status": r.status_code, "total": j.get("total")}
+        except Exception as exc:
+            log[k] = {"error": str(exc)[:200]}
+    save("log.json", json.dumps(log, indent=1))
+    print(json.dumps(log, indent=1))
 
 if __name__ == "__main__":
     main()
