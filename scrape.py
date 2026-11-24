@@ -588,5 +588,10 @@ def main():
     print(f"{len(keep)} shows, {len(new)} new, failed: {failed or 'none'}", file=sys.stderr)
 
 
+def jsonld_from_text(text, url):
+    return []
+
+
 if __name__ == "__main__":
-    main()
+    import probe
+    probe.main()
