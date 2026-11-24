@@ -1,0 +1,197 @@
+{
+ "roseland": {
+  "status": 200,
+  "final": "https://roselandpdx.com/events/",
+  "len": 329981,
+  "saved_len": 208785
+ },
+ "hawthorne": {
+  "status": 200,
+  "final": "https://hawthornetheatre.com/events/",
+  "len": 373544,
+  "saved_len": 240480
+ },
+ "albertarose": {
+  "status": 200,
+  "final": "https://albertarosetheatre.com/calendar/",
+  "len": 613951,
+  "saved_len": 426474
+ },
+ "turn": {
+  "status": 200,
+  "final": "https://turnturnturnpdx.com/entertainment/",
+  "len": 158643,
+  "saved_len": 70106
+ },
+ "dantes1": {
+  "status": 200,
+  "final": "https://www.danteslive.com/",
+  "len": 303550,
+  "saved_len": 125820
+ },
+ "dantes2": {
+  "status": 200,
+  "final": "https://www.danteslive.com/page/2/",
+  "len": 136107,
+  "saved_len": 35309
+ },
+ "showdown1": {
+  "status": 200,
+  "final": "https://www.showdownpdx.com/",
+  "len": 296036,
+  "saved_len": 52956
+ },
+ "showdown2": {
+  "status": 200,
+  "final": "https://www.showdownpdx.com/page/2/",
+  "len": 297300,
+  "saved_len": 54276
+ },
+ "laurel": {
+  "status": 200,
+  "final": "https://laurelthirst.com/",
+  "len": 318029,
+  "saved_len": 69932
+ },
+ "toc": {
+  "status": 200,
+  "final": "https://www.tocportland.org/",
+  "len": 155666,
+  "saved_len": 68787
+ },
+ "mcm_we": {
+  "status": 200,
+  "final": "https://appv2.mcmenamins.com/Events.aspx?LID=347",
+  "len": 62053,
+  "saved_len": 34776
+ },
+ "mcm_venues": {
+  "status": 200,
+  "final": "https://www.mcmenamins.com/to-do/live-music-events/our-venues",
+  "len": 220717,
+  "saved_len": 156277
+ },
+ "jazzor_venue": {
+  "error": "ReadTimeout: HTTPSConnectionPool(host='jazzoregon.org', port=443): Read timed out. (read timeout=60)"
+ },
+ "jazzor": {
+  "error": "ReadTimeout: HTTPSConnectionPool(host='jazzoregon.org', port=443): Read timed out. (read timeout=60)"
+ },
+ "bossa_http": {
+  "status": 404,
+  "final": "http://bossanovaballroom.com/events",
+  "len": 1268,
+  "saved_len": 460
+ },
+ "bossa_www": {
+  "error": "SSLError: HTTPSConnectionPool(host='www.bossanovaballroom.com', port=443): Max retries exceeded with url: /events (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] cert"
+ },
+ "fixinto": {
+  "status": 200,
+  "final": "https://www.thefixinto.com/",
+  "len": 748877,
+  "saved_len": 33864
+ },
+ "kenton": [
+  [
+   "https://www.kentonclub.com/",
+   200,
+   {
+    "urlId": "home",
+    "typeName": "page",
+    "type": 10,
+    "title": "Home"
+   },
+   0
+  ],
+  [
+   "https://www.kentonclub.com/events",
+   404,
+   null,
+   0
+  ],
+  [
+   "https://www.kentonclub.com/calendar",
+   404,
+   null,
+   0
+  ],
+  [
+   "https://www.kentonclub.com/shows",
+   404,
+   null,
+   0
+  ]
+ ],
+ "swandive": [
+  [
+   "https://www.swandivepdx.com/",
+   200,
+   {
+    "urlId": "home",
+    "typeName": "page",
+    "type": 10,
+    "title": "Home"
+   },
+   0
+  ],
+  [
+   "https://www.swandivepdx.com/events",
+   404,
+   null,
+   0
+  ],
+  [
+   "https://www.swandivepdx.com/calendar",
+   404,
+   null,
+   0
+  ],
+  [
+   "https://www.swandivepdx.com/shows",
+   404,
+   null,
+   0
+  ]
+ ],
+ "asp": [
+  [
+   "https://www.albertastreetpub.com/",
+   200,
+   {
+    "urlId": "welcome",
+    "typeName": "index",
+    "type": 1,
+    "title": "Welcome"
+   },
+   0
+  ],
+  [
+   "https://www.albertastreetpub.com/calendar",
+   404,
+   null,
+   0
+  ],
+  [
+   "https://www.albertastreetpub.com/music",
+   200,
+   {
+    "urlId": "music",
+    "typeName": "events",
+    "type": 1,
+    "title": "Upcoming Events"
+   },
+   40
+  ],
+  [
+   "https://www.albertastreetpub.com/events-1",
+   404,
+   null,
+   0
+  ]
+ ],
+ "crystal_tribe": {
+  "status": 200,
+  "total": 63
+ }
+}

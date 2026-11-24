@@ -1,0 +1,116 @@
+{
+ "total": 63,
+ "total_pages": 7,
+ "events": [
+  {
+   "id": 12864,
+   "title": "Senses Fail",
+   "start_date": "2026-11-23 20:00:00",
+   "url": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
+   "cost": "",
+   "categories": [
+    "November"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13373,
+   "title": "Crystal Ballroom History &#038; Art Tour",
+   "start_date": "2026-11-26 10:00:00",
+   "url": "https://www.crystalballroompdx.com/events/279283-crystal-ballroom-history-art-tour/",
+   "cost": "",
+   "categories": [
+    "November"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13127,
+   "title": "Decadent 80s Dance Party",
+   "start_date": "2026-11-27 20:00:00",
+   "url": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
+   "cost": "",
+   "categories": [
+    "November"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13133,
+   "title": "Inaugural Holiday Bazaar Brewfest",
+   "start_date": "2026-11-28 13:00:00",
+   "url": "https://www.crystalballroompdx.com/events/278692-inaugural-holiday-bazaar-brewfest/",
+   "cost": "",
+   "categories": [
+    "November"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13371,
+   "title": "Crystal Ballroom History &#038; Art Tour",
+   "start_date": "2026-11-29 10:00:00",
+   "url": "https://www.crystalballroompdx.com/events/279282-crystal-ballroom-history-art-tour/",
+   "cost": "",
+   "categories": [
+    "November"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13467,
+   "title": "Crystal Ballroom History &#038; Art Tour",
+   "start_date": "2026-12-03 10:00:00",
+   "url": "https://www.crystalballroompdx.com/events/279672-crystal-ballroom-history-art-tour/",
+   "cost": "",
+   "categories": [
+    "December"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13322,
+   "title": "Dirty Heads",
+   "start_date": "2026-12-03 20:00:00",
+   "url": "https://www.crystalballroompdx.com/events/279125-dirty-heads/",
+   "cost": "",
+   "categories": [
+    "December"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13097,
+   "title": "Yule Benefit Tour 2026",
+   "start_date": "2026-12-04 20:00:00",
+   "url": "https://www.crystalballroompdx.com/events/278582-yule-benefit-tour-2026/",
+   "cost": "",
+   "categories": [
+    "December"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13465,
+   "title": "Crystal Ballroom History &#038; Art Tour",
+   "start_date": "2026-12-06 10:00:00",
+   "url": "https://www.crystalballroompdx.com/events/279671-crystal-ballroom-history-art-tour/",
+   "cost": "",
+   "categories": [
+    "December"
+   ],
+   "venue": []
+  },
+  {
+   "id": 13325,
+   "title": "Buffalo Traffic Jam",
+   "start_date": "2026-12-06 20:00:00",
+   "url": "https://www.crystalballroompdx.com/events/279126-buffalo-traffic-jam/",
+   "cost": "",
+   "categories": [
+    "December"
+   ],
+   "venue": []
+  }
+ ]
+}

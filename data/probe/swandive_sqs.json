@@ -1,0 +1,45 @@
+[
+ {
+  "url": "https://www.swandivepdx.com/",
+  "status": 200,
+  "collection": {
+   "urlId": "home",
+   "typeName": "page",
+   "type": 10,
+   "title": "Home"
+  },
+  "keys": [
+   "calendarView",
+   "collection",
+   "empty",
+   "emptyFolder",
+   "localizedStrings",
+   "mainContent",
+   "pagePreviewContext",
+   "shareButtons",
+   "shoppingCart",
+   "showCart",
+   "template",
+   "uiextensions",
+   "userAccountsContext",
+   "website",
+   "websiteSettings"
+  ],
+  "site_title": "Swan Dive PDX"
+ },
+ {
+  "url": "https://www.swandivepdx.com/events",
+  "status": 404,
+  "note": "not json"
+ },
+ {
+  "url": "https://www.swandivepdx.com/calendar",
+  "status": 404,
+  "note": "not json"
+ },
+ {
+  "url": "https://www.swandivepdx.com/shows",
+  "status": 404,
+  "note": "not json"
+ }
+]
