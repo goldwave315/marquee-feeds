@@ -4358,5 +4358,2607 @@
  "holocene:63418349": {
   "first_seen": "2026-11-23T21:17:13+00:00",
   "baseline": false
+ },
+ "crystal:13127": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13322": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13097": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13325": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13328": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12854": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13160": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12729": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12673": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13331": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13334": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13067": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13122": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13251": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13511": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13239": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13269": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13087": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12641": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12639": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13443": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13475": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13125": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13434": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13528": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12793": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12795": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13500": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13192": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12714": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13245": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13515": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13490": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13493": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13010": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12752": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13353": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13190": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13437": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12779": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13108": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13389": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:12942": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13508": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13420": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13525": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13503": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13417": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13413": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13415": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "crystal:13532": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "etix:55176920": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:53260583": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:74596907": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:66168666": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:71988781": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:38868000": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:65167861": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:66141352": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:50811774": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:56351388": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:98888488": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:51242753": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:33843416": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:49203167": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:87015027": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:76452291": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:70780838": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:61884836": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:83625578": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:59280936": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:67476037": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:78177897": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:55282132": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:92058908": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:45994177": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:60389142": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:97377999": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:38262008": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:51036633": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:91653168": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:41568516": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:34197031": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:70624620": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:31335817": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:95559151": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:35310875": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:71675198": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:71275156": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:94480130": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:98634238": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:90241318": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:99332792": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:73478433": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:57504144": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:89288432": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:98124618": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:81727442": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:51480768": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:48289765": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:78504675": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:57947927": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:44556174": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:79266068": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:90377317": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:84228574": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:84279353": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:59524320": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:49401810": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:46773815": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:43674382": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:80999809": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:57769497": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:72455118": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:95229264": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:42832481": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:34987908": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:82326994": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:71204107": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:33139506": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:98390761": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:51785613": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:51992710": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:79093890": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:72902616": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:81897873": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:40753141": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:47352438": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:50643334": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:70384314": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:31927477": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:75222391": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:45113716": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:70875736": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:74460059": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:60085572": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:48399425": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:81619764": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:61980495": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:74937329": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:36551966": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:82959106": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:39118476": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:49045371": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:91857804": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:85474916": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:57601125": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:60220200": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:38367820": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:59458117": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:37357329": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:35005881": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:60585776": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:63469476": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:72321618": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:45456025": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:45000504": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:42683190": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:46085734": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:52199877": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:51592211": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:31011747": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:47724670": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:49162979": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:43845222": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:68841618": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:53711277": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:63815578": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:93260618": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:93577056": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:56163757": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:82960769": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "sold-out"
+   ]
+  ],
+  "sold_out_seen": "2026-11-24T16:14:17+00:00",
+  "sold_out_baseline": true
+ },
+ "etix:62225030": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:32253900": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:32660764": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:41664852": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:44031612": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:56048997": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "etix:41650042": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "rhp:\n \n\t\t\t\t\t\t\tBallet of Lights: Sleeping Beauty in a Sparkling Show 11/22\t\t\t\t\t\t \n|2027-01-24": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "rhp:\n \n\t\t\t\t\t\t\tBallet of Lights: Sleeping Beauty in a Sparkling Show 2/21\t\t\t\t\t\t \n|2027-02-21": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T16:14:17+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "ticketweb:15022733": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14430194": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14912753": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14414744": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14052894": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14448034": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14230934": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:13972164": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14386874": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14356534": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14366864": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14912693": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14397814": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14053104": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14334624": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14230894": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:13972414": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14354614": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14334704": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14912673": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14447924": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14053074": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14426954": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14230904": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:13972264": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14448044": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14257144": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14052904": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14230854": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14230944": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15050813": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15067903": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15067923": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14418994": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14384404": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14405834": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14422124": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14422484": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14444014": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14439204": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14364364": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14448694": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805007": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805021": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805008": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805022": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805023": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805024": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805025": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:759224": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805026": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805027": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:788550": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805017": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:805028": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:794075": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:799010": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:779468": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:802071": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:800990": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:799403": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "opendate:801720": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279150": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279058": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279059": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279026": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:274696": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279434": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279435": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279443": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279500": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279444": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:274695": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279483": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279485": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279486": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279487": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279489": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:274694": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279238": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279498": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280025": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280217": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:274693": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280211": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:273288": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:274692": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279537": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279799": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279998": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279634": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279781": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279801": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279917": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280027": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280033": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279636": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279182": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279548": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280291": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279561": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280210": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278519": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280026": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279237": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279116": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279538": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278032": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:273892": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279178": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279221": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279446": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278150": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278151": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279608": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278983": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279652": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278043": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279231": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278879": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280310": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:278563": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279388": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280311": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280292": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279440": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279997": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280312": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280219": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279176": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279408": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279396": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280313": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279123": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280314": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279124": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280315": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280326": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280329": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280330": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280333": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280331": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "mcmenamins:280332": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14363784": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14363994": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14364004": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14447064": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15031143": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314814": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314924": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425864": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14330094": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14383104": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14405794": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14195514": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442454": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314824": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314934": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425874": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442374": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14405634": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14405814": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14394434": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314834": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314944": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425894": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442384": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14383034": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14391894": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314844": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14455194": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425904": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442394": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15058493": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14314854": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425924": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442404": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14429074": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14383144": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15058603": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425984": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14390884": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:15057933": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14340494": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14425994": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442414": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442424": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14442434": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14390894": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14453454": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14364664": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "ticketweb:14454624": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "laurelthirst:https://laurelthirst.com/events/jackstraw-43/var/ri-1.l-L1": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "laurelthirst:https://laurelthirst.com/events/leo-moon-richie-young/": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "laurelthirst:https://laurelthirst.com/events/rhapsody-in-red-26/var/ri-1.l-L1": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "laurelthirst:https://laurelthirst.com/events/closed-for-the-holiday-12/": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "laurelthirst:https://laurelthirst.com/events/michelle-alany-the-mystics-32/": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "laurelthirst:https://laurelthirst.com/events/lewi-longmire-the-left-coast-roasters-guests/": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af156f45720040df9f35274": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af15750f1031b7f41b5252f": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af157f17623d61b8828ac3a": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af158b00da68c53cff6b08b": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6adf9c7bb2e4e02c3a0d7020": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af1591ee5f430702d2dcb1f": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af97b9c6b6c3a05a6e3a1af": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6ac3e1c5db68a81fa2098cec": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6951f807bd5c89062ec97ed7": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af654b7223c117aa18c42f0": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6aec34828cf78921440f33e9": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af65504af849963cff9571d": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af15cdddfb6e372c54f4127": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af15e745cc898674e64a7d0": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af1607bd5d60d59e00b1d26": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af1612e453a641e1364eb38": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af655a6223c117aa18c551f": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6aec307c6fd159064fac8320": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af97df932bd4e4c9cbd10b1": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af97e7678a4204d5cf7ab4d": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af97f3bcd630b63495d29a9": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af97f5fd4456a3a949de08a": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af97fd10285294904b82914": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af989fa6ebeb9343fc1c139": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af16235980f3f7fcdc389d7": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af98cc97d838631b8fdc7eb": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af98bf0b26e8f7be8fd2f3d": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af98d274e481940c5e1bea5": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af98e35356f3f21a18cd846": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af98f9dbb08207808bbd9a7": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af993ef33223a451b6b34e0": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af9962a0285294904b9b6de": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af9966ad4456a3a949f8e2d": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af997437d838631b8fe9d21": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af9874c4260b81329a4775a": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af99785cd630b63495f207d": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6afd6ae80000e93adabc2cc8": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6afd6b774cc3371e76158302": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6aec319e800f9c139fe22a31": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af997db482c3b3b41195fff": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af9993f6a469d10bc7d0e4f": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6afd6c2097a89711ee9ece51": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af999ac5f65340c736f9d4c": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6af985f25152ed58bee3e38b": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6afd6e278709ed327d083638": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "asp:6afd6fa1ead20a41273349e2": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ac71448c6247d2b4337860d": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6aeab249e08c1e73bc744ccc": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad9484481347d69bf3fc4b8": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6aeab35d6d16665878212e74": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad947ae8c918b1fd98445d3": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6aeab43d69a8935b19f7d38e": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ae260e41ba88932b6dc4c23": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad83d3a0c5dd20e2a0fc209": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6af4dd6029e51b5c680a789c": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad93c908c918b1fd9834057": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6af4df3f2f1cd2111ce4190b": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad947ce9afb5f265255ccbf": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6afceb0e116e6603cd0ce699": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad83dbd21209a1a82a76fd9": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad93d0f16d4b76191ddbdc4": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6afcebf139ebb641fd26f046": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad947ef25526c634e9bd6c4": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad83a06c0afb81e3a05dbc7": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad83e32e27421755d8d2c59": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6af4e0698bab3703913031f1": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad93e26b43e795b326b80fe": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6afcecb4ba64682c1348e193": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad94814e1d2801677a90ee7": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6afcedf08fcd302800077556": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad83cf78ba8265a15ef17a6": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad93d649193a4011fc621b0": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
+ },
+ "swandive:6ad83a2516e1af4becdf6a7a": {
+  "first_seen": "2026-11-24T16:14:17+00:00",
+  "baseline": true
  }
 }
