@@ -11,30 +11,22 @@ os.makedirs(OUT, exist_ok=True)
 S = scrape.session
 
 PAGES = {
- "roseland": "https://roselandpdx.com/events/",
- "hawthorne": "https://hawthornetheatre.com/events/",
- "albertarose": "https://albertarosetheatre.com/calendar/",
- "turn": "https://turnturnturnpdx.com/entertainment/",
- "dantes1": "https://www.danteslive.com/",
- "dantes2": "https://www.danteslive.com/page/2/",
- "showdown1": "https://www.showdownpdx.com/",
- "showdown2": "https://www.showdownpdx.com/page/2/",
- "laurel": "https://laurelthirst.com/",
- "toc": "https://www.tocportland.org/",
- "mcm_we": "https://appv2.mcmenamins.com/Events.aspx?LID=347",
- "mcm_venues": "https://www.mcmenamins.com/to-do/live-music-events/our-venues",
- "jazzor_venue": "https://jazzoregon.org/events/venue/9328",
- "jazzor": "https://jazzoregon.org/events",
- "bossa_http": "http://bossanovaballroom.com/events",
- "bossa_www": "https://www.bossanovaballroom.com/events",
- "fixinto": "https://www.thefixinto.com/",
+ "opendate_turn": "https://app.opendate.io/v/turn-turn-turn-3116?layout=iframe",
+ "opendate_turn2": "https://app.opendate.io/v/turn-turn-turn-3116",
+ "mcm_whiteeagle": "https://www.mcmenamins.com/white-eagle-saloon-hotel",
+ "mcm_whiteeagle_venue": "https://www.mcmenamins.com/white-eagle-saloon-hotel/white-eagle-saloon",
+ "mcm_mission": "https://www.mcmenamins.com/mission-theater",
+ "mcm_kennedy": "https://www.mcmenamins.com/kennedy-school",
+ "mcm_alsden": "https://www.mcmenamins.com/crystal-hotel/als-den",
+ "kenton_home": "https://www.kentonclub.com/",
+ "swandive_home": "https://www.swandivepdx.com/",
 }
-SQS = {
+SQS_OLD = {
  "kenton": ["https://www.kentonclub.com/", "https://www.kentonclub.com/events", "https://www.kentonclub.com/calendar", "https://www.kentonclub.com/shows"],
  "swandive": ["https://www.swandivepdx.com/", "https://www.swandivepdx.com/events", "https://www.swandivepdx.com/calendar", "https://www.swandivepdx.com/shows"],
  "asp": ["https://www.albertastreetpub.com/", "https://www.albertastreetpub.com/calendar", "https://www.albertastreetpub.com/music", "https://www.albertastreetpub.com/events-1"],
 }
-TRIBE = {"crystal_tribe": "https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events?per_page=10"}
+TRIBE_OLD = {"crystal_tribe": "https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events?per_page=10"}
 
 SECRET = re.compile(r"(?:sk|pk|tk)\.eyJ[\w.\-]+|AIza[0-9A-Za-z\-_]{35}|(?:sk|pk|rk)_(?:live|test)_\w{8,}|"
                     r"eyJ[\w\-]{10,}\.[\w\-]{10,}\.[\w\-]{5,}|AKIA[0-9A-Z]{16}|xox[baprs]-[\w-]+|gh[pousr]_\w{30,}")
@@ -65,7 +57,7 @@ def main():
         except Exception as exc:
             log[k] = {"error": f"{type(exc).__name__}: {exc}"[:200]}
         time.sleep(0.4)
-    for k, urls in SQS.items():
+    for k, urls in {}.items():
         out = []
         for u in urls:
             try:
@@ -100,7 +92,7 @@ def main():
             time.sleep(0.4)
         save(f"{k}_sqs.json", redact(json.dumps(out, indent=1)))
         log[k] = [(o.get("url"), o.get("status"), o.get("collection"), len(o.get("upcoming") or o.get("items") or [])) for o in out]
-    for k, u in TRIBE.items():
+    for k, u in {}.items():
         try:
             r = S.get(u, timeout=30)
             j = r.json()
