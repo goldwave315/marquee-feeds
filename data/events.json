@@ -1,128 +1,128 @@
 {
- "updated": "2026-11-24T16:14:17+00:00",
+ "updated": "2026-11-24T17:36:59+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 127,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 80,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Star Theater": {
-   "ok": true,
-   "count": 34,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.startheaterportland.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Jack London Revue": {
-   "ok": true,
-   "count": 56,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.jacklondonrevue.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 48,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Crystal Ballroom": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Roseland Theater": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Hawthorne Theatre": {
    "ok": true,
    "count": 43,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Alberta Rose Theatre": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Dante's": {
-   "ok": true,
-   "count": 42,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.danteslive.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Turn! Turn! Turn!": {
    "ok": true,
    "count": 20,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "White Eagle Saloon": {
    "ok": true,
    "count": 43,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Mission Theater": {
    "ok": true,
    "count": 38,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "The Showdown": {
    "ok": true,
-   "count": 49,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "count": 20,
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Laurelthirst Public House": {
    "ok": true,
    "count": 6,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Alberta Street Pub": {
    "ok": true,
    "count": 46,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Swan Dive": {
    "ok": true,
    "count": 27,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 66,
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-24T16:14:17+00:00"
+   "checked": "2026-11-24T17:36:59+00:00"
   }
  },
  "events": [
@@ -5097,21 +5097,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14314834",
-   "venue": "The Showdown",
-   "title": "Casual Eddie",
-   "support": "TK & Landmark Saloon & Pickathon Present",
-   "date": "2026-12-13",
-   "url": "https://www.showdownpdx.com/tm-event/casual-eddie-8/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "opendate:794075",
    "venue": "Turn! Turn! Turn!",
    "title": "An Orange Vanilla Christmas: An Original Musical w/ Tradie",
@@ -5229,21 +5214,6 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14314944",
-   "venue": "The Showdown",
-   "title": "Square Dancing with Caller Amy Hofer and Forty Drop Few with Alexander Jones/ KARAOKE @ 9:30",
-   "support": "Pickathon Presents",
-   "date": "2026-12-14",
-   "url": "https://www.showdownpdx.com/tm-event/square-dancing-with-miss-pralines-whip-lodge-tenderstrokes/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -5386,21 +5356,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14425894",
-   "venue": "The Showdown",
-   "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Robbie",
-   "support": "Pickathon Presents",
-   "date": "2026-12-15",
-   "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-best-intentions-and-dance-lessons-with-robbie/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "opendate:779468",
    "venue": "Turn! Turn! Turn!",
    "title": "Tracey Nelson + Joe Glass",
@@ -5503,21 +5458,6 @@
    "source": "square",
    "source_name": "Pioneer Courthouse Square",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14442384",
-   "venue": "The Showdown",
-   "title": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-   "support": "Landmark Saloon and Pickathon Present",
-   "date": "2026-12-16",
-   "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-william-surly-the-barroom-gospel-and-keston-brouillette-the-pickled-hearts-7/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -6020,21 +5960,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14383034",
-   "venue": "The Showdown",
-   "title": "Pistil, Sam Gelband, and Withholden",
-   "support": "Pickathon Presents",
-   "date": "2026-12-18",
-   "url": "https://www.showdownpdx.com/tm-event/pistil-sam-gelband-and-withholden/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "etix:38815767",
    "venue": "Aladdin Theater",
    "title": "True Loves",
@@ -6320,21 +6245,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14391894",
-   "venue": "The Showdown",
-   "title": "Honky Tonk Christmas with Pati Rojas Band, William Surly and the Barroom Gospel Band, Keston Brouillette and the Pickled Hearts, and Jake and the Hill People",
-   "support": "Pickathon Presents",
-   "date": "2026-12-19",
-   "url": "https://www.showdownpdx.com/tm-event/honky-tonk-christmas-with-pati-rojas-band-william-surly-and-the-barroom-gospel-band-keston-brouillette-and-the-pickled-hearts-and-jake-and-the-hill-people/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:280025",
    "venue": "White Eagle Saloon",
    "title": "One11Twenty",
@@ -6530,21 +6440,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14314844",
-   "venue": "The Showdown",
-   "title": "Casual Eddie",
-   "support": "TK & Landmark Saloon & Pickathon Present",
-   "date": "2026-12-20",
-   "url": "https://www.showdownpdx.com/tm-event/casual-eddie-9/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:280217",
    "venue": "White Eagle Saloon",
    "title": "Alex Lucero Band",
@@ -6635,21 +6530,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14455194",
-   "venue": "The Showdown",
-   "title": "Winter Solstice Celebration: Butterchurch/Smörkyrka with Scandi Dance Lessons and A Winter Song Circle",
-   "support": "Pickathon Presents",
-   "date": "2026-12-21",
-   "url": "https://www.showdownpdx.com/tm-event/winter-solstice-celebration-butterchurch-smorkyrka-with-scandi-dance-lessons-and-a-winter-song-circle/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:274693",
    "venue": "White Eagle Saloon",
    "title": "The Sugar Roots Blues Jam",
@@ -6692,21 +6572,6 @@
    "source": "square",
    "source_name": "Pioneer Courthouse Square",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14425904",
-   "venue": "The Showdown",
-   "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Peggy",
-   "support": "Pickathon Presents",
-   "date": "2026-12-22",
-   "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-best-intentions-and-dance-lessons-with-peggy-2/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -6767,21 +6632,6 @@
    "source": "square",
    "source_name": "Pioneer Courthouse Square",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14442394",
-   "venue": "The Showdown",
-   "title": "Whiskey Wednesday with Intermediate Two-Step Lessons and The James Sasser Quintet",
-   "support": "Landmark Saloon and Pickathon Present",
-   "date": "2026-12-23",
-   "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-intermediate-two-step-lessons-and-the-james-sasser-quintet/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -6875,21 +6725,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:15058493",
-   "venue": "The Showdown",
-   "title": "The Night After Christmas with Gabriel John and Two-Step Lessons with Peggy",
-   "support": "Pickathon Presents",
-   "date": "2026-12-26",
-   "url": "https://www.showdownpdx.com/tm-event/the-night-after-christmas-with-gabriel-john-and-two-step-lessons-with-peggy/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:280211",
    "venue": "White Eagle Saloon",
    "title": "Pump Up the Jam",
@@ -6931,21 +6766,6 @@
    "onsale": null,
    "source": "swandive",
    "source_name": "Swan Dive",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14314854",
-   "venue": "The Showdown",
-   "title": "Casual Eddie",
-   "support": "TK & Landmark Saloon & Pickathon Present",
-   "date": "2026-12-27",
-   "url": "https://www.showdownpdx.com/tm-event/casual-eddie-10/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
@@ -7025,21 +6845,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14425924",
-   "venue": "The Showdown",
-   "title": "Two-Step Tuesday with Best Intentions and Dance Lessons with Robbie",
-   "support": "Pickathon Presents",
-   "date": "2026-12-29",
-   "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-best-intentions-and-dance-lessons-with-robbie-2/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "ticketweb:14394134",
    "venue": "Jack London Revue",
    "title": "JERRY JOSEPH & THE JACKMORMONS",
@@ -7097,21 +6902,6 @@
    "source": "getdown",
    "source_name": "The Get Down",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14442404",
-   "venue": "The Showdown",
-   "title": "Whiskey Wednesday with Intermediate Two-Step Lessons and Brooklyn Del and the Revelators and Special Guests",
-   "support": "Landmark Saloon & Pickathon Presents",
-   "date": "2026-12-30",
-   "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-intermediate-two-step-lessons-and-brooklyn-del-and-the-revelators-and-special-guests/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -7423,21 +7213,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14429074",
-   "venue": "The Showdown",
-   "title": "Tropical Latin Goth Club NYE Pari",
-   "support": "Pickathon Presents",
-   "date": "2026-12-31",
-   "url": "https://www.showdownpdx.com/tm-event/tropical-latin-goth-club-nye-pari/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:279537",
    "venue": "White Eagle Saloon",
    "title": "Flashback New Year's Eve with DJ NoN",
@@ -7497,21 +7272,6 @@
    "city": "Portland",
    "source_name": "Songkick tracked artists",
    "first_seen": "2026-11-22T08:27:12+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14383144",
-   "venue": "The Showdown",
-   "title": "JERRY JOSEPH & THE JACKMORMONS with Ezra Meredith",
-   "support": "Pickathon Presents",
-   "date": "2027-01-01",
-   "url": "https://www.showdownpdx.com/tm-event/jerry-joseph-and-the-jackmormons-with-ezra-meredith-the-deer-lodge-all-stars/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -7637,21 +7397,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:15058603",
-   "venue": "The Showdown",
-   "title": "MY LIFE IN BLACK & WHITE + DRY COUNTY CROOKS CD Release Party and Advisory",
-   "support": "",
-   "date": "2027-01-02",
-   "url": "https://www.showdownpdx.com/tm-event/my-life-in-black-white-dry-county-crooks-cd-release-party/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:279799",
    "venue": "White Eagle Saloon",
    "title": "Talks to Plants",
@@ -7697,21 +7442,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14425984",
-   "venue": "The Showdown",
-   "title": "Two-Step Tuesday with Patsy's Decline and Two Step Lessons with Robbie",
-   "support": "Pickathon Presents",
-   "date": "2027-01-05",
-   "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-patsys-decline-and-two-step-lessons-with-robbie/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "ticketweb:14397794",
    "venue": "Jack London Revue",
    "title": "The Mike Dillon Band Feat Brad Haas & Otto Schrang",
@@ -7739,21 +7469,6 @@
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14390884",
-   "venue": "The Showdown",
-   "title": "Madam Cooper’s Country Cabaret",
-   "support": "",
-   "date": "2027-01-06",
-   "url": "https://www.showdownpdx.com/tm-event/madam-coopers-country-cabaret-70/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -7863,21 +7578,6 @@
    "city": "Portland",
    "source_name": "Songkick tracked artists",
    "first_seen": "2026-11-22T08:27:12+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:15057933",
-   "venue": "The Showdown",
-   "title": "Rose Gerber and The Lowtimers",
-   "support": "Pickathon Presents",
-   "date": "2027-01-08",
-   "url": "https://www.showdownpdx.com/tm-event/rose-gerber-and-the-lowtimers/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -8018,21 +7718,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14340494",
-   "venue": "The Showdown",
-   "title": "Shannon McNally",
-   "support": "Pickathon Presents",
-   "date": "2027-01-09",
-   "url": "https://www.showdownpdx.com/tm-event/shannon-mcnally/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "mcmenamins:279634",
    "venue": "White Eagle Saloon",
    "title": "Decadent 80s Day Club with DJ NoN",
@@ -8140,21 +7825,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14425994",
-   "venue": "The Showdown",
-   "title": "Two-Step Tuesday with Shorty and the Mustangs and Dance Lessons with Peggy",
-   "support": "Pickathon Presents",
-   "date": "2027-01-12",
-   "url": "https://www.showdownpdx.com/tm-event/two-step-tuesday-with-shorty-and-the-mustangs-and-dance-lessons-with-peggy-3/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "ticketweb:14418994",
    "venue": "Dante's",
    "title": "POPSMEAR",
@@ -8182,21 +7852,6 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14442414",
-   "venue": "The Showdown",
-   "title": "Whiskey Wednesday with Intermediate Two-Step Lessons and The Spare Parts",
-   "support": "Landmark Saloon and Pickathon Present",
-   "date": "2027-01-13",
-   "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-intermediate-two-step-lessons-and-the-spare-parts-2/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -8574,21 +8229,6 @@
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14442424",
-   "venue": "The Showdown",
-   "title": "Whiskey Wednesday with William Surly & the Barroom Gospel and Keston Brouillette & the Pickled Hearts",
-   "support": "Landmark Saloon and Pickathon Present",
-   "date": "2027-01-20",
-   "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-william-surly-the-barroom-gospel-and-keston-brouillette-the-pickled-hearts-8/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -8977,7 +8617,7 @@
    "support": "",
    "date": "2027-01-26",
    "url": "https://www.etix.com/ticket/p/39215187/sam-burton-portland-mississippi-studios",
-   "status": "",
+   "status": "on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -9028,21 +8668,6 @@
    "source": "holocene",
    "source_name": "Holocene",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14442434",
-   "venue": "The Showdown",
-   "title": "Whiskey Wednesday with Intermediate Two-Step Lessons and Brooklyn Del and the Revelators and Special Guests",
-   "support": "Landmark Saloon & Pickathon Presents",
-   "date": "2027-01-27",
-   "url": "https://www.showdownpdx.com/tm-event/whiskey-wednesday-with-intermediate-two-step-lessons-and-brooklyn-del-and-the-revelators-and-special-guests-2/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -9547,21 +9172,6 @@
    "baseline": true
   },
   {
-   "id": "ticketweb:14390894",
-   "venue": "The Showdown",
-   "title": "Madam Cooper’s Country Cabaret",
-   "support": "",
-   "date": "2027-02-03",
-   "url": "https://www.showdownpdx.com/tm-event/madam-coopers-country-cabaret-71/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "wonder:rare-americans-welcome-to-crooked-city-tour",
    "venue": "Wonder Ballroom",
    "title": "Rare Americans – Welcome to Crooked City Tour",
@@ -10056,21 +9666,6 @@
    "source": "holocene",
    "source_name": "Holocene",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14453454",
-   "venue": "The Showdown",
-   "title": "Mariee Siou",
-   "support": "Pickathon Presents",
-   "date": "2027-02-11",
-   "url": "https://www.showdownpdx.com/tm-event/mariee-siou-2/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -10872,21 +10467,6 @@
    "city": "Portland",
    "source_name": "Songkick tracked artists",
    "first_seen": "2026-11-22T08:27:12+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14364664",
-   "venue": "The Showdown",
-   "title": "REVEREND HORTON HEAT with Special Guest",
-   "support": "",
-   "date": "2027-02-21",
-   "url": "https://www.showdownpdx.com/tm-event/reverend-horton-heat-with-special-guest/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {
@@ -14625,7 +14205,7 @@
    "support": "",
    "date": "2027-04-26",
    "url": "https://www.etix.com/ticket/p/45683875/an-evening-with-matt-nathanson-to-the-point-solo-tour-2027-night-3-portland-polaris-hall",
-   "status": "on-sale",
+   "status": "",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -15744,21 +15324,6 @@
    "source": "wonder",
    "source_name": "Wonder Ballroom",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14454624",
-   "venue": "The Showdown",
-   "title": "Uncle Strut",
-   "support": "Pickathon Presents",
-   "date": "2027-06-12",
-   "url": "https://www.showdownpdx.com/tm-event/uncle-strut/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
   {

@@ -651,7 +651,13 @@
  },
  "etix:39215187": {
   "first_seen": "2026-11-22T06:28:27+00:00",
-  "baseline": true
+  "baseline": true,
+  "status_history": [
+   [
+    "2026-11-24T17:36:59+00:00",
+    "on-sale"
+   ]
+  ]
  },
  "etix:75518166": {
   "first_seen": "2026-11-22T06:28:27+00:00",
