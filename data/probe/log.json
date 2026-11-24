@@ -1,0 +1,56 @@
+{
+ "opendate_turn": {
+  "status": 200,
+  "final": "https://app.opendate.io/v/turn-turn-turn-3116?layout=iframe",
+  "len": 36274,
+  "saved_len": 29735
+ },
+ "opendate_turn2": {
+  "status": 200,
+  "final": "https://app.opendate.io/v/turn-turn-turn-3116",
+  "len": 37620,
+  "saved_len": 31107
+ },
+ "mcm_whiteeagle": {
+  "status": 200,
+  "final": "https://www.mcmenamins.com/white-eagle-saloon-hotel",
+  "len": 261468,
+  "saved_len": 194564
+ },
+ "mcm_whiteeagle_venue": {
+  "status": 200,
+  "final": "https://www.mcmenamins.com/white-eagle-saloon-hotel/white-eagle-saloon",
+  "len": 581694,
+  "saved_len": 460541
+ },
+ "mcm_mission": {
+  "status": 200,
+  "final": "https://www.mcmenamins.com/mission-theater",
+  "len": 566966,
+  "saved_len": 463852
+ },
+ "mcm_kennedy": {
+  "status": 200,
+  "final": "https://www.mcmenamins.com/kennedy-school",
+  "len": 984777,
+  "saved_len": 808320
+ },
+ "mcm_alsden": {
+  "status": 200,
+  "final": "https://www.mcmenamins.com/crystal-hotel/als-den",
+  "len": 961574,
+  "saved_len": 756699
+ },
+ "kenton_home": {
+  "status": 200,
+  "final": "https://www.kentonclub.com/",
+  "len": 911644,
+  "saved_len": 807772
+ },
+ "swandive_home": {
+  "status": 200,
+  "final": "https://www.swandivepdx.com/",
+  "len": 190559,
+  "saved_len": 65455
+ }
+}
