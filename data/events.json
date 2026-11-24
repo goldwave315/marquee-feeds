@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-23T21:17:13+00:00",
+ "updated": "2026-11-24T05:20:54+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 129,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 81,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 34,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 56,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 48,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 67,
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-23T21:17:13+00:00"
+   "checked": "2026-11-24T05:20:54+00:00"
   }
  },
  "events": [
@@ -90,13 +90,25 @@
    "support": "",
    "date": "2026-11-23",
    "url": "https://www.etix.com/ticket/p/40830725/haley-heynderickx-wryan-oxford-and-the-la-las-portland-aladdin-theater",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-24T05:20:54+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-24T05:20:54+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "etix:50476902",
@@ -1328,9 +1340,9 @@
    "id": "holocene:46707871",
    "venue": "Holocene",
    "title": "Jeremiah Chiu",
-   "support": "Omari Jazz, DJ Cuica",
+   "support": "DJ Cuica",
    "date": "2026-12-06",
-   "url": "https://www.etix.com/ticket/p/46707871/jeremiah-chiu-w-omari-jazz-dj-cuica-21-portland-holocene?partner_id=100",
+   "url": "https://www.etix.com/ticket/p/46707871/jeremiah-chiu-w-dj-cuica-21-portland-holocene?partner_id=100",
    "status": "",
    "announced": "2026-09-15T07:00:00-07:00",
    "onsale": "2026-09-15T07:00:00-07:00",
@@ -1801,7 +1813,7 @@
    "id": "etix:95870738",
    "venue": "Mississippi Studios",
    "title": "Nori Reed: Nori Is Present LIVE at Mississippi Studios",
-   "support": "",
+   "support": "Mx Dahlia Belle",
    "date": "2026-12-10",
    "url": "https://www.etix.com/ticket/p/95870738/nori-reednori-is-present-live-at-mississippi-studios-portland-mississippi-studios",
    "status": "on-sale",
@@ -4759,9 +4771,9 @@
    "id": "holocene:34393956",
    "venue": "Holocene",
    "title": "Romare (live)",
-   "support": "",
+   "support": "Limanjaya, Oscurita",
    "date": "2027-02-04",
-   "url": "https://www.etix.com/ticket/p/34393956/romare-live-21-portland-holocene?partner_id=100",
+   "url": "https://www.etix.com/ticket/p/34393956/romare-live-w-limanjaya-oscurita-21-portland-holocene?partner_id=100",
    "status": "",
    "announced": "2026-09-21T08:00:00-07:00",
    "onsale": "2026-09-25T12:00:00-07:00",

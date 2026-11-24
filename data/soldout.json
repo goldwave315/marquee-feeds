@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-23T21:17:13+00:00",
+ "updated": "2026-11-24T05:20:54+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
- "count": 17,
+ "count": 18,
  "events": [
+  {
+   "id": "etix:40830725",
+   "venue": "Aladdin Theater",
+   "title": "Haley Heynderickx w/ Ryan Oxford and the La La's",
+   "support": "",
+   "date": "2026-11-23",
+   "url": "https://www.etix.com/ticket/p/40830725/haley-heynderickx-wryan-oxford-and-the-la-las-portland-aladdin-theater",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Aladdin Theater",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-24T05:20:54+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-24T05:20:54+00:00",
+     "sold-out"
+    ]
+   ]
+  },
   {
    "id": "etix:59224066",
    "venue": "Polaris Hall",
