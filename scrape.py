@@ -59,6 +59,7 @@ def pt_date_from_iso(value):
         return None
     v = value.strip().replace("Z", "+00:00")
     v = re.sub(r"([+-]\d{2})(\d{2})$", r"\1:\2", v)  # -0700 -> -07:00
+    v = re.sub(r"([+-])(\d):(\d{2})$", r"\g<1>0\2:\3", v)  # -8:00 -> -08:00 (Laurelthirst)
     try:
         dt = datetime.fromisoformat(v)
     except ValueError:
@@ -73,31 +74,64 @@ MONTHS = {m: i for i, m in enumerate(
 
 
 def parse_loose_date(text):
-    """'November 27, 2026', 'Fri, November 27th, 2026', 'Sat Nov 21' -> ISO date.
+    """'November 27, 2026', 'Fri, November 27th, 2026', 'Sat Nov 21', '11.24' -> ISO date.
 
     A date with no year is the next time that month and day comes round
-    (allowing two days of grace for tonight's late listings).
+    (allowing two days of grace for tonight's late listings). Numeric dates are
+    read US-style, month first (Dante's lists '11.24').
     """
     if not text:
         return None
     t = clean(text).lower()
-    m = re.search(r"([a-z]{3})[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s*(\d{4})?", t)
-    if not m or m.group(1) not in MONTHS:
-        return None
-    month, day = MONTHS[m.group(1)], int(m.group(2))
-    if m.group(3):
+    month = day = year = None
+    for m in re.finditer(r"([a-z]{3})[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s*(\d{4})?", t):
+        if m.group(1) in MONTHS:
+            month, day = MONTHS[m.group(1)], int(m.group(2))
+            year = int(m.group(3)) if m.group(3) else None
+            break
+    if month is None:
+        n = re.search(r"\b(\d{1,2})[./](\d{1,2})(?:[./](\d{2}|\d{4}))?\b", t)
+        if not n:
+            return None
+        month, day = int(n.group(1)), int(n.group(2))
+        if n.group(3):
+            year = int(n.group(3)) + (2000 if len(n.group(3)) == 2 else 0)
+    if year:
         try:
-            return date(int(m.group(3)), month, day).isoformat()
+            return date(year, month, day).isoformat()
         except ValueError:
             return None
+    # If the text names a weekday ('Wednesday, November 3'), use it to pick the year:
+    # a stale listing from earlier this year must not be read as next year's show.
+    wd = re.search(r"\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday|"
+                   r"mon|tues?|wed|thur?s?|fri|sat|sun)\b", t)
+    weekday = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"].index(wd.group(1)[:3]) if wd else None
+    candidates = []
     for year in (TODAY.year, TODAY.year + 1):
         try:
             d = date(year, month, day)
         except ValueError:
             continue
         if d >= TODAY - timedelta(days=2):
+            candidates.append(d)
+    for d in candidates:
+        if weekday is None or d.weekday() == weekday:
             return d.isoformat()
-    return None
+    # The weekday matched neither year (a typo on the page): fall back to the next date.
+    return candidates[0].isoformat() if candidates else None
+
+
+def unique(events):
+    """Drop repeats of the same id within one source (pages that render a list twice)."""
+    out, seen = [], {}
+    for e in events:
+        if e["id"] in seen:
+            if not out[seen[e["id"]]]["title"] and e["title"]:
+                out[seen[e["id"]]] = e
+            continue
+        seen[e["id"]] = len(out)
+        out.append(e)
+    return out
 
 
 def event(source, native_id, venue, title, day, url, support="", status="", announced=None,
@@ -241,8 +275,11 @@ def holocene():
     return out
 
 
-def tribe(base, venue, source):
-    """The Events Calendar REST API (Pioneer Courthouse Square, Edgefield)."""
+def tribe(base, venue, source, skip=None):
+    """The Events Calendar REST API (Pioneer Courthouse Square, Edgefield, Crystal Ballroom).
+
+    skip: a regex of titles that are not shows (building tours, brewfests).
+    """
     out = []
     for page in range(1, 20):
         r = session.get(f"{base}/wp-json/tribe/events/v1/events",
@@ -253,6 +290,8 @@ def tribe(base, venue, source):
         r.raise_for_status()
         j = r.json()
         for e in j.get("events", []):
+            if skip and skip.search(clean(e.get("title"))):
+                continue
             out.append(event(source, e.get("id"), venue, e.get("title"),
                              (e.get("start_date") or "")[:10] or None, e.get("url"),
                              announced=e.get("date")))
@@ -334,6 +373,130 @@ def wonder(previous):
                 day = None
         out.append(event("wonder", slug, "Wonder Ballroom", item.title.get_text() if item.title else "",
                          day, link, announced=announced))
+    return out
+
+
+def etix_id(href):
+    m = re.search(r"etix\.com/ticket/[a-z]/(\d+)", href or "")
+    return m.group(1) if m else None
+
+
+def rhp(url, default_venue):
+    """Rockhouse Partners (RHP) WordPress calendars: Roseland, Hawthorne, Alberta Rose.
+
+    One server-rendered page lists about six months of shows. Single shows sit
+    in .rhpSingleEvent blocks; multi-night runs sit in .rhpEventSeries with one
+    <li> per night. Shows sold through Etix keep the etix:<id> id the True West
+    sites use, so a show listed on both is kept once.
+    """
+    soup = BeautifulSoup(get(url).text, "html.parser")
+    out = []
+
+    def status_of(el):
+        st = ""
+        for sp in el.select("span.rhp-event-cta"):  # nested spans: the innermost wins
+            for c in sp.get("class", []):
+                if c != "rhp-event-cta":
+                    st = c
+        return st
+
+    for ev in soup.select(".rhpSingleEvent"):
+        t = ev.select_one(".rhp-event__title--list") or ev.select_one("#eventTitle")
+        title = t.get_text(" ") if t else ""
+        d = ev.select_one(".singleEventDate")
+        day = parse_loose_date(d.get_text(" ") if d else "")
+        sub = ev.select_one(".eventSubHeader")
+        support = re.sub(r"^\s*(with|w/)\s+", "", clean(sub.get_text(" ")), flags=re.I) if sub else ""
+        v = ev.select_one(".venueLink")
+        venue = v.get_text(" ") if v else default_venue
+        tix = ev.select_one("a[href*='etix.com']")
+        page = ev.select_one("a.url")
+        eid = etix_id(tix["href"]) if tix else None
+        link = tix["href"].split("?")[0] if tix else (page["href"] if page else url)
+        native = eid or (page["href"] if page else f"{title}|{day}")
+        out.append(event("etix" if eid else "rhp", native, venue, title, day, link,
+                         support=support, status=status_of(ev)))
+    for ser in soup.select(".rhpEventSeries"):
+        t = ser.select_one(".rhp-event__title--list")
+        title = t.get_text(" ") if t else ""
+        for li in ser.select(".rhp-event-series-individual"):
+            d = li.select_one(".rhp-event-series-date")
+            day = parse_loose_date(d.get_text(" ") if d else "")
+            tix = li.select_one("a[href*='etix.com']")
+            eid = etix_id(tix["href"]) if tix else None
+            out.append(event("etix" if eid else "rhp", eid or f"{title}|{day}", default_venue, title,
+                             day, tix["href"].split("?")[0] if tix else url, status=status_of(li)))
+    return unique(out)
+
+
+def opendate(url, venue):
+    """Opendate venue pages (Turn! Turn! Turn!): one server-rendered card per show."""
+    soup = BeautifulSoup(get(url).text, "html.parser")
+    out = []
+    for card in soup.select(".confirm-card"):
+        a = card.select_one("a.public-listing-text") or card.select_one("a[href]")
+        if not a:
+            continue
+        href = a["href"].split("?")[0]
+        m = re.search(r"-(\d+)$", href)
+        dates = card.select(".public-listing-date")
+        day = parse_loose_date(dates[0].get_text(" ")) if dates else None
+        out.append(event("opendate", m.group(1) if m else href, venue, a.get_text(" "), day, href))
+    return out
+
+
+MCM_SKIP = re.compile(r"history (&|and) art tour|brewfest|bazaar|thanksgiving|brunch|"
+                      r"birthday, terminator stout|friendsgiving", re.I)
+
+
+def mcmenamins(url, rooms):
+    """McMenamins property pages (White Eagle, Mission Theater): event cards.
+
+    rooms maps the room name printed on the card to the venue name we use;
+    cards for other rooms and chain-wide promotions ('All Locations') are skipped.
+    Card titles are lines split by <br>: a 'X Presents' line is the presenter,
+    the next line is the headliner, the rest are support acts.
+    """
+    soup = BeautifulSoup(get(url).text, "html.parser")
+    out = []
+    for card in soup.select(".tm-panel-card.event.detailed"):
+        if "movie" in card.get("class", []):
+            continue
+        room = card.select_one("h4.tm-card-title span")
+        venue = rooms.get(clean(room.get_text(" "))) if room else None
+        if not venue:
+            continue
+        head = card.select_one(".tm-panel-titlebg h3")
+        if not head:
+            continue
+        lines = [clean(x) for x in head.get_text("\n").split("\n") if clean(x)]
+        lines = [x for x in lines if not re.search(r"\bpresents?$", x, re.I)] or lines
+        title = lines[0]
+        if MCM_SKIP.search(" ".join(lines)):
+            continue
+        when = card.select_one(".tm-card-content h3")
+        day = parse_loose_date(when.get_text(" ") if when else "")
+        link = card.select_one("a[href*='/events/']")
+        href = link["href"] if link else url
+        m = re.search(r"/events/(\d+)", href)
+        out.append(event("mcmenamins", m.group(1) if m else f"{title}|{day}", venue, title, day,
+                         "https://www.mcmenamins.com" + href if href.startswith("/") else href,
+                         support=", ".join(lines[1:4])))
+    return unique(out)
+
+
+def squarespace_events(url, venue, source):
+    """Squarespace event collections read as JSON (Alberta Street Pub, Swan Dive)."""
+    j = get(url, params={"format": "json"}).json()
+    base = re.match(r"https?://[^/]+", url).group(0)
+    out = []
+    for it in j.get("upcoming") or j.get("items") or []:
+        start = it.get("startDate")
+        day = None
+        if isinstance(start, (int, float)):
+            day = datetime.fromtimestamp(start / 1000, timezone.utc).astimezone(PT).date().isoformat()
+        link = base + it["fullUrl"] if it.get("fullUrl") else url
+        out.append(event(source, it.get("id") or link, venue, it.get("title"), day, link))
     return out
 
 
@@ -426,6 +589,30 @@ SOURCES = [
     ("Pioneer Courthouse Square",
      lambda prev: tribe("https://www.thesquarepdx.org", "Pioneer Courthouse Square", "square")),
     ("Edgefield", lambda prev: tribe("https://edgefieldconcerts.com", "McMenamins Edgefield", "edgefield")),
+    # Added Nov 2026: the rooms that used to reach Marquee only through DoPDX or Songkick.
+    ("Crystal Ballroom",
+     lambda prev: tribe("https://www.crystalballroompdx.com", "Crystal Ballroom", "crystal",
+                        skip=re.compile(r"history (&|and) art tour|brewfest|bazaar", re.I))),
+    ("Roseland Theater", lambda prev: rhp("https://roselandpdx.com/events/", "Roseland Theater")),
+    ("Hawthorne Theatre", lambda prev: rhp("https://hawthornetheatre.com/events/", "Hawthorne Theatre")),
+    ("Alberta Rose Theatre",
+     lambda prev: rhp("https://albertarosetheatre.com/calendar/", "Alberta Rose Theatre")),
+    ("Dante's", lambda prev: ticketweb_wp("https://www.danteslive.com", "Dante's")),
+    ("Turn! Turn! Turn!",
+     lambda prev: opendate("https://app.opendate.io/v/turn-turn-turn-3116", "Turn! Turn! Turn!")),
+    ("White Eagle Saloon",
+     lambda prev: mcmenamins("https://www.mcmenamins.com/white-eagle-saloon-hotel/white-eagle-saloon",
+                             {"White Eagle Saloon": "White Eagle Saloon"})),
+    ("Mission Theater",
+     lambda prev: mcmenamins("https://www.mcmenamins.com/mission-theater",
+                             {"Mission Theater": "Mission Theater"})),
+    ("The Showdown", lambda prev: ticketweb_wp("https://www.showdownpdx.com", "The Showdown")),
+    ("Laurelthirst Public House",
+     lambda prev: jsonld("https://laurelthirst.com/", "Laurelthirst Public House", "laurelthirst")),
+    ("Alberta Street Pub",
+     lambda prev: squarespace_events("https://www.albertastreetpub.com/music", "Alberta Street Pub", "asp")),
+    ("Swan Dive",
+     lambda prev: squarespace_events("https://www.swandivepdx.com/events-2-1", "Swan Dive", "swandive")),
     ("Songkick tracked artists", lambda prev: songkick()),
 ]
 
