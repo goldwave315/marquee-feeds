@@ -184,8 +184,14 @@
    [
     "2026-11-22T06:48:51+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-25T12:45:46+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-25T12:45:46+00:00",
+  "sold_out_baseline": false
  },
  "etix:41549327": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -5782,8 +5788,14 @@
    [
     "2026-11-24T16:14:17+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-25T12:45:46+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-25T12:45:46+00:00",
+  "sold_out_baseline": false
  },
  "etix:82960769": {
   "first_seen": "2026-11-24T16:14:17+00:00",
@@ -7061,6 +7073,14 @@
  },
  "asp:6b05d6ae58752f10e6c61a38": {
   "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "laurelthirst:https://laurelthirst.com/events/the-bbq-boys-9/": {
+  "first_seen": "2026-11-25T12:45:46+00:00",
+  "baseline": false
+ },
+ "laurelthirst:https://laurelthirst.com/events/the-electric-stomp-14/var/ri-1.l-L1": {
+  "first_seen": "2026-11-25T12:45:46+00:00",
   "baseline": false
  }
 }

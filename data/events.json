@@ -1,281 +1,131 @@
 {
- "updated": "2026-11-25T02:22:31+00:00",
+ "updated": "2026-11-25T12:45:46+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
-   "count": 127,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 125,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 92,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 80,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Star Theater": {
-   "ok": true,
-   "count": 34,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.startheaterportland.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Jack London Revue": {
-   "ok": true,
-   "count": 63,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.jacklondonrevue.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Holocene": {
    "ok": true,
-   "count": 49,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 48,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Crystal Ballroom": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Roseland Theater": {
    "ok": true,
-   "count": 32,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 31,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Hawthorne Theatre": {
    "ok": true,
-   "count": 44,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 43,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Alberta Rose Theatre": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Dante's": {
    "ok": true,
-   "count": 43,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 42,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Turn! Turn! Turn!": {
    "ok": true,
-   "count": 20,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 19,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "White Eagle Saloon": {
    "ok": true,
    "count": 45,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Mission Theater": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "The Showdown": {
-   "ok": true,
-   "count": 50,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.showdownpdx.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Laurelthirst Public House": {
    "ok": true,
    "count": 6,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Alberta Street Pub": {
    "ok": true,
-   "count": 49,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "count": 47,
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Swan Dive": {
    "ok": true,
    "count": 27,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 66,
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-25T02:22:31+00:00"
+   "checked": "2026-11-25T12:45:46+00:00"
   }
  },
  "events": [
-  {
-   "id": "asp:6af156f45720040df9f35274",
-   "venue": "Alberta Street Pub",
-   "title": "Bridgetown Trivia on the Heated Patio!",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://www.albertastreetpub.com/music/2023/3/13/bridgetown-trivia-on-the-heated-patio-6cwzx-dg47h-78jwb-2lt32-azz6n-gd4lz-rd6wg-6ghnc-653hl-dnb5c-42dcy-r6ztl-37cda-7ljxc-fwzrf-73ywh",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "asp",
-   "source_name": "Alberta Street Pub",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "asp:6af15750f1031b7f41b5252f",
-   "venue": "Alberta Street Pub",
-   "title": "Rosebolt",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://www.albertastreetpub.com/music/2026/11/24/rosebolt",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "asp",
-   "source_name": "Alberta Street Pub",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:15022733",
-   "venue": "Dante's",
-   "title": "DISTANT with Heavy//Hitter, Torn Open, Katywentmissing, & Glasseater",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://www.danteslive.com/tm-event/distant-with-heavy-hitter-torn-open-katywentmissing/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Dante's",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:70624620",
-   "venue": "Hawthorne Theatre",
-   "title": "Boston Manor",
-   "support": "Ben Quad & Super Sometimes",
-   "date": "2026-11-24",
-   "url": "https://www.etix.com/ticket/p/70624620/boston-manor-portland-hawthorne-theatre",
-   "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Hawthorne Theatre",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "holocene:50070290",
-   "venue": "Holocene",
-   "title": "Spanish Love Songs",
-   "support": "The Cost of Living Tour",
-   "date": "2026-11-24",
-   "url": "https://www.etix.com/ticket/p/50070290/spanish-love-songs-the-cost-of-living-tour-portland-holocene?partner_id=100",
-   "status": "",
-   "announced": "2026-09-09T07:00:00-07:00",
-   "onsale": "2026-09-10T10:00:00-07:00",
-   "source": "holocene",
-   "source_name": "Holocene",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "laurelthirst:https://laurelthirst.com/events/jackstraw-43/var/ri-1.l-L1",
-   "venue": "Laurelthirst Public House",
-   "title": "Jackstraw",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://laurelthirst.com/events/jackstraw-43/var/ri-1.l-L1",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "laurelthirst",
-   "source_name": "Laurelthirst Public House",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "laurelthirst:https://laurelthirst.com/events/leo-moon-richie-young/",
-   "venue": "Laurelthirst Public House",
-   "title": "Kate & Ritchie / Andrea Walker",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://laurelthirst.com/events/leo-moon-richie-young/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "laurelthirst",
-   "source_name": "Laurelthirst Public House",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:88154444",
-   "venue": "Mississippi Studios",
-   "title": "Chorale For A Cause",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://www.etix.com/ticket/p/88154444/chorale-for-a-cause-portland-mississippi-studios",
-   "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:36916561",
-   "venue": "Polaris Hall",
-   "title": "Portland School III",
-   "support": "The Pyxis Quartet",
-   "date": "2026-11-24",
-   "url": "https://www.etix.com/ticket/p/36916561/portland-school-iii-portland-polaris-hall",
-   "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:55176920",
-   "venue": "Roseland Theater",
-   "title": "Alter Bridge – What Lies Within Tour",
-   "support": "Big Wreck, Tim Montana",
-   "date": "2026-11-24",
-   "url": "https://www.etix.com/ticket/p/55176920/alter-bridge-what-lies-within-tour-portland-roseland-theater",
-   "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Roseland Theater",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
   {
    "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
    "venue": "The Get Down",
@@ -303,21 +153,6 @@
    "onsale": null,
    "source": "ticketweb",
    "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "opendate:805007",
-   "venue": "Turn! Turn! Turn!",
-   "title": "KJ Eggbert Cleavage",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://app.opendate.io/e/kj-eggbert-cleavage-november-24-2026-805007",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "opendate",
-   "source_name": "Turn! Turn! Turn!",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
@@ -1073,6 +908,36 @@
    "source_name": "Jack London Revue",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "laurelthirst:https://laurelthirst.com/events/the-bbq-boys-9/",
+   "venue": "Laurelthirst Public House",
+   "title": "The BBQ Boys",
+   "support": "",
+   "date": "2026-11-28",
+   "url": "https://laurelthirst.com/events/the-bbq-boys-9/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "laurelthirst",
+   "source_name": "Laurelthirst Public House",
+   "first_seen": "2026-11-25T12:45:46+00:00",
+   "baseline": false
+  },
+  {
+   "id": "laurelthirst:https://laurelthirst.com/events/the-electric-stomp-14/var/ri-1.l-L1",
+   "venue": "Laurelthirst Public House",
+   "title": "The Electric Stomp",
+   "support": "",
+   "date": "2026-11-28",
+   "url": "https://laurelthirst.com/events/the-electric-stomp-14/var/ri-1.l-L1",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "laurelthirst",
+   "source_name": "Laurelthirst Public House",
+   "first_seen": "2026-11-25T12:45:46+00:00",
+   "baseline": false
   },
   {
    "id": "mcmenamins:278032",
@@ -2338,13 +2203,25 @@
    "support": "Kisser",
    "date": "2026-12-04",
    "url": "https://www.etix.com/ticket/p/56106710/buck-meek-portland-mississippi-studios",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-25T12:45:46+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-25T12:45:46+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "square:22879",
@@ -4158,13 +4035,25 @@
    "support": "",
    "date": "2026-12-11",
    "url": "https://www.etix.com/ticket/p/56163757/white-album-xmas-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Alberta Rose Theatre",
    "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-25T12:45:46+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-25T12:45:46+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "asp:6af98bf0b26e8f7be8fd2f3d",
@@ -10870,7 +10759,7 @@
   {
    "id": "ticketweb:14364364",
    "venue": "Dante's",
-   "title": "REVEREND HORTON HEAT with Special Guest",
+   "title": "REVEREND HORTON HEAT with The Brainiax",
    "support": "",
    "date": "2027-02-20",
    "url": "https://www.danteslive.com/tm-event/reverend-horton-heat-with-special-guest/",
