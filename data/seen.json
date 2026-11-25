@@ -942,8 +942,14 @@
    [
     "2026-11-22T06:48:51+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-25T23:36:44+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-25T23:36:44+00:00",
+  "sold_out_baseline": false
  },
  "etix:94603946": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -5692,6 +5698,10 @@
    [
     "2026-11-25T02:22:31+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-25T23:36:44+00:00",
+    "sold-out"
    ]
   ],
   "sold_out_seen": "2026-11-24T16:14:17+00:00",
@@ -7082,5 +7092,77 @@
  "laurelthirst:https://laurelthirst.com/events/the-electric-stomp-14/var/ri-1.l-L1": {
   "first_seen": "2026-11-25T12:45:46+00:00",
   "baseline": false
+ },
+ "etix:97374107": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "ticketweb:15069903": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": true
+ },
+ "holocene:86956224": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "holocene:47598337": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280397": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280406": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280405": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280404": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280403": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280402": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280401": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280400": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280399": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280398": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": false
+ },
+ "ticketweb:15058023": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": true
+ },
+ "ticketweb:15060713": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": true
+ },
+ "ticketweb:15071873": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": true
+ },
+ "ticketweb:14454864": {
+  "first_seen": "2026-11-25T23:36:44+00:00",
+  "baseline": true
  }
 }

@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-25T12:45:46+00:00",
+ "updated": "2026-11-25T23:36:44+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
- "count": 25,
+ "count": 26,
  "events": [
+  {
+   "id": "etix:52316729",
+   "venue": "Mississippi Studios",
+   "title": "Danielle Ponder - Everything Has Changed: The Tour",
+   "support": "",
+   "date": "2027-03-09",
+   "url": "https://www.etix.com/ticket/p/52316729/danielle-ponder-everything-has-changedthe-tour-portland-mississippi-studios",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Mississippi Studios + Polaris Hall",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-25T23:36:44+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-25T23:36:44+00:00",
+     "sold-out"
+    ]
+   ]
+  },
   {
    "id": "etix:56106710",
    "venue": "Mississippi Studios",
@@ -81,7 +108,7 @@
    "support": "",
    "date": "2026-11-28",
    "url": "https://www.etix.com/ticket/p/31011747/the-next-waltz-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -98,6 +125,10 @@
     [
      "2026-11-25T02:22:31+00:00",
      "on-sale"
+    ],
+    [
+     "2026-11-25T23:36:44+00:00",
+     "sold-out"
     ]
    ]
   },
