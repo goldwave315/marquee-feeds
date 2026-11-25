@@ -5682,6 +5682,10 @@
    [
     "2026-11-24T16:14:17+00:00",
     "sold-out"
+   ],
+   [
+    "2026-11-25T02:22:31+00:00",
+    "on-sale"
    ]
   ],
   "sold_out_seen": "2026-11-24T16:14:17+00:00",
@@ -6966,5 +6970,97 @@
  "swandive:6ad83a2516e1af4becdf6a7a": {
   "first_seen": "2026-11-24T16:14:17+00:00",
   "baseline": true
+ },
+ "etix:42606869": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-25T02:22:31+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "ticketweb:15066803": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "ticketweb:15066733": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "ticketweb:15066753": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "ticketweb:15066813": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "ticketweb:15066763": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "ticketweb:15066783": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "ticketweb:15066793": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "holocene:71986612": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "etix:94810713": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-25T02:22:31+00:00",
+    "on-sale"
+   ]
+  ]
+ },
+ "ticketweb:15066293": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": true
+ },
+ "mcmenamins:279499": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280306": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280304": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "mcmenamins:280044": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "ticketweb:15070313": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "asp:6b05d511793bda635d2615c8": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "asp:6b05d3933d53040fc612c09d": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "asp:6b05d860793bda635d267952": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
+ },
+ "asp:6b05d6ae58752f10e6c61a38": {
+  "first_seen": "2026-11-25T02:22:31+00:00",
+  "baseline": false
  }
 }

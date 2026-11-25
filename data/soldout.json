@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:36:59+00:00",
+ "updated": "2026-11-25T02:22:31+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
  "count": 23,
  "events": [
@@ -27,7 +27,7 @@
    "support": "",
    "date": "2026-11-28",
    "url": "https://www.etix.com/ticket/p/31011747/the-next-waltz-portland-alberta-rose-theatre",
-   "status": "sold-out",
+   "status": "on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -35,7 +35,17 @@
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true,
    "sold_out_seen": "2026-11-24T16:14:17+00:00",
-   "sold_out_baseline": true
+   "sold_out_baseline": true,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "sold-out"
+    ],
+    [
+     "2026-11-25T02:22:31+00:00",
+     "on-sale"
+    ]
+   ]
   },
   {
    "id": "etix:53711277",
