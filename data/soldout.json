@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-26T08:09:05+00:00",
+ "updated": "2026-11-26T18:58:29+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
- "count": 26,
+ "count": 25,
  "events": [
+  {
+   "id": "etix:45683875",
+   "venue": "Polaris Hall",
+   "title": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 3)",
+   "support": "",
+   "date": "2027-04-26",
+   "url": "https://www.etix.com/ticket/p/45683875/an-evening-with-matt-nathanson-to-the-point-solo-tour-2027-night-3-portland-polaris-hall",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Mississippi Studios + Polaris Hall",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-26T18:58:29+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-26T18:58:29+00:00",
+     "sold-out"
+    ]
+   ]
+  },
   {
    "id": "etix:47724670",
    "venue": "Alberta Rose Theatre",
@@ -118,7 +145,7 @@
    "support": "",
    "date": "2026-11-28",
    "url": "https://www.etix.com/ticket/p/31011747/the-next-waltz-portland-alberta-rose-theatre",
-   "status": "sold-out",
+   "status": "on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -139,6 +166,10 @@
     [
      "2026-11-25T23:36:44+00:00",
      "sold-out"
+    ],
+    [
+     "2026-11-26T18:58:29+00:00",
+     "on-sale"
     ]
    ]
   },
@@ -225,50 +256,6 @@
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true,
    "sold_out_seen": "2026-11-24T16:14:17+00:00",
-   "sold_out_baseline": true
-  },
-  {
-   "id": "etix:53477310",
-   "venue": "Aladdin Theater",
-   "title": "SOLD OUT: Emma Ruth Rundle - THESE KILLING TIMES",
-   "support": "Cinder Well",
-   "date": "2026-11-25",
-   "url": "https://www.aladdin-theater.com",
-   "status": "not-on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Aladdin Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true,
-   "sold_out_seen": "2026-11-22T06:48:51+00:00",
-   "sold_out_baseline": true,
-   "status_history": [
-    [
-     "2026-11-22T06:48:51+00:00",
-     "sold-out"
-    ],
-    [
-     "2026-11-26T08:09:05+00:00",
-     "not-on-sale"
-    ]
-   ]
-  },
-  {
-   "id": "etix:94434785",
-   "venue": "Polaris Hall",
-   "title": "MOVED TO ALADDIN THEATER: Emma Ruth Rundle - THESE KILLING TIMES",
-   "support": "Cinder Well",
-   "date": "2026-11-25",
-   "url": "https://mississippistudios.com",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true,
-   "sold_out_seen": "2026-11-22T06:48:51+00:00",
    "sold_out_baseline": true
   },
   {

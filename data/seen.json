@@ -1246,8 +1246,14 @@
    [
     "2026-11-22T06:48:51+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-26T18:58:29+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-26T18:58:29+00:00",
+  "sold_out_baseline": false
  },
  "etix:71590476": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -5710,6 +5716,10 @@
    [
     "2026-11-25T23:36:44+00:00",
     "sold-out"
+   ],
+   [
+    "2026-11-26T18:58:29+00:00",
+    "on-sale"
    ]
   ],
   "sold_out_seen": "2026-11-24T16:14:17+00:00",
@@ -7181,6 +7191,58 @@
  },
  "ticketweb:15073303": {
   "first_seen": "2026-11-26T08:09:05+00:00",
+  "baseline": false
+ },
+ "ticketweb:15066853": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "laurelthirst:https://laurelthirst.com/events/reb-the-good-news-barn-party/": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07eeda1f90433035915be8": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6afd6e6d999b81315cf3b9e3": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6afd6f346187e311dda7a565": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07ef99727af7278e590b6d": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07eff83b3c0873bfed062b": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07f20854bab20a5ad61a3a": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07f348c705dd24f4655f4c": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07f3f9b2834d1b43497004": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07f4ff15471c5218570b71": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07f4e24526292f759b5b0f": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
+  "baseline": false
+ },
+ "asp:6b07f5e2c9d7ab41d824a177": {
+  "first_seen": "2026-11-26T18:58:29+00:00",
   "baseline": false
  }
 }
