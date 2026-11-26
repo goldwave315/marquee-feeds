@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-25T23:36:44+00:00",
+ "updated": "2026-11-26T08:09:05+00:00",
  "window_days": 14,
- "count": 44,
+ "count": 45,
  "events": [
+  {
+   "id": "ticketweb:15073303",
+   "venue": "Dante's",
+   "title": "BAZ MOTO followed by Sinferbno Cabaret",
+   "support": "",
+   "date": "2026-12-27",
+   "url": "https://www.danteslive.com/tm-event/baz-moto-followed-by-sinferbno-cabaret/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Dante's",
+   "first_seen": "2026-11-26T08:09:05+00:00",
+   "baseline": false
+  },
   {
    "id": "etix:97374107",
    "venue": "Mississippi Studios",

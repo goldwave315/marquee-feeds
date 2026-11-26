@@ -1,154 +1,139 @@
 {
- "updated": "2026-11-25T23:36:44+00:00",
+ "updated": "2026-11-26T08:09:05+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 126,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 92,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 80,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 35,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 63,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "The Get Down": {
    "ok": true,
-   "count": 25,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "count": 24,
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 50,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Crystal Ballroom": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Roseland Theater": {
    "ok": true,
-   "count": 31,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "count": 30,
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Hawthorne Theatre": {
    "ok": true,
    "count": 43,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Alberta Rose Theatre": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Dante's": {
    "ok": true,
-   "count": 41,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "count": 42,
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Turn! Turn! Turn!": {
    "ok": true,
    "count": 19,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "White Eagle Saloon": {
    "ok": true,
-   "count": 45,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "count": 44,
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Mission Theater": {
    "ok": true,
-   "count": 49,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "count": 48,
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "The Showdown": {
    "ok": true,
    "count": 53,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Laurelthirst Public House": {
    "ok": true,
    "count": 6,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Alberta Street Pub": {
    "ok": true,
    "count": 47,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Swan Dive": {
    "ok": true,
-   "count": 27,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "count": 25,
+   "checked": "2026-11-26T08:09:05+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 66,
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-25T23:36:44+00:00"
+   "checked": "2026-11-26T08:09:05+00:00"
   }
  },
  "events": [
-  {
-   "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
-   "venue": "The Get Down",
-   "title": "Shafty: Portland's Tribute to Phish (Night 1)",
-   "support": "",
-   "date": "2026-11-24",
-   "url": "https://www.tixr.com/groups/thegetdownpdx/events/shafty-portland-s-tribute-to-phish-2-nights-11-24-11-25--210547",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "getdown",
-   "source_name": "The Get Down",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
   {
    "id": "etix:53477310",
    "venue": "Aladdin Theater",
    "title": "SOLD OUT: Emma Ruth Rundle - THESE KILLING TIMES",
    "support": "Cinder Well",
    "date": "2026-11-25",
-   "url": "https://www.etix.com/ticket/p/53477310/sold-outemma-ruth-rundle-these-killing-times-portland-aladdin-theater",
-   "status": "sold-out",
+   "url": "https://www.aladdin-theater.com",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -156,7 +141,17 @@
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true,
    "sold_out_seen": "2026-11-22T06:48:51+00:00",
-   "sold_out_baseline": true
+   "sold_out_baseline": true,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "sold-out"
+    ],
+    [
+     "2026-11-26T08:09:05+00:00",
+     "not-on-sale"
+    ]
+   ]
   },
   {
    "id": "asp:6af157f17623d61b8828ac3a",
@@ -179,7 +174,7 @@
    "title": "FLASH TRASH: An Electro Dance Party feat. guest DJ set by UFFIE",
    "support": "",
    "date": "2026-11-25",
-   "url": "https://www.etix.com/ticket/p/86481210/flash-trash-an-electro-dance-party-feat-guest-dj-set-by-uffie-21-portland-holocene?partner_id=100",
+   "url": "https://www.holocene.org/calendar",
    "status": "",
    "announced": "2026-11-02T11:00:00-08:00",
    "onsale": "2026-11-02T11:00:00-08:00",
@@ -219,28 +214,13 @@
    "baseline": true
   },
   {
-   "id": "mcmenamins:279116",
-   "venue": "Mission Theater",
-   "title": "The Shindig Show with Jimmy Shin",
-   "support": "",
-   "date": "2026-11-25",
-   "url": "https://www.mcmenamins.com/events/279116-the-shindig-show-with-jimmy-shin",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "mcmenamins",
-   "source_name": "Mission Theater",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "etix:36469338",
    "venue": "Mississippi Studios",
    "title": "The Pynnacles + Jewelry Exchange",
    "support": "",
    "date": "2026-11-25",
-   "url": "https://www.etix.com/ticket/p/36469338/the-pynnacles-jewelry-exchange-portland-mississippi-studios",
-   "status": "on-sale",
+   "url": "https://mississippistudios.com",
+   "status": "",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -254,8 +234,8 @@
    "title": "MOVED TO ALADDIN THEATER: Emma Ruth Rundle - THESE KILLING TIMES",
    "support": "Cinder Well",
    "date": "2026-11-25",
-   "url": "https://www.etix.com/ticket/p/94434785/moved-to-aladdin-theateremma-ruth-rundle-these-killing-times-portland-polaris-hall",
-   "status": "sold-out",
+   "url": "https://mississippistudios.com",
+   "status": "",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -271,61 +251,24 @@
    "title": "Scott Bradlee’s Postmodern Jukebox – The Future Is Vintage World Tour",
    "support": "",
    "date": "2026-11-25",
-   "url": "https://www.etix.com/ticket/p/33093850/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour-portland-revolution-hall",
-   "status": "on-sale",
+   "url": "https://www.revolutionhall.com",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:53260583",
-   "venue": "Roseland Theater",
-   "title": "Saosin: 20 Years of Self-Titled",
-   "support": "Silent Planet, Like Moths To Flames, & Save Us",
-   "date": "2026-11-25",
-   "url": "https://www.etix.com/ticket/p/53260583/saosin20-years-of-selftitled-portland-roseland-theater",
-   "status": "sold-out",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Roseland Theater",
-   "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true,
-   "sold_out_seen": "2026-11-24T16:14:17+00:00",
-   "sold_out_baseline": true
-  },
-  {
-   "id": "swandive:6ac71448c6247d2b4337860d",
-   "venue": "Swan Dive",
-   "title": "Fraxlom (Chicago) + Saoirse Dream",
-   "support": "",
-   "date": "2026-11-25",
-   "url": "https://www.swandivepdx.com/events-2-1/fraxlom-chicago-saoirse-dream",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "swandive",
-   "source_name": "Swan Dive",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "swandive:6aeab249e08c1e73bc744ccc",
-   "venue": "Swan Dive",
-   "title": "The Gothic Pilgrimage 2026",
-   "support": "",
-   "date": "2026-11-25",
-   "url": "https://www.swandivepdx.com/events-2-1/the-gothic-pilgrimage-2026",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "swandive",
-   "source_name": "Swan Dive",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-26T08:09:05+00:00",
+     "not-on-sale"
+    ]
+   ]
   },
   {
    "id": "ticketweb:14364004",
@@ -354,21 +297,6 @@
    "onsale": null,
    "source": "ticketweb",
    "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "mcmenamins:279150",
-   "venue": "White Eagle Saloon",
-   "title": "Bria Damage",
-   "support": "Earth to Ashes",
-   "date": "2026-11-25",
-   "url": "https://www.mcmenamins.com/events/279150-bria-damage",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "mcmenamins",
-   "source_name": "White Eagle Saloon",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
@@ -1164,13 +1092,25 @@
    "support": "",
    "date": "2026-11-29",
    "url": "https://www.etix.com/ticket/p/47724670/the-next-waltz-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Alberta Rose Theatre",
    "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-26T08:09:05+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-26T08:09:05+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "asp:6ac3e1c5db68a81fa2098cec",
@@ -6851,6 +6791,21 @@
    "source_name": "White Eagle Saloon",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
+  },
+  {
+   "id": "ticketweb:15073303",
+   "venue": "Dante's",
+   "title": "BAZ MOTO followed by Sinferbno Cabaret",
+   "support": "",
+   "date": "2026-12-27",
+   "url": "https://www.danteslive.com/tm-event/baz-moto-followed-by-sinferbno-cabaret/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Dante's",
+   "first_seen": "2026-11-26T08:09:05+00:00",
+   "baseline": false
   },
   {
    "id": "ticketweb:14230944",
