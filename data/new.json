@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-26T18:58:29+00:00",
+ "updated": "2026-11-27T03:37:25+00:00",
  "window_days": 14,
- "count": 58,
+ "count": 59,
  "events": [
+  {
+   "id": "opendate:806010",
+   "venue": "Turn! Turn! Turn!",
+   "title": "Water Shrews + V. Vecker (Fla) + Tom Scully (Sea) + PatrickMcCauley",
+   "support": "",
+   "date": "2026-12-18",
+   "url": "https://app.opendate.io/e/water-shrews-v-vecker-fla-tom-scully-sea-patrickmccauley-december-18-2026-806010",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "opendate",
+   "source_name": "Turn! Turn! Turn!",
+   "first_seen": "2026-11-27T03:37:25+00:00",
+   "baseline": false
+  },
   {
    "id": "laurelthirst:https://laurelthirst.com/events/reb-the-good-news-barn-party/",
    "venue": "Laurelthirst Public House",
