@@ -7248,5 +7248,23 @@
  "opendate:806010": {
   "first_seen": "2026-11-27T03:37:25+00:00",
   "baseline": false
+ },
+ "rhp:https://hawthornetheatre.com/event/matt-hansen-the-orchid-tour-soundcheck-experience-upgrade-entry-ticket-not-included/hawthorne-theatre/portland-oregon/": {
+  "first_seen": "2026-11-27T16:34:22+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-27T16:34:22+00:00",
+    "off-sale"
+   ]
+  ]
+ },
+ "laurelthirst:https://laurelthirst.com/events/sleepy-lagoon-11/": {
+  "first_seen": "2026-11-27T16:34:22+00:00",
+  "baseline": false
+ },
+ "songkick:43543384": {
+  "first_seen": "2026-11-27T16:34:22+00:00",
+  "baseline": false
  }
 }

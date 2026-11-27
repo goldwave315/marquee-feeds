@@ -1,146 +1,131 @@
 {
- "updated": "2026-11-27T03:37:25+00:00",
+ "updated": "2026-11-27T16:34:22+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 124,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 36,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 62,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 24,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 49,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Crystal Ballroom": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Roseland Theater": {
    "ok": true,
    "count": 30,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Hawthorne Theatre": {
    "ok": true,
    "count": 43,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Alberta Rose Theatre": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Dante's": {
    "ok": true,
    "count": 42,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Turn! Turn! Turn!": {
    "ok": true,
    "count": 20,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "White Eagle Saloon": {
-   "ok": false,
-   "error": "ReadTimeout: HTTPSConnectionPool(host='www.mcmenamins.com', port=443): Read timed out. (read timeout=30)",
-   "checked": "2026-11-27T03:37:25+00:00"
+   "ok": true,
+   "count": 44,
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Mission Theater": {
    "ok": true,
    "count": 48,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "The Showdown": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Laurelthirst Public House": {
    "ok": true,
    "count": 6,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Alberta Street Pub": {
    "ok": true,
    "count": 57,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Swan Dive": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
-   "count": 66,
-   "checked": "2026-11-27T03:37:25+00:00"
+   "count": 67,
+   "checked": "2026-11-27T16:34:22+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-27T03:37:25+00:00"
+   "checked": "2026-11-27T16:34:22+00:00"
   }
  },
  "events": [
-  {
-   "id": "laurelthirst:https://laurelthirst.com/events/closed-for-the-holiday-12/",
-   "venue": "Laurelthirst Public House",
-   "title": "CLOSED for the HOLIDAY",
-   "support": "",
-   "date": "2026-11-26",
-   "url": "https://laurelthirst.com/events/closed-for-the-holiday-12/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "laurelthirst",
-   "source_name": "Laurelthirst Public House",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
   {
    "id": "etix:36374313",
    "venue": "Aladdin Theater",
@@ -1033,6 +1018,21 @@
    "baseline": true
   },
   {
+   "id": "laurelthirst:https://laurelthirst.com/events/sleepy-lagoon-11/",
+   "venue": "Laurelthirst Public House",
+   "title": "Sleepy Lagoon",
+   "support": "",
+   "date": "2026-11-29",
+   "url": "https://laurelthirst.com/events/sleepy-lagoon-11/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "laurelthirst",
+   "source_name": "Laurelthirst Public House",
+   "first_seen": "2026-11-27T16:34:22+00:00",
+   "baseline": false
+  },
+  {
    "id": "etix:95614321",
    "venue": "Revolution Hall",
    "title": "Pink Martini",
@@ -1573,18 +1573,18 @@
    "baseline": true
   },
   {
-   "id": "etix:94810713",
+   "id": "rhp:https://hawthornetheatre.com/event/matt-hansen-the-orchid-tour-soundcheck-experience-upgrade-entry-ticket-not-included/hawthorne-theatre/portland-oregon/",
    "venue": "Hawthorne Theatre",
    "title": "MATT HANSEN – THE ORCHID TOUR – Soundcheck Experience UPGRADE (ENTRY TICKET NOT INCLUDED)",
    "support": "",
    "date": "2026-12-03",
-   "url": "https://www.etix.com/ticket/p/94810713/matt-hansen-the-orchid-tour-soundcheck-experience-upgrade-entry-ticket-not-included-portland-hawthorne-theatre",
-   "status": "on-sale",
+   "url": "https://hawthornetheatre.com/event/matt-hansen-the-orchid-tour-soundcheck-experience-upgrade-entry-ticket-not-included/hawthorne-theatre/portland-oregon/",
+   "status": "off-sale",
    "announced": null,
    "onsale": null,
-   "source": "etix",
+   "source": "rhp",
    "source_name": "Hawthorne Theatre",
-   "first_seen": "2026-11-25T02:22:31+00:00",
+   "first_seen": "2026-11-27T16:34:22+00:00",
    "baseline": false
   },
   {
@@ -13132,6 +13132,23 @@
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "songkick:43543384",
+   "venue": "Wonder Ballroom",
+   "title": "Caroline Rose",
+   "support": "",
+   "date": "2027-03-22",
+   "url": "https://www.songkick.com/concerts/43543384-caroline-rose-at-wonder-ballroom",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "songkick",
+   "tracked_artist": true,
+   "city": "Portland",
+   "source_name": "Songkick tracked artists",
+   "first_seen": "2026-11-27T16:34:22+00:00",
+   "baseline": false
   },
   {
    "id": "etix:35005881",
