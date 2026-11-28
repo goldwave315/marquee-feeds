@@ -1400,8 +1400,14 @@
    [
     "2026-11-22T06:48:51+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-28T11:39:42+00:00",
+  "sold_out_baseline": false
  },
  "etix:91554135": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -1484,8 +1490,14 @@
    [
     "2026-11-22T06:48:51+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-28T11:39:42+00:00",
+  "sold_out_baseline": false
  },
  "etix:62407948": {
   "first_seen": "2026-11-22T06:28:27+00:00",
@@ -2352,6 +2364,10 @@
    [
     "2026-11-22T06:48:51+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "not-on-sale"
    ]
   ]
  },
@@ -5720,6 +5736,10 @@
    [
     "2026-11-26T18:58:29+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "sold-out"
    ]
   ],
   "sold_out_seen": "2026-11-24T16:14:17+00:00",
@@ -5768,8 +5788,14 @@
    [
     "2026-11-24T16:14:17+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-28T11:39:42+00:00",
+  "sold_out_baseline": false
  },
  "etix:53711277": {
   "first_seen": "2026-11-24T16:14:17+00:00",
@@ -5812,8 +5838,14 @@
    [
     "2026-11-24T16:14:17+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-28T11:39:42+00:00",
+  "sold_out_baseline": false
  },
  "etix:56163757": {
   "first_seen": "2026-11-24T16:14:17+00:00",
@@ -5850,8 +5882,14 @@
    [
     "2026-11-24T16:14:17+00:00",
     "on-sale"
+   ],
+   [
+    "2026-11-28T11:39:42+00:00",
+    "sold-out"
    ]
-  ]
+  ],
+  "sold_out_seen": "2026-11-28T11:39:42+00:00",
+  "sold_out_baseline": false
  },
  "etix:32253900": {
   "first_seen": "2026-11-24T16:14:17+00:00",
@@ -7283,6 +7321,22 @@
  },
  "ticketweb:15068913": {
   "first_seen": "2026-11-28T01:26:15+00:00",
+  "baseline": false
+ },
+ "laurelthirst:https://laurelthirst.com/events/freak-mountain-ramblers-53/var/ri-3.l-L1": {
+  "first_seen": "2026-11-28T11:39:42+00:00",
+  "baseline": false
+ },
+ "laurelthirst:https://laurelthirst.com/events/open-mic-hosted-by-johnny-franco-68/var/ri-3.l-L1": {
+  "first_seen": "2026-11-28T11:39:42+00:00",
+  "baseline": false
+ },
+ "swandive:6b0a46347064f67b0f7ab630": {
+  "first_seen": "2026-11-28T11:39:42+00:00",
+  "baseline": false
+ },
+ "swandive:6b0a4935ebf3c86bf678f2b1": {
+  "first_seen": "2026-11-28T11:39:42+00:00",
   "baseline": false
  }
 }

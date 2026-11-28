@@ -1,8 +1,143 @@
 {
- "updated": "2026-11-28T01:26:15+00:00",
+ "updated": "2026-11-28T11:39:42+00:00",
  "note": "sold_out_seen is the first scraper run (every 3 hours) that saw the show sold out. sold_out_baseline true means it was already sold out when first seen, so the real date is earlier.",
- "count": 25,
+ "count": 30,
  "events": [
+  {
+   "id": "etix:36423231",
+   "venue": "Revolution Hall",
+   "title": "Neurosis",
+   "support": "Rhododendron, Great Falls",
+   "date": "2026-11-27",
+   "url": "https://www.etix.com/ticket/p/36423231/neurosis-portland-revolution-hall",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Revolution Hall + Show Bar",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
+  },
+  {
+   "id": "etix:68841618",
+   "venue": "Alberta Rose Theatre",
+   "title": "White Album Xmas",
+   "support": "",
+   "date": "2026-12-04",
+   "url": "https://www.etix.com/ticket/p/68841618/white-album-xmas-portland-alberta-rose-theatre",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Alberta Rose Theatre",
+   "first_seen": "2026-11-24T16:14:17+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
+  },
+  {
+   "id": "etix:58008973",
+   "venue": "Revolution Hall",
+   "title": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
+   "support": "Mary Gauthier",
+   "date": "2026-12-05",
+   "url": "https://www.etix.com/ticket/p/58008973/sanctuary-park-tourcelebrating-40-years-of-the-jayhawks-portland-revolution-hall",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Revolution Hall + Show Bar",
+   "first_seen": "2026-11-22T06:28:27+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
+  },
+  {
+   "id": "etix:93577056",
+   "venue": "Alberta Rose Theatre",
+   "title": "White Album Xmas",
+   "support": "",
+   "date": "2026-12-10",
+   "url": "https://www.etix.com/ticket/p/93577056/white-album-xmas-portland-alberta-rose-theatre",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Alberta Rose Theatre",
+   "first_seen": "2026-11-24T16:14:17+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
+  },
+  {
+   "id": "etix:62225030",
+   "venue": "Alberta Rose Theatre",
+   "title": "White Album Xmas",
+   "support": "",
+   "date": "2026-12-13",
+   "url": "https://www.etix.com/ticket/p/62225030/white-album-xmas-matinee-portland-alberta-rose-theatre",
+   "status": "sold-out",
+   "announced": null,
+   "onsale": null,
+   "source": "etix",
+   "source_name": "Alberta Rose Theatre",
+   "first_seen": "2026-11-24T16:14:17+00:00",
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
+  },
   {
    "id": "etix:45683875",
    "venue": "Polaris Hall",
@@ -145,7 +280,7 @@
    "support": "",
    "date": "2026-11-28",
    "url": "https://www.etix.com/ticket/p/31011747/the-next-waltz-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -170,6 +305,10 @@
     [
      "2026-11-26T18:58:29+00:00",
      "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
     ]
    ]
   },

@@ -1,128 +1,128 @@
 {
- "updated": "2026-11-28T01:26:15+00:00",
+ "updated": "2026-11-28T11:39:42+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 124,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Star Theater": {
    "ok": true,
-   "count": 36,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 35,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 62,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "The Get Down": {
    "ok": true,
-   "count": 24,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 23,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 49,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
-   "count": 39,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 38,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Crystal Ballroom": {
    "ok": true,
-   "count": 51,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 50,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Roseland Theater": {
    "ok": true,
    "count": 30,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Hawthorne Theatre": {
    "ok": true,
-   "count": 43,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 41,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Alberta Rose Theatre": {
    "ok": true,
-   "count": 55,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 54,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Dante's": {
-   "ok": true,
-   "count": 44,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "ok": false,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='www.danteslive.com', port=443): Read timed out. (read timeout=30)",
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Turn! Turn! Turn!": {
    "ok": true,
-   "count": 20,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 19,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "White Eagle Saloon": {
    "ok": true,
-   "count": 44,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 42,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Mission Theater": {
    "ok": true,
-   "count": 48,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 47,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "The Showdown": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Laurelthirst Public House": {
    "ok": true,
    "count": 6,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Alberta Street Pub": {
    "ok": true,
-   "count": 57,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 56,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Swan Dive": {
    "ok": true,
-   "count": 25,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "count": 26,
+   "checked": "2026-11-28T11:39:42+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 67,
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-28T01:26:15+00:00"
+   "checked": "2026-11-28T11:39:42+00:00"
   }
  },
  "events": [
@@ -132,29 +132,24 @@
    "title": "The Storm Large Holiday Ordeal (Night 1)",
    "support": "",
    "date": "2026-11-27",
-   "url": "https://www.etix.com/ticket/p/36374313/the-storm-large-holiday-ordeal-night-1-portland-aladdin-theater",
-   "status": "on-sale",
+   "url": "https://www.aladdin-theater.com",
+   "status": "not-on-sale",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Aladdin Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "etix:40753141",
-   "venue": "Alberta Rose Theatre",
-   "title": "Red Light Romeos’ Yachtsgiving – A Yacht Rock Extravaganza",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.etix.com/ticket/p/40753141/red-light-romeosyachtsgiving-a-yacht-rock-extravaganza-portland-alberta-rose-theatre",
-   "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Alberta Rose Theatre",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "baseline": true,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "not-on-sale"
+    ]
+   ]
   },
   {
    "id": "asp:6adf9c7bb2e4e02c3a0d7020",
@@ -168,36 +163,6 @@
    "onsale": null,
    "source": "asp",
    "source_name": "Alberta Street Pub",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "asp:6af158b00da68c53cff6b08b",
-   "venue": "Alberta Street Pub",
-   "title": "TITS UP",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.albertastreetpub.com/music/2024/2/9/tits-up-3y8x8-z9wpc-wa6yf-6sspp-serrr-xgchh-yckjg-xal9h-ch8p7-ks3km-lskyt",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "asp",
-   "source_name": "Alberta Street Pub",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "crystal:13127",
-   "venue": "Crystal Ballroom",
-   "title": "Decadent 80s Dance Party",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
-   "status": "",
-   "announced": "2026-11-06 10:30:40",
-   "onsale": null,
-   "source": "crystal",
-   "source_name": "Crystal Ballroom",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
@@ -217,42 +182,12 @@
    "baseline": true
   },
   {
-   "id": "etix:95559151",
-   "venue": "Hawthorne Theatre",
-   "title": "Bodysnatcher: Hell Is Here, Hell Is Home Tour",
-   "support": "Gideon, Psycho-Frame, Volatile Ways",
-   "date": "2026-11-27",
-   "url": "https://www.etix.com/ticket/p/95559151/bodysnatcherhell-is-herehell-is-home-tour-portland-hawthorne-theatre",
-   "status": "on-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "etix",
-   "source_name": "Hawthorne Theatre",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "rhp:https://hawthornetheatre.com/event/dj-raphi/hawthorne-theatre/portland-oregon/",
-   "venue": "Hawthorne Theatre",
-   "title": "DJ RAPHI",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://hawthornetheatre.com/event/dj-raphi/hawthorne-theatre/portland-oregon/",
-   "status": "off-sale",
-   "announced": null,
-   "onsale": null,
-   "source": "rhp",
-   "source_name": "Hawthorne Theatre",
-   "first_seen": "2026-11-28T01:26:15+00:00",
-   "baseline": false
-  },
-  {
    "id": "holocene:62961141",
    "venue": "Holocene",
    "title": "SNAP! '90s Dance Party!: '90s Thanksgiving Edition",
    "support": "",
    "date": "2026-11-27",
-   "url": "https://www.etix.com/ticket/p/62961141/snap-90s-dance-party-90s-thanksgiving-edition-21-portland-holocene?partner_id=100",
+   "url": "https://www.holocene.org/calendar",
    "status": "",
    "announced": "2026-11-06T12:30:00-08:00",
    "onsale": "2026-11-06T12:30:00-08:00",
@@ -262,77 +197,17 @@
    "baseline": true
   },
   {
-   "id": "laurelthirst:https://laurelthirst.com/events/michelle-alany-the-mystics-32/",
-   "venue": "Laurelthirst Public House",
-   "title": "Michelle Alany & the Mystics",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://laurelthirst.com/events/michelle-alany-the-mystics-32/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "laurelthirst",
-   "source_name": "Laurelthirst Public House",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "laurelthirst:https://laurelthirst.com/events/lewi-longmire-the-left-coast-roasters-guests/",
-   "venue": "Laurelthirst Public House",
-   "title": "The Left Coast Roasters / Portland Country Underground",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://laurelthirst.com/events/lewi-longmire-the-left-coast-roasters-guests/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "laurelthirst",
-   "source_name": "Laurelthirst Public House",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "mcmenamins:279538",
-   "venue": "Mission Theater",
-   "title": "Holiday Music Bingo",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.mcmenamins.com/events/279538-holiday-music-bingo",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "mcmenamins",
-   "source_name": "Mission Theater",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
    "id": "etix:35054633",
    "venue": "Mississippi Studios",
    "title": "Grand Royale – Beastie Boys Tribute",
    "support": "",
    "date": "2026-11-27",
-   "url": "https://www.etix.com/ticket/p/35054633/grand-royale-beastie-boys-tribute-portland-mississippi-studios",
-   "status": "on-sale",
+   "url": "https://mississippistudios.com",
+   "status": "",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Mississippi Studios + Polaris Hall",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "square:22729",
-   "venue": "Pioneer Courthouse Square",
-   "title": "42nd Annual Tree Lighting Ceremony",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.thesquarepdx.org/event/42nd-annual-tree-lighting-ceremony/",
-   "status": "",
-   "announced": "2026-09-21 14:45:25",
-   "onsale": null,
-   "source": "square",
-   "source_name": "Pioneer Courthouse Square",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
   },
@@ -343,58 +218,25 @@
    "support": "Rhododendron, Great Falls",
    "date": "2026-11-27",
    "url": "https://www.etix.com/ticket/p/36423231/neurosis-portland-revolution-hall",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "ticketweb:14412174",
-   "venue": "Star Theater",
-   "title": "Water & Power: a Night Carnival of climate apocalypse",
-   "support": "The Steep and Thorny Way to Heaven",
-   "date": "2026-11-27",
-   "url": "https://www.startheaterportland.com/tm-event/water-power-a-night-carnival-of-climate-apocalypse/",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "ticketweb",
-   "source_name": "Star Theater",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
-  },
-  {
-   "id": "swandive:6ad9484481347d69bf3fc4b8",
-   "venue": "Swan Dive",
-   "title": "Retro A GO GO VIDEO DANCE PARTY",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.swandivepdx.com/events-2-1/retro-a-go-go-hrwyf-7m3m2-ek2p3",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "swandive",
-   "source_name": "Swan Dive",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "getdown:https://www.tixr.com/groups/thegetdownpdx/events/garcia-birthday-band-night-1-11-27--209679",
-   "venue": "The Get Down",
-   "title": "Garcia Birthday Band (Night 1 - 11/27)",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.tixr.com/groups/thegetdownpdx/events/garcia-birthday-band-night-1-11-27--209679",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "getdown",
-   "source_name": "The Get Down",
-   "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "ticketweb:14447064",
@@ -408,51 +250,6 @@
    "onsale": null,
    "source": "ticketweb",
    "source_name": "The Showdown",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "opendate:805021",
-   "venue": "Turn! Turn! Turn!",
-   "title": "Just Deserts w/ DJ's MIZ KITTY + NOSEWITHEYES + DEFIB + SPACE CADET",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://app.opendate.io/e/just-deserts-w-dj-s-miz-kitty-nosewitheyes-defib-space-cadet-november-27-2026-805021",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "opendate",
-   "source_name": "Turn! Turn! Turn!",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "mcmenamins:279058",
-   "venue": "White Eagle Saloon",
-   "title": "The Annual Best Of Pants On Fire Party: Family/Friendly",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.mcmenamins.com/events/279058-the-annual-best-of-pants-on-fire-party-familyfriendly",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "mcmenamins",
-   "source_name": "White Eagle Saloon",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
-  },
-  {
-   "id": "mcmenamins:279059",
-   "venue": "White Eagle Saloon",
-   "title": "The Annual Best Of Pants On Fire Party: Filthy/Freaky",
-   "support": "",
-   "date": "2026-11-27",
-   "url": "https://www.mcmenamins.com/events/279059-the-annual-best-of-pants-on-fire-party-filthyfreaky",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "mcmenamins",
-   "source_name": "White Eagle Saloon",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
   },
@@ -478,7 +275,7 @@
    "support": "",
    "date": "2026-11-28",
    "url": "https://www.etix.com/ticket/p/31011747/the-next-waltz-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
@@ -503,6 +300,10 @@
     [
      "2026-11-26T18:58:29+00:00",
      "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
     ]
    ]
   },
@@ -1016,6 +817,36 @@
    "source_name": "Holocene",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "laurelthirst:https://laurelthirst.com/events/freak-mountain-ramblers-53/var/ri-3.l-L1",
+   "venue": "Laurelthirst Public House",
+   "title": "Freak Mountain Ramblers",
+   "support": "",
+   "date": "2026-11-29",
+   "url": "https://laurelthirst.com/events/freak-mountain-ramblers-53/var/ri-3.l-L1",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "laurelthirst",
+   "source_name": "Laurelthirst Public House",
+   "first_seen": "2026-11-28T11:39:42+00:00",
+   "baseline": false
+  },
+  {
+   "id": "laurelthirst:https://laurelthirst.com/events/open-mic-hosted-by-johnny-franco-68/var/ri-3.l-L1",
+   "venue": "Laurelthirst Public House",
+   "title": "OPEN MIC hosted by JOHNNY FRANCO",
+   "support": "",
+   "date": "2026-11-29",
+   "url": "https://laurelthirst.com/events/open-mic-hosted-by-johnny-franco-68/var/ri-3.l-L1",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "laurelthirst",
+   "source_name": "Laurelthirst Public House",
+   "first_seen": "2026-11-28T11:39:42+00:00",
+   "baseline": false
   },
   {
    "id": "laurelthirst:https://laurelthirst.com/events/sleepy-lagoon-11/",
@@ -1763,13 +1594,25 @@
    "support": "",
    "date": "2026-12-04",
    "url": "https://www.etix.com/ticket/p/68841618/white-album-xmas-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Alberta Rose Theatre",
    "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "asp:6af1607bd5d60d59e00b1d26",
@@ -2449,13 +2292,25 @@
    "support": "Mary Gauthier",
    "date": "2026-12-05",
    "url": "https://www.etix.com/ticket/p/58008973/sanctuary-park-tourcelebrating-40-years-of-the-jayhawks-portland-revolution-hall",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Revolution Hall + Show Bar",
    "first_seen": "2026-11-22T06:28:27+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-22T06:48:51+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "etix:66168666",
@@ -2897,6 +2752,21 @@
    "source_name": "Star Theater",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "swandive:6b0a46347064f67b0f7ab630",
+   "venue": "Swan Dive",
+   "title": "Ashby Bison + You Loom Angelic + Orange Cat IQ Test + Ultraviolet",
+   "support": "",
+   "date": "2026-12-06",
+   "url": "https://www.swandivepdx.com/events-2-1/time-theft-bonus-room-slow-pony-z5rzr",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "swandive",
+   "source_name": "Swan Dive",
+   "first_seen": "2026-11-28T11:39:42+00:00",
+   "baseline": false
   },
   {
    "id": "ticketweb:14314824",
@@ -3494,13 +3364,25 @@
    "support": "",
    "date": "2026-12-10",
    "url": "https://www.etix.com/ticket/p/93577056/white-album-xmas-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Alberta Rose Theatre",
    "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "asp:6af16235980f3f7fcdc389d7",
@@ -3713,12 +3595,12 @@
    "baseline": true
   },
   {
-   "id": "swandive:6ad83dbd21209a1a82a76fd9",
+   "id": "swandive:6afceb0e116e6603cd0ce699",
    "venue": "Swan Dive",
-   "title": "SONIDO TROPICAL W/ DJ PAPI FIMBRES",
+   "title": "Chaotic Neutral + Carrion Empire",
    "support": "",
    "date": "2026-12-10",
-   "url": "https://www.swandivepdx.com/events-2-1/sonido-tropical-w-dj-papi-fimbres-p24ad",
+   "url": "https://www.swandivepdx.com/events-2-1/simple-forms-chaotic-neutral",
    "status": "",
    "announced": null,
    "onsale": null,
@@ -3728,12 +3610,12 @@
    "baseline": true
   },
   {
-   "id": "swandive:6afceb0e116e6603cd0ce699",
+   "id": "swandive:6ad83dbd21209a1a82a76fd9",
    "venue": "Swan Dive",
-   "title": "Simple Forms + Chaotic Neutral",
+   "title": "SONIDO TROPICAL W/ DJ PAPI FIMBRES",
    "support": "",
    "date": "2026-12-10",
-   "url": "https://www.swandivepdx.com/events-2-1/simple-forms-chaotic-neutral",
+   "url": "https://www.swandivepdx.com/events-2-1/sonido-tropical-w-dj-papi-fimbres-p24ad",
    "status": "",
    "announced": null,
    "onsale": null,
@@ -4564,13 +4446,25 @@
    "support": "",
    "date": "2026-12-13",
    "url": "https://www.etix.com/ticket/p/62225030/white-album-xmas-matinee-portland-alberta-rose-theatre",
-   "status": "on-sale",
+   "status": "sold-out",
    "announced": null,
    "onsale": null,
    "source": "etix",
    "source_name": "Alberta Rose Theatre",
    "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "baseline": true,
+   "sold_out_seen": "2026-11-28T11:39:42+00:00",
+   "sold_out_baseline": false,
+   "status_history": [
+    [
+     "2026-11-24T16:14:17+00:00",
+     "on-sale"
+    ],
+    [
+     "2026-11-28T11:39:42+00:00",
+     "sold-out"
+    ]
+   ]
   },
   {
    "id": "asp:6af98f9dbb08207808bbd9a7",
@@ -8548,6 +8442,21 @@
    "source_name": "Mississippi Studios + Polaris Hall",
    "first_seen": "2026-11-22T06:28:27+00:00",
    "baseline": true
+  },
+  {
+   "id": "swandive:6b0a4935ebf3c86bf678f2b1",
+   "venue": "Swan Dive",
+   "title": "Marinero (LA) + Salmon Doza + Slipper",
+   "support": "",
+   "date": "2027-01-19",
+   "url": "https://www.swandivepdx.com/events-2-1/time-theft-bonus-room-slow-pony-z5rzr-lg5bl-ghc8m",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "swandive",
+   "source_name": "Swan Dive",
+   "first_seen": "2026-11-28T11:39:42+00:00",
+   "baseline": false
   },
   {
    "id": "etix:44556174",
