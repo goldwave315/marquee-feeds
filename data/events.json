@@ -1,128 +1,128 @@
 {
- "updated": "2026-11-27T16:34:22+00:00",
+ "updated": "2026-11-28T01:26:15+00:00",
  "note": "first_seen is when this scraper first saw the show. Shows marked baseline were already listed when the scraper first read that venue, so they are not news.",
  "sources": {
   "Mississippi Studios + Polaris Hall": {
    "ok": true,
    "count": 124,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Revolution Hall + Show Bar": {
    "ok": true,
    "count": 91,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Aladdin Theater": {
    "ok": true,
    "count": 79,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Star Theater": {
    "ok": true,
    "count": 36,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Jack London Revue": {
    "ok": true,
    "count": 62,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "The Get Down": {
    "ok": true,
    "count": 24,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Wonder Ballroom": {
    "ok": true,
    "count": 32,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Holocene": {
    "ok": true,
    "count": 49,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Pioneer Courthouse Square": {
    "ok": true,
    "count": 39,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Edgefield": {
    "ok": true,
    "count": 3,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Crystal Ballroom": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Roseland Theater": {
    "ok": true,
    "count": 30,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Hawthorne Theatre": {
    "ok": true,
    "count": 43,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Alberta Rose Theatre": {
    "ok": true,
    "count": 55,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Dante's": {
    "ok": true,
-   "count": 42,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "count": 44,
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Turn! Turn! Turn!": {
    "ok": true,
    "count": 20,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "White Eagle Saloon": {
    "ok": true,
    "count": 44,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Mission Theater": {
    "ok": true,
    "count": 48,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "The Showdown": {
    "ok": true,
    "count": 51,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Laurelthirst Public House": {
    "ok": true,
    "count": 6,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Alberta Street Pub": {
    "ok": true,
    "count": 57,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Swan Dive": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   },
   "Songkick tracked artists": {
    "ok": true,
    "count": 67,
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   }
  },
  "watch": {
   "Doug Fir Lounge website": {
    "up": false,
    "url": "https://www.dougfirlounge.com/",
-   "checked": "2026-11-27T16:34:22+00:00"
+   "checked": "2026-11-28T01:26:15+00:00"
   }
  },
  "events": [
@@ -232,19 +232,19 @@
    "baseline": true
   },
   {
-   "id": "etix:31335817",
+   "id": "rhp:https://hawthornetheatre.com/event/dj-raphi/hawthorne-theatre/portland-oregon/",
    "venue": "Hawthorne Theatre",
    "title": "DJ RAPHI",
    "support": "",
    "date": "2026-11-27",
-   "url": "https://www.etix.com/ticket/p/31335817/dj-raphi-portland-hawthorne-theatre",
-   "status": "on-sale",
+   "url": "https://hawthornetheatre.com/event/dj-raphi/hawthorne-theatre/portland-oregon/",
+   "status": "off-sale",
    "announced": null,
    "onsale": null,
-   "source": "etix",
+   "source": "rhp",
    "source_name": "Hawthorne Theatre",
-   "first_seen": "2026-11-24T16:14:17+00:00",
-   "baseline": true
+   "first_seen": "2026-11-28T01:26:15+00:00",
+   "baseline": false
   },
   {
    "id": "holocene:62961141",
@@ -5464,6 +5464,21 @@
    "baseline": true
   },
   {
+   "id": "opendate:806010",
+   "venue": "Turn! Turn! Turn!",
+   "title": "Water Shrews + V. Vecker (Fla) + Tom Scully (Sea) + PatrickMcCauley",
+   "support": "",
+   "date": "2026-12-17",
+   "url": "https://app.opendate.io/e/water-shrews-v-vecker-fla-tom-scully-sea-patrickmccauley-december-17-2026-806010",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "opendate",
+   "source_name": "Turn! Turn! Turn!",
+   "first_seen": "2026-11-27T03:37:25+00:00",
+   "baseline": false
+  },
+  {
    "id": "mcmenamins:279498",
    "venue": "White Eagle Saloon",
    "title": "Vikings in the Basement",
@@ -5736,21 +5751,6 @@
    "source_name": "The Showdown",
    "first_seen": "2026-11-24T16:14:17+00:00",
    "baseline": true
-  },
-  {
-   "id": "opendate:806010",
-   "venue": "Turn! Turn! Turn!",
-   "title": "Water Shrews + V. Vecker (Fla) + Tom Scully (Sea) + PatrickMcCauley",
-   "support": "",
-   "date": "2026-12-18",
-   "url": "https://app.opendate.io/e/water-shrews-v-vecker-fla-tom-scully-sea-patrickmccauley-december-18-2026-806010",
-   "status": "",
-   "announced": null,
-   "onsale": null,
-   "source": "opendate",
-   "source_name": "Turn! Turn! Turn!",
-   "first_seen": "2026-11-27T03:37:25+00:00",
-   "baseline": false
   },
   {
    "id": "mcmenamins:279499",
@@ -10364,6 +10364,21 @@
    "baseline": true
   },
   {
+   "id": "ticketweb:15075833",
+   "venue": "Dante's",
+   "title": "BLACK HEARTS",
+   "support": "",
+   "date": "2027-02-13",
+   "url": "https://www.danteslive.com/tm-event/black-hearts/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Dante's",
+   "first_seen": "2026-11-28T01:26:15+00:00",
+   "baseline": false
+  },
+  {
    "id": "holocene:45782678",
    "venue": "Holocene",
    "title": "Spend The Night Presents: Jacques Greene",
@@ -10634,6 +10649,21 @@
    "source_name": "Songkick tracked artists",
    "first_seen": "2026-11-22T08:27:12+00:00",
    "baseline": true
+  },
+  {
+   "id": "ticketweb:15068913",
+   "venue": "Dante's",
+   "title": "JEFFREY NOTHING with Sister Kill Cycle & Guests",
+   "support": "",
+   "date": "2027-02-18",
+   "url": "https://www.danteslive.com/tm-event/jeffrey-nothing-with-sister-kill-cycle-guests/",
+   "status": "",
+   "announced": null,
+   "onsale": null,
+   "source": "ticketweb",
+   "source_name": "Dante's",
+   "first_seen": "2026-11-28T01:26:15+00:00",
+   "baseline": false
   },
   {
    "id": "ticketweb:14364654",

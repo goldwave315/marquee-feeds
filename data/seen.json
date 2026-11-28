@@ -7266,5 +7266,23 @@
  "songkick:43543384": {
   "first_seen": "2026-11-27T16:34:22+00:00",
   "baseline": false
+ },
+ "rhp:https://hawthornetheatre.com/event/dj-raphi/hawthorne-theatre/portland-oregon/": {
+  "first_seen": "2026-11-28T01:26:15+00:00",
+  "baseline": false,
+  "status_history": [
+   [
+    "2026-11-28T01:26:15+00:00",
+    "off-sale"
+   ]
+  ]
+ },
+ "ticketweb:15075833": {
+  "first_seen": "2026-11-28T01:26:15+00:00",
+  "baseline": false
+ },
+ "ticketweb:15068913": {
+  "first_seen": "2026-11-28T01:26:15+00:00",
+  "baseline": false
  }
 }
